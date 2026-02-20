@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://sts2guide.com/</loc><priority>1.0</priority><changefreq>daily</changefreq></url>
+  <url><loc>https://sts2guide.com/beginners-guide.html</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://sts2guide.com/characters.html</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://sts2guide.com/co-op-guide.html</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://sts2guide.com/cards-tier-list.html</loc><priority>0.9</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://sts2guide.com/early-access.html</loc><priority>0.8</priority><changefreq>weekly</changefreq></url>
+</urlset>
