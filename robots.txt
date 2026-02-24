@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://slaythespire2guide.com/sitemap.xml

@@ -1,0 +1,68 @@
+name: sts2-auto-update
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run update-all
+        run: |
+          chmod +x scripts/*.sh scripts/*.py
+          make update-all
+
+      - name: Detect changes
+        id: diff
+        run: |
+          if git diff --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit changes to branch
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -B sts2-auto-update
+          git add .
+          git commit -m "Auto-update STS2 datasets + pages" || true
+          git push --force origin sts2-auto-update
+
+      - name: Open/Update PR
+        if: steps.diff.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: sts2-auto-update
+          base: main
+          title: "Auto-update STS2 datasets + pages"
+          commit-message: "Auto-update STS2 datasets + pages"
+          body: |
+            Automated update run.
+            - datasets refreshed
+            - pages regenerated
+            - sitemap/robots refreshed
+
+      - name: Upload debug artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sts2-update-artifacts
+          path: |
+            logs/
+            data/run_summary.json
+            data/change_log.json
+            data/raw_sources.json
+            data/*.json

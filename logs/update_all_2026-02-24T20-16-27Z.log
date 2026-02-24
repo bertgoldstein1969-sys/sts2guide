@@ -1,0 +1,10 @@
+[update_all] start 2026-02-24T20:16:27Z
+1) fetch sources
+raw_sources_updated=1
+2) build datasets
+generated 140 100 20 40 40
+3) validate datasets
+VALIDATION_OK 340
+4) generate pages
+generated pages 340 urls 349
+5) sanity checks

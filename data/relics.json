@@ -1,0 +1,6602 @@
+[
+  {
+    "id": "relic-burning-blood",
+    "name": "Burning Blood",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "survival"
+    ],
+    "shortSummary": "Burning Blood is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-toxic-egg-5",
+      "relic-burning-blood-6",
+      "relic-anchor-6",
+      "relic-cracked-core-7",
+      "relic-pocketwatch-7",
+      "relic-kunai-8",
+      "relic-incense-burner-8",
+      "char-defect",
+      "char-ember-monk",
+      "char-hexaghost-disciple-2",
+      "kw-strength",
+      "kw-stance"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 63,
+    "difficulty": "Medium",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "relic-toxic-egg-5",
+      "relic-burning-blood-6",
+      "relic-anchor-6",
+      "relic-cracked-core-7"
+    ],
+    "worstWith": [
+      "relic-pocketwatch-7",
+      "relic-kunai-8",
+      "relic-incense-burner-8"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-ring-of-the-snake",
+    "name": "Ring of the Snake",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "combo"
+    ],
+    "shortSummary": "Ring of the Snake is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-after-image-8",
+      "card-dualcast-8",
+      "card-bash-9",
+      "card-defend-10",
+      "card-noxious-fumes-10",
+      "card-electrodynamics-11",
+      "card-rebound-11",
+      "card-whirlwind-12",
+      "relic-kunai",
+      "relic-incense-burner",
+      "relic-frozen-egg-2",
+      "relic-ring-of-the-snake-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 55,
+    "difficulty": "Hard",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "card-after-image-8",
+      "card-dualcast-8",
+      "card-bash-9",
+      "card-defend-10"
+    ],
+    "worstWith": [
+      "card-noxious-fumes-10",
+      "card-electrodynamics-11",
+      "card-rebound-11"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-cracked-core",
+    "name": "Cracked Core",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "survival"
+    ],
+    "shortSummary": "Cracked Core is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "kw-scry-3",
+      "build-poison-cycle",
+      "build-exhaust-value",
+      "build-block-fortress-2",
+      "build-strength-ramp-3",
+      "build-debuff-control-3",
+      "build-multi-hit-scaling-4",
+      "card-catalyst",
+      "card-adrenaline",
+      "card-after-image-2",
+      "card-dualcast-2",
+      "card-bash-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 59,
+    "difficulty": "Easy",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "kw-scry-3",
+      "build-poison-cycle",
+      "build-exhaust-value",
+      "build-block-fortress-2"
+    ],
+    "worstWith": [
+      "build-strength-ramp-3",
+      "build-debuff-control-3",
+      "build-multi-hit-scaling-4"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-shuriken",
+    "name": "Shuriken",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "combo"
+    ],
+    "shortSummary": "Shuriken is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "kw-vulnerable-3",
+      "kw-scry-3",
+      "build-poison-cycle",
+      "build-exhaust-value",
+      "build-block-fortress-2",
+      "build-strength-ramp-3",
+      "build-debuff-control-3",
+      "build-multi-hit-scaling-4",
+      "card-catalyst",
+      "card-adrenaline",
+      "card-after-image-2",
+      "card-dualcast-2"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 57,
+    "difficulty": "Easy",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "kw-vulnerable-3",
+      "kw-scry-3",
+      "build-poison-cycle",
+      "build-exhaust-value"
+    ],
+    "worstWith": [
+      "build-block-fortress-2",
+      "build-strength-ramp-3",
+      "build-debuff-control-3"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-kunai",
+    "name": "Kunai",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "survival"
+    ],
+    "shortSummary": "Kunai is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-exhaust-value-2",
+      "build-block-fortress-3",
+      "build-strength-ramp-4",
+      "build-debuff-control-4",
+      "card-whirlwind",
+      "card-strike-2",
+      "card-glacier-2",
+      "card-catalyst-3",
+      "card-adrenaline-3",
+      "card-after-image-4",
+      "card-dualcast-4",
+      "card-bash-5"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 50,
+    "difficulty": "Easy",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "build-exhaust-value-2",
+      "build-block-fortress-3",
+      "build-strength-ramp-4",
+      "build-debuff-control-4"
+    ],
+    "worstWith": [
+      "card-whirlwind",
+      "card-strike-2",
+      "card-glacier-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-toxic-egg",
+    "name": "Toxic Egg",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "combo"
+    ],
+    "shortSummary": "Toxic Egg is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-glacier-2",
+      "card-catalyst-3",
+      "card-adrenaline-3",
+      "card-after-image-4",
+      "card-dualcast-4",
+      "card-bash-5",
+      "card-defend-6",
+      "card-noxious-fumes-6",
+      "card-electrodynamics-7",
+      "card-rebound-7",
+      "card-whirlwind-8",
+      "card-strike-9"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 56,
+    "difficulty": "Hard",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "card-glacier-2",
+      "card-catalyst-3",
+      "card-adrenaline-3",
+      "card-after-image-4"
+    ],
+    "worstWith": [
+      "card-dualcast-4",
+      "card-bash-5",
+      "card-defend-6"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-frozen-egg",
+    "name": "Frozen Egg",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "combo"
+    ],
+    "shortSummary": "Frozen Egg is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "char-runebinder",
+      "char-silent-2",
+      "kw-poison",
+      "kw-retain",
+      "kw-vulnerable-2",
+      "kw-scry-2",
+      "kw-dexterity-3",
+      "kw-echo-3",
+      "build-orb-engine",
+      "build-lightning-burst",
+      "build-retain-tempo-2",
+      "build-zero-cost-burst-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 53,
+    "difficulty": "Medium",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "char-runebinder",
+      "char-silent-2",
+      "kw-poison",
+      "kw-retain"
+    ],
+    "worstWith": [
+      "kw-vulnerable-2",
+      "kw-scry-2",
+      "kw-dexterity-3"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-anchor",
+    "name": "Anchor",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "survival"
+    ],
+    "shortSummary": "Anchor is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-orb-engine-4",
+      "build-lightning-burst-4",
+      "card-bash",
+      "card-defend-2",
+      "card-noxious-fumes-2",
+      "card-electrodynamics-3",
+      "card-rebound-3",
+      "card-whirlwind-4",
+      "card-strike-5",
+      "card-glacier-5",
+      "card-catalyst-6",
+      "card-adrenaline-6"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 67,
+    "difficulty": "Hard",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "build-orb-engine-4",
+      "build-lightning-burst-4",
+      "card-bash",
+      "card-defend-2"
+    ],
+    "worstWith": [
+      "card-noxious-fumes-2",
+      "card-electrodynamics-3",
+      "card-rebound-3"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-preserved-insect",
+    "name": "Preserved Insect",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "survival"
+    ],
+    "shortSummary": "Preserved Insect is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-glacier-5",
+      "card-catalyst-6",
+      "card-adrenaline-6",
+      "card-after-image-7",
+      "card-dualcast-7",
+      "card-bash-8",
+      "card-defend-9",
+      "card-noxious-fumes-9",
+      "card-electrodynamics-10",
+      "card-rebound-10",
+      "card-whirlwind-11",
+      "card-strike-12"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 67,
+    "difficulty": "Easy",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "card-glacier-5",
+      "card-catalyst-6",
+      "card-adrenaline-6",
+      "card-after-image-7"
+    ],
+    "worstWith": [
+      "card-dualcast-7",
+      "card-bash-8",
+      "card-defend-9"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-pocketwatch",
+    "name": "Pocketwatch",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "tempo"
+    ],
+    "shortSummary": "Pocketwatch is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-adrenaline-5",
+      "card-after-image-6",
+      "card-dualcast-6",
+      "card-bash-7",
+      "card-defend-8",
+      "card-noxious-fumes-8",
+      "card-electrodynamics-9",
+      "card-rebound-9",
+      "card-whirlwind-10",
+      "card-strike-11",
+      "card-glacier-11",
+      "card-catalyst-12"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 66,
+    "difficulty": "Easy",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-adrenaline-5",
+      "card-after-image-6",
+      "card-dualcast-6",
+      "card-bash-7"
+    ],
+    "worstWith": [
+      "card-defend-8",
+      "card-noxious-fumes-8",
+      "card-electrodynamics-9"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-bag-of-prep",
+    "name": "Bag of Prep",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "combo"
+    ],
+    "shortSummary": "Bag of Prep is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "kw-strength-3",
+      "kw-stance-3",
+      "build-strength-ramp",
+      "build-debuff-control",
+      "build-multi-hit-scaling-2",
+      "build-orb-engine-3",
+      "build-lightning-burst-3",
+      "build-retain-tempo-4",
+      "card-electrodynamics",
+      "card-rebound",
+      "card-whirlwind-2",
+      "card-strike-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 69,
+    "difficulty": "Medium",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "kw-strength-3",
+      "kw-stance-3",
+      "build-strength-ramp",
+      "build-debuff-control"
+    ],
+    "worstWith": [
+      "build-multi-hit-scaling-2",
+      "build-orb-engine-3",
+      "build-lightning-burst-3"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-incense-burner",
+    "name": "Incense Burner",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "economy"
+    ],
+    "shortSummary": "Incense Burner is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-ring-of-the-snake",
+      "relic-preserved-insect",
+      "relic-shuriken-2",
+      "relic-bag-of-prep-2",
+      "relic-toxic-egg-3",
+      "relic-burning-blood-4",
+      "relic-anchor-4",
+      "relic-cracked-core-5",
+      "relic-pocketwatch-5",
+      "relic-kunai-6",
+      "relic-incense-burner-6",
+      "relic-frozen-egg-7"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 68,
+    "difficulty": "Medium",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "relic-ring-of-the-snake",
+      "relic-preserved-insect",
+      "relic-shuriken-2",
+      "relic-bag-of-prep-2"
+    ],
+    "worstWith": [
+      "relic-toxic-egg-3",
+      "relic-burning-blood-4",
+      "relic-anchor-4"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-burning-blood-2",
+    "name": "Burning Blood 2",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "economy"
+    ],
+    "shortSummary": "Burning Blood 2 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-adrenaline-10",
+      "card-after-image-11",
+      "card-dualcast-11",
+      "card-bash-12",
+      "relic-toxic-egg",
+      "relic-burning-blood-2",
+      "relic-anchor-2",
+      "relic-cracked-core-3",
+      "relic-pocketwatch-3",
+      "relic-kunai-4",
+      "relic-incense-burner-4",
+      "relic-frozen-egg-5"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 65,
+    "difficulty": "Medium",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-adrenaline-10",
+      "card-after-image-11",
+      "card-dualcast-11",
+      "card-bash-12"
+    ],
+    "worstWith": [
+      "relic-toxic-egg",
+      "relic-burning-blood-2",
+      "relic-anchor-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-ring-of-the-snake-2",
+    "name": "Ring of the Snake 2",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "economy"
+    ],
+    "shortSummary": "Ring of the Snake 2 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-after-image-10",
+      "card-dualcast-10",
+      "card-bash-11",
+      "card-defend-12",
+      "relic-burning-blood",
+      "relic-anchor",
+      "relic-cracked-core-2",
+      "relic-pocketwatch-2",
+      "relic-kunai-3",
+      "relic-incense-burner-3",
+      "relic-frozen-egg-4",
+      "relic-ring-of-the-snake-5"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 59,
+    "difficulty": "Hard",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "card-after-image-10",
+      "card-dualcast-10",
+      "card-bash-11",
+      "card-defend-12"
+    ],
+    "worstWith": [
+      "relic-burning-blood",
+      "relic-anchor",
+      "relic-cracked-core-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-cracked-core-2",
+    "name": "Cracked Core 2",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "survival"
+    ],
+    "shortSummary": "Cracked Core 2 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-orb-engine",
+      "build-lightning-burst",
+      "build-retain-tempo-2",
+      "build-zero-cost-burst-3",
+      "build-poison-cycle-4",
+      "build-exhaust-value-4",
+      "card-after-image",
+      "card-dualcast",
+      "card-bash-2",
+      "card-defend-3",
+      "card-noxious-fumes-3",
+      "card-electrodynamics-4"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 58,
+    "difficulty": "Hard",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "build-orb-engine",
+      "build-lightning-burst",
+      "build-retain-tempo-2",
+      "build-zero-cost-burst-3"
+    ],
+    "worstWith": [
+      "build-poison-cycle-4",
+      "build-exhaust-value-4",
+      "card-after-image"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-shuriken-2",
+    "name": "Shuriken 2",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "tempo"
+    ],
+    "shortSummary": "Shuriken 2 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-whirlwind",
+      "card-strike-2",
+      "card-glacier-2",
+      "card-catalyst-3",
+      "card-adrenaline-3",
+      "card-after-image-4",
+      "card-dualcast-4",
+      "card-bash-5",
+      "card-defend-6",
+      "card-noxious-fumes-6",
+      "card-electrodynamics-7",
+      "card-rebound-7"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 53,
+    "difficulty": "Easy",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "card-whirlwind",
+      "card-strike-2",
+      "card-glacier-2",
+      "card-catalyst-3"
+    ],
+    "worstWith": [
+      "card-adrenaline-3",
+      "card-after-image-4",
+      "card-dualcast-4"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-kunai-2",
+    "name": "Kunai 2",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "economy"
+    ],
+    "shortSummary": "Kunai 2 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-defend-10",
+      "card-noxious-fumes-10",
+      "card-electrodynamics-11",
+      "card-rebound-11",
+      "card-whirlwind-12",
+      "relic-kunai",
+      "relic-incense-burner",
+      "relic-frozen-egg-2",
+      "relic-ring-of-the-snake-3",
+      "relic-preserved-insect-3",
+      "relic-shuriken-4",
+      "relic-bag-of-prep-4"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 65,
+    "difficulty": "Easy",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "card-defend-10",
+      "card-noxious-fumes-10",
+      "card-electrodynamics-11",
+      "card-rebound-11"
+    ],
+    "worstWith": [
+      "card-whirlwind-12",
+      "relic-kunai",
+      "relic-incense-burner"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-toxic-egg-2",
+    "name": "Toxic Egg 2",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "economy"
+    ],
+    "shortSummary": "Toxic Egg 2 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-electrodynamics-5",
+      "card-rebound-5",
+      "card-whirlwind-6",
+      "card-strike-7",
+      "card-glacier-7",
+      "card-catalyst-8",
+      "card-adrenaline-8",
+      "card-after-image-9",
+      "card-dualcast-9",
+      "card-bash-10",
+      "card-defend-11",
+      "card-noxious-fumes-11"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 65,
+    "difficulty": "Medium",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "card-electrodynamics-5",
+      "card-rebound-5",
+      "card-whirlwind-6",
+      "card-strike-7"
+    ],
+    "worstWith": [
+      "card-glacier-7",
+      "card-catalyst-8",
+      "card-adrenaline-8"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-frozen-egg-2",
+    "name": "Frozen Egg 2",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "economy"
+    ],
+    "shortSummary": "Frozen Egg 2 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-dualcast-4",
+      "card-bash-5",
+      "card-defend-6",
+      "card-noxious-fumes-6",
+      "card-electrodynamics-7",
+      "card-rebound-7",
+      "card-whirlwind-8",
+      "card-strike-9",
+      "card-glacier-9",
+      "card-catalyst-10",
+      "card-adrenaline-10",
+      "card-after-image-11"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "energy"
+    ],
+    "winRateEstimate": 69,
+    "difficulty": "Medium",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "card-dualcast-4",
+      "card-bash-5",
+      "card-defend-6",
+      "card-noxious-fumes-6"
+    ],
+    "worstWith": [
+      "card-electrodynamics-7",
+      "card-rebound-7",
+      "card-whirlwind-8"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-anchor-2",
+    "name": "Anchor 2",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "economy"
+    ],
+    "shortSummary": "Anchor 2 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "kw-retain-3",
+      "kw-vulnerable-4",
+      "build-multi-hit-scaling",
+      "build-orb-engine-2",
+      "build-lightning-burst-2",
+      "build-retain-tempo-3",
+      "build-zero-cost-burst-4",
+      "card-strike",
+      "card-glacier",
+      "card-catalyst-2",
+      "card-adrenaline-2",
+      "card-after-image-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "energy"
+    ],
+    "winRateEstimate": 51,
+    "difficulty": "Hard",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "kw-retain-3",
+      "kw-vulnerable-4",
+      "build-multi-hit-scaling",
+      "build-orb-engine-2"
+    ],
+    "worstWith": [
+      "build-lightning-burst-2",
+      "build-retain-tempo-3",
+      "build-zero-cost-burst-4"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-preserved-insect-2",
+    "name": "Preserved Insect 2",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "combo"
+    ],
+    "shortSummary": "Preserved Insect 2 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-debuff-control-2",
+      "build-multi-hit-scaling-3",
+      "build-orb-engine-4",
+      "build-lightning-burst-4",
+      "card-bash",
+      "card-defend-2",
+      "card-noxious-fumes-2",
+      "card-electrodynamics-3",
+      "card-rebound-3",
+      "card-whirlwind-4",
+      "card-strike-5",
+      "card-glacier-5"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 72,
+    "difficulty": "Hard",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "build-debuff-control-2",
+      "build-multi-hit-scaling-3",
+      "build-orb-engine-4",
+      "build-lightning-burst-4"
+    ],
+    "worstWith": [
+      "card-bash",
+      "card-defend-2",
+      "card-noxious-fumes-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-pocketwatch-2",
+    "name": "Pocketwatch 2",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "survival"
+    ],
+    "shortSummary": "Pocketwatch 2 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "char-arc-duelist",
+      "char-spire-hunter-2",
+      "kw-dexterity",
+      "kw-echo",
+      "kw-orb-2",
+      "kw-weak-3",
+      "kw-exhaust-3",
+      "kw-strength-4",
+      "build-retain-tempo",
+      "build-zero-cost-burst-2",
+      "build-poison-cycle-3",
+      "build-exhaust-value-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 60,
+    "difficulty": "Hard",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "char-arc-duelist",
+      "char-spire-hunter-2",
+      "kw-dexterity",
+      "kw-echo"
+    ],
+    "worstWith": [
+      "kw-orb-2",
+      "kw-weak-3",
+      "kw-exhaust-3"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-bag-of-prep-2",
+    "name": "Bag of Prep 2",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "tempo"
+    ],
+    "shortSummary": "Bag of Prep 2 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "kw-echo-2",
+      "kw-orb-3",
+      "kw-weak-4",
+      "build-block-fortress",
+      "build-strength-ramp-2",
+      "build-debuff-control-2",
+      "build-multi-hit-scaling-3",
+      "build-orb-engine-4",
+      "build-lightning-burst-4",
+      "card-bash",
+      "card-defend-2",
+      "card-noxious-fumes-2"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 48,
+    "difficulty": "Medium",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "kw-echo-2",
+      "kw-orb-3",
+      "kw-weak-4",
+      "build-block-fortress"
+    ],
+    "worstWith": [
+      "build-strength-ramp-2",
+      "build-debuff-control-2",
+      "build-multi-hit-scaling-3"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-incense-burner-2",
+    "name": "Incense Burner 2",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "economy"
+    ],
+    "shortSummary": "Incense Burner 2 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-toxic-egg-6",
+      "relic-burning-blood-7",
+      "relic-anchor-7",
+      "relic-cracked-core-8",
+      "relic-pocketwatch-8",
+      "char-ironclad",
+      "char-aegis-knight",
+      "char-defect-2",
+      "kw-weak",
+      "kw-exhaust",
+      "kw-strength-2",
+      "kw-stance-2"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 59,
+    "difficulty": "Hard",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "relic-toxic-egg-6",
+      "relic-burning-blood-7",
+      "relic-anchor-7",
+      "relic-cracked-core-8"
+    ],
+    "worstWith": [
+      "relic-pocketwatch-8",
+      "char-ironclad",
+      "char-aegis-knight"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-burning-blood-3",
+    "name": "Burning Blood 3",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "survival"
+    ],
+    "shortSummary": "Burning Blood 3 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-debuff-control-3",
+      "build-multi-hit-scaling-4",
+      "card-catalyst",
+      "card-adrenaline",
+      "card-after-image-2",
+      "card-dualcast-2",
+      "card-bash-3",
+      "card-defend-4",
+      "card-noxious-fumes-4",
+      "card-electrodynamics-5",
+      "card-rebound-5",
+      "card-whirlwind-6"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 66,
+    "difficulty": "Medium",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "build-debuff-control-3",
+      "build-multi-hit-scaling-4",
+      "card-catalyst",
+      "card-adrenaline"
+    ],
+    "worstWith": [
+      "card-after-image-2",
+      "card-dualcast-2",
+      "card-bash-3"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-ring-of-the-snake-3",
+    "name": "Ring of the Snake 3",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "tempo"
+    ],
+    "shortSummary": "Ring of the Snake 3 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-bash-11",
+      "card-defend-12",
+      "relic-burning-blood",
+      "relic-anchor",
+      "relic-cracked-core-2",
+      "relic-pocketwatch-2",
+      "relic-kunai-3",
+      "relic-incense-burner-3",
+      "relic-frozen-egg-4",
+      "relic-ring-of-the-snake-5",
+      "relic-preserved-insect-5",
+      "relic-shuriken-6"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 61,
+    "difficulty": "Easy",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-bash-11",
+      "card-defend-12",
+      "relic-burning-blood",
+      "relic-anchor"
+    ],
+    "worstWith": [
+      "relic-cracked-core-2",
+      "relic-pocketwatch-2",
+      "relic-kunai-3"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-cracked-core-3",
+    "name": "Cracked Core 3",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "economy"
+    ],
+    "shortSummary": "Cracked Core 3 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "kw-channel-3",
+      "kw-poison-4",
+      "build-zero-cost-burst",
+      "build-poison-cycle-2",
+      "build-exhaust-value-2",
+      "build-block-fortress-3",
+      "build-strength-ramp-4",
+      "build-debuff-control-4",
+      "card-whirlwind",
+      "card-strike-2",
+      "card-glacier-2",
+      "card-catalyst-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 50,
+    "difficulty": "Easy",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "kw-channel-3",
+      "kw-poison-4",
+      "build-zero-cost-burst",
+      "build-poison-cycle-2"
+    ],
+    "worstWith": [
+      "build-exhaust-value-2",
+      "build-block-fortress-3",
+      "build-strength-ramp-4"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-shuriken-3",
+    "name": "Shuriken 3",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "combo"
+    ],
+    "shortSummary": "Shuriken 3 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-defend-3",
+      "card-noxious-fumes-3",
+      "card-electrodynamics-4",
+      "card-rebound-4",
+      "card-whirlwind-5",
+      "card-strike-6",
+      "card-glacier-6",
+      "card-catalyst-7",
+      "card-adrenaline-7",
+      "card-after-image-8",
+      "card-dualcast-8",
+      "card-bash-9"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 51,
+    "difficulty": "Easy",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "card-defend-3",
+      "card-noxious-fumes-3",
+      "card-electrodynamics-4",
+      "card-rebound-4"
+    ],
+    "worstWith": [
+      "card-whirlwind-5",
+      "card-strike-6",
+      "card-glacier-6"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-kunai-3",
+    "name": "Kunai 3",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "survival"
+    ],
+    "shortSummary": "Kunai 3 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "kw-echo",
+      "kw-orb-2",
+      "kw-weak-3",
+      "kw-exhaust-3",
+      "kw-strength-4",
+      "build-retain-tempo",
+      "build-zero-cost-burst-2",
+      "build-poison-cycle-3",
+      "build-exhaust-value-3",
+      "build-block-fortress-4",
+      "card-defend",
+      "card-noxious-fumes"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 68,
+    "difficulty": "Medium",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "kw-echo",
+      "kw-orb-2",
+      "kw-weak-3",
+      "kw-exhaust-3"
+    ],
+    "worstWith": [
+      "kw-strength-4",
+      "build-retain-tempo",
+      "build-zero-cost-burst-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-toxic-egg-3",
+    "name": "Toxic Egg 3",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "economy"
+    ],
+    "shortSummary": "Toxic Egg 3 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-pocketwatch-6",
+      "relic-kunai-7",
+      "relic-incense-burner-7",
+      "relic-frozen-egg-8",
+      "relic-ring-of-the-snake-9",
+      "char-hexaghost-disciple",
+      "char-bloom-alchemist",
+      "char-runebinder-2",
+      "kw-channel",
+      "kw-poison-2",
+      "kw-retain-2",
+      "kw-vulnerable-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 57,
+    "difficulty": "Hard",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "relic-pocketwatch-6",
+      "relic-kunai-7",
+      "relic-incense-burner-7",
+      "relic-frozen-egg-8"
+    ],
+    "worstWith": [
+      "relic-ring-of-the-snake-9",
+      "char-hexaghost-disciple",
+      "char-bloom-alchemist"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-frozen-egg-3",
+    "name": "Frozen Egg 3",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "tempo"
+    ],
+    "shortSummary": "Frozen Egg 3 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-anchor-7",
+      "relic-cracked-core-8",
+      "relic-pocketwatch-8",
+      "char-ironclad",
+      "char-aegis-knight",
+      "char-defect-2",
+      "kw-weak",
+      "kw-exhaust",
+      "kw-strength-2",
+      "kw-stance-2",
+      "kw-channel-3",
+      "kw-poison-4"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 66,
+    "difficulty": "Medium",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "relic-anchor-7",
+      "relic-cracked-core-8",
+      "relic-pocketwatch-8",
+      "char-ironclad"
+    ],
+    "worstWith": [
+      "char-aegis-knight",
+      "char-defect-2",
+      "kw-weak"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-anchor-3",
+    "name": "Anchor 3",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "tempo"
+    ],
+    "shortSummary": "Anchor 3 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "char-defect",
+      "char-ember-monk",
+      "char-hexaghost-disciple-2",
+      "kw-strength",
+      "kw-stance",
+      "kw-channel-2",
+      "kw-poison-3",
+      "kw-retain-3",
+      "kw-vulnerable-4",
+      "build-multi-hit-scaling",
+      "build-orb-engine-2",
+      "build-lightning-burst-2"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 66,
+    "difficulty": "Medium",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "char-defect",
+      "char-ember-monk",
+      "char-hexaghost-disciple-2",
+      "kw-strength"
+    ],
+    "worstWith": [
+      "kw-stance",
+      "kw-channel-2",
+      "kw-poison-3"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-preserved-insect-3",
+    "name": "Preserved Insect 3",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "survival"
+    ],
+    "shortSummary": "Preserved Insect 3 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-defend-9",
+      "card-noxious-fumes-9",
+      "card-electrodynamics-10",
+      "card-rebound-10",
+      "card-whirlwind-11",
+      "card-strike-12",
+      "card-glacier-12",
+      "relic-frozen-egg",
+      "relic-ring-of-the-snake-2",
+      "relic-preserved-insect-2",
+      "relic-shuriken-3",
+      "relic-bag-of-prep-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 65,
+    "difficulty": "Hard",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-defend-9",
+      "card-noxious-fumes-9",
+      "card-electrodynamics-10",
+      "card-rebound-10"
+    ],
+    "worstWith": [
+      "card-whirlwind-11",
+      "card-strike-12",
+      "card-glacier-12"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-pocketwatch-3",
+    "name": "Pocketwatch 3",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "combo"
+    ],
+    "shortSummary": "Pocketwatch 3 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-bag-of-prep-4",
+      "relic-toxic-egg-5",
+      "relic-burning-blood-6",
+      "relic-anchor-6",
+      "relic-cracked-core-7",
+      "relic-pocketwatch-7",
+      "relic-kunai-8",
+      "relic-incense-burner-8",
+      "char-defect",
+      "char-ember-monk",
+      "char-hexaghost-disciple-2",
+      "kw-strength"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 66,
+    "difficulty": "Hard",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "relic-bag-of-prep-4",
+      "relic-toxic-egg-5",
+      "relic-burning-blood-6",
+      "relic-anchor-6"
+    ],
+    "worstWith": [
+      "relic-cracked-core-7",
+      "relic-pocketwatch-7",
+      "relic-kunai-8"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-bag-of-prep-3",
+    "name": "Bag of Prep 3",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "survival"
+    ],
+    "shortSummary": "Bag of Prep 3 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-kunai-3",
+      "relic-incense-burner-3",
+      "relic-frozen-egg-4",
+      "relic-ring-of-the-snake-5",
+      "relic-preserved-insect-5",
+      "relic-shuriken-6",
+      "relic-bag-of-prep-6",
+      "relic-toxic-egg-7",
+      "relic-burning-blood-8",
+      "relic-anchor-8",
+      "relic-cracked-core-9",
+      "char-spire-hunter"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 58,
+    "difficulty": "Medium",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "relic-kunai-3",
+      "relic-incense-burner-3",
+      "relic-frozen-egg-4",
+      "relic-ring-of-the-snake-5"
+    ],
+    "worstWith": [
+      "relic-preserved-insect-5",
+      "relic-shuriken-6",
+      "relic-bag-of-prep-6"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-incense-burner-3",
+    "name": "Incense Burner 3",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "tempo"
+    ],
+    "shortSummary": "Incense Burner 3 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-zero-cost-burst-2",
+      "build-poison-cycle-3",
+      "build-exhaust-value-3",
+      "build-block-fortress-4",
+      "card-defend",
+      "card-noxious-fumes",
+      "card-electrodynamics-2",
+      "card-rebound-2",
+      "card-whirlwind-3",
+      "card-strike-4",
+      "card-glacier-4",
+      "card-catalyst-5"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 58,
+    "difficulty": "Medium",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "build-zero-cost-burst-2",
+      "build-poison-cycle-3",
+      "build-exhaust-value-3",
+      "build-block-fortress-4"
+    ],
+    "worstWith": [
+      "card-defend",
+      "card-noxious-fumes",
+      "card-electrodynamics-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-burning-blood-4",
+    "name": "Burning Blood 4",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "combo"
+    ],
+    "shortSummary": "Burning Blood 4 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-poison-cycle-2",
+      "build-exhaust-value-2",
+      "build-block-fortress-3",
+      "build-strength-ramp-4",
+      "build-debuff-control-4",
+      "card-whirlwind",
+      "card-strike-2",
+      "card-glacier-2",
+      "card-catalyst-3",
+      "card-adrenaline-3",
+      "card-after-image-4",
+      "card-dualcast-4"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 49,
+    "difficulty": "Easy",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "build-poison-cycle-2",
+      "build-exhaust-value-2",
+      "build-block-fortress-3",
+      "build-strength-ramp-4"
+    ],
+    "worstWith": [
+      "build-debuff-control-4",
+      "card-whirlwind",
+      "card-strike-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-ring-of-the-snake-4",
+    "name": "Ring of the Snake 4",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "tempo"
+    ],
+    "shortSummary": "Ring of the Snake 4 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-burning-blood-3",
+      "relic-anchor-3",
+      "relic-cracked-core-4",
+      "relic-pocketwatch-4",
+      "relic-kunai-5",
+      "relic-incense-burner-5",
+      "relic-frozen-egg-6",
+      "relic-ring-of-the-snake-7",
+      "relic-preserved-insect-7",
+      "relic-shuriken-8",
+      "relic-bag-of-prep-8",
+      "char-silent"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 63,
+    "difficulty": "Hard",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "relic-burning-blood-3",
+      "relic-anchor-3",
+      "relic-cracked-core-4",
+      "relic-pocketwatch-4"
+    ],
+    "worstWith": [
+      "relic-kunai-5",
+      "relic-incense-burner-5",
+      "relic-frozen-egg-6"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-cracked-core-4",
+    "name": "Cracked Core 4",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "survival"
+    ],
+    "shortSummary": "Cracked Core 4 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-bag-of-prep-8",
+      "char-silent",
+      "char-mist-weaver",
+      "char-watcher-2",
+      "kw-vulnerable",
+      "kw-scry",
+      "kw-dexterity-2",
+      "kw-echo-2",
+      "kw-orb-3",
+      "kw-weak-4",
+      "build-block-fortress",
+      "build-strength-ramp-2"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 50,
+    "difficulty": "Medium",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "relic-bag-of-prep-8",
+      "char-silent",
+      "char-mist-weaver",
+      "char-watcher-2"
+    ],
+    "worstWith": [
+      "kw-vulnerable",
+      "kw-scry",
+      "kw-dexterity-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-shuriken-4",
+    "name": "Shuriken 4",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "economy"
+    ],
+    "shortSummary": "Shuriken 4 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-strike-10",
+      "card-glacier-10",
+      "card-catalyst-11",
+      "card-adrenaline-11",
+      "card-after-image-12",
+      "relic-shuriken",
+      "relic-bag-of-prep",
+      "relic-toxic-egg-2",
+      "relic-burning-blood-3",
+      "relic-anchor-3",
+      "relic-cracked-core-4",
+      "relic-pocketwatch-4"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "energy"
+    ],
+    "winRateEstimate": 60,
+    "difficulty": "Hard",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "card-strike-10",
+      "card-glacier-10",
+      "card-catalyst-11",
+      "card-adrenaline-11"
+    ],
+    "worstWith": [
+      "card-after-image-12",
+      "relic-shuriken",
+      "relic-bag-of-prep"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-kunai-4",
+    "name": "Kunai 4",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "survival"
+    ],
+    "shortSummary": "Kunai 4 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "kw-stance-2",
+      "kw-channel-3",
+      "kw-poison-4",
+      "build-zero-cost-burst",
+      "build-poison-cycle-2",
+      "build-exhaust-value-2",
+      "build-block-fortress-3",
+      "build-strength-ramp-4",
+      "build-debuff-control-4",
+      "card-whirlwind",
+      "card-strike-2",
+      "card-glacier-2"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 52,
+    "difficulty": "Hard",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "kw-stance-2",
+      "kw-channel-3",
+      "kw-poison-4",
+      "build-zero-cost-burst"
+    ],
+    "worstWith": [
+      "build-poison-cycle-2",
+      "build-exhaust-value-2",
+      "build-block-fortress-3"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-toxic-egg-4",
+    "name": "Toxic Egg 4",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "economy"
+    ],
+    "shortSummary": "Toxic Egg 4 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "kw-vulnerable",
+      "kw-scry",
+      "kw-dexterity-2",
+      "kw-echo-2",
+      "kw-orb-3",
+      "kw-weak-4",
+      "build-block-fortress",
+      "build-strength-ramp-2",
+      "build-debuff-control-2",
+      "build-multi-hit-scaling-3",
+      "build-orb-engine-4",
+      "build-lightning-burst-4"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 64,
+    "difficulty": "Hard",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "kw-vulnerable",
+      "kw-scry",
+      "kw-dexterity-2",
+      "kw-echo-2"
+    ],
+    "worstWith": [
+      "kw-orb-3",
+      "kw-weak-4",
+      "build-block-fortress"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-frozen-egg-4",
+    "name": "Frozen Egg 4",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "economy"
+    ],
+    "shortSummary": "Frozen Egg 4 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "kw-retain",
+      "kw-vulnerable-2",
+      "kw-scry-2",
+      "kw-dexterity-3",
+      "kw-echo-3",
+      "build-orb-engine",
+      "build-lightning-burst",
+      "build-retain-tempo-2",
+      "build-zero-cost-burst-3",
+      "build-poison-cycle-4",
+      "build-exhaust-value-4",
+      "card-after-image"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 57,
+    "difficulty": "Medium",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "kw-retain",
+      "kw-vulnerable-2",
+      "kw-scry-2",
+      "kw-dexterity-3"
+    ],
+    "worstWith": [
+      "kw-echo-3",
+      "build-orb-engine",
+      "build-lightning-burst"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-anchor-4",
+    "name": "Anchor 4",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "economy"
+    ],
+    "shortSummary": "Anchor 4 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-defend-10",
+      "card-noxious-fumes-10",
+      "card-electrodynamics-11",
+      "card-rebound-11",
+      "card-whirlwind-12",
+      "relic-kunai",
+      "relic-incense-burner",
+      "relic-frozen-egg-2",
+      "relic-ring-of-the-snake-3",
+      "relic-preserved-insect-3",
+      "relic-shuriken-4",
+      "relic-bag-of-prep-4"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 51,
+    "difficulty": "Hard",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "card-defend-10",
+      "card-noxious-fumes-10",
+      "card-electrodynamics-11",
+      "card-rebound-11"
+    ],
+    "worstWith": [
+      "card-whirlwind-12",
+      "relic-kunai",
+      "relic-incense-burner"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-preserved-insect-4",
+    "name": "Preserved Insect 4",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "survival"
+    ],
+    "shortSummary": "Preserved Insect 4 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "kw-stance",
+      "kw-channel-2",
+      "kw-poison-3",
+      "kw-retain-3",
+      "kw-vulnerable-4",
+      "build-multi-hit-scaling",
+      "build-orb-engine-2",
+      "build-lightning-burst-2",
+      "build-retain-tempo-3",
+      "build-zero-cost-burst-4",
+      "card-strike",
+      "card-glacier"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 63,
+    "difficulty": "Easy",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "kw-stance",
+      "kw-channel-2",
+      "kw-poison-3",
+      "kw-retain-3"
+    ],
+    "worstWith": [
+      "kw-vulnerable-4",
+      "build-multi-hit-scaling",
+      "build-orb-engine-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-pocketwatch-4",
+    "name": "Pocketwatch 4",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "economy"
+    ],
+    "shortSummary": "Pocketwatch 4 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-burning-blood-7",
+      "relic-anchor-7",
+      "relic-cracked-core-8",
+      "relic-pocketwatch-8",
+      "char-ironclad",
+      "char-aegis-knight",
+      "char-defect-2",
+      "kw-weak",
+      "kw-exhaust",
+      "kw-strength-2",
+      "kw-stance-2",
+      "kw-channel-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 69,
+    "difficulty": "Hard",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "relic-burning-blood-7",
+      "relic-anchor-7",
+      "relic-cracked-core-8",
+      "relic-pocketwatch-8"
+    ],
+    "worstWith": [
+      "char-ironclad",
+      "char-aegis-knight",
+      "char-defect-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-bag-of-prep-4",
+    "name": "Bag of Prep 4",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "economy"
+    ],
+    "shortSummary": "Bag of Prep 4 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-bag-of-prep-8",
+      "char-silent",
+      "char-mist-weaver",
+      "char-watcher-2",
+      "kw-vulnerable",
+      "kw-scry",
+      "kw-dexterity-2",
+      "kw-echo-2",
+      "kw-orb-3",
+      "kw-weak-4",
+      "build-block-fortress",
+      "build-strength-ramp-2"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 51,
+    "difficulty": "Easy",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "relic-bag-of-prep-8",
+      "char-silent",
+      "char-mist-weaver",
+      "char-watcher-2"
+    ],
+    "worstWith": [
+      "kw-vulnerable",
+      "kw-scry",
+      "kw-dexterity-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-incense-burner-4",
+    "name": "Incense Burner 4",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "tempo"
+    ],
+    "shortSummary": "Incense Burner 4 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-toxic-egg-5",
+      "relic-burning-blood-6",
+      "relic-anchor-6",
+      "relic-cracked-core-7",
+      "relic-pocketwatch-7",
+      "relic-kunai-8",
+      "relic-incense-burner-8",
+      "char-defect",
+      "char-ember-monk",
+      "char-hexaghost-disciple-2",
+      "kw-strength",
+      "kw-stance"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 59,
+    "difficulty": "Hard",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "relic-toxic-egg-5",
+      "relic-burning-blood-6",
+      "relic-anchor-6",
+      "relic-cracked-core-7"
+    ],
+    "worstWith": [
+      "relic-pocketwatch-7",
+      "relic-kunai-8",
+      "relic-incense-burner-8"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-burning-blood-5",
+    "name": "Burning Blood 5",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "economy"
+    ],
+    "shortSummary": "Burning Blood 5 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-block-fortress-2",
+      "build-strength-ramp-3",
+      "build-debuff-control-3",
+      "build-multi-hit-scaling-4",
+      "card-catalyst",
+      "card-adrenaline",
+      "card-after-image-2",
+      "card-dualcast-2",
+      "card-bash-3",
+      "card-defend-4",
+      "card-noxious-fumes-4",
+      "card-electrodynamics-5"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "energy"
+    ],
+    "winRateEstimate": 57,
+    "difficulty": "Easy",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "build-block-fortress-2",
+      "build-strength-ramp-3",
+      "build-debuff-control-3",
+      "build-multi-hit-scaling-4"
+    ],
+    "worstWith": [
+      "card-catalyst",
+      "card-adrenaline",
+      "card-after-image-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-ring-of-the-snake-5",
+    "name": "Ring of the Snake 5",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "combo"
+    ],
+    "shortSummary": "Ring of the Snake 5 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-adrenaline-10",
+      "card-after-image-11",
+      "card-dualcast-11",
+      "card-bash-12",
+      "relic-toxic-egg",
+      "relic-burning-blood-2",
+      "relic-anchor-2",
+      "relic-cracked-core-3",
+      "relic-pocketwatch-3",
+      "relic-kunai-4",
+      "relic-incense-burner-4",
+      "relic-frozen-egg-5"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 53,
+    "difficulty": "Hard",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "card-adrenaline-10",
+      "card-after-image-11",
+      "card-dualcast-11",
+      "card-bash-12"
+    ],
+    "worstWith": [
+      "relic-toxic-egg",
+      "relic-burning-blood-2",
+      "relic-anchor-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-cracked-core-5",
+    "name": "Cracked Core 5",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "survival"
+    ],
+    "shortSummary": "Cracked Core 5 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-preserved-insect-3",
+      "relic-shuriken-4",
+      "relic-bag-of-prep-4",
+      "relic-toxic-egg-5",
+      "relic-burning-blood-6",
+      "relic-anchor-6",
+      "relic-cracked-core-7",
+      "relic-pocketwatch-7",
+      "relic-kunai-8",
+      "relic-incense-burner-8",
+      "char-defect",
+      "char-ember-monk"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 60,
+    "difficulty": "Hard",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "relic-preserved-insect-3",
+      "relic-shuriken-4",
+      "relic-bag-of-prep-4",
+      "relic-toxic-egg-5"
+    ],
+    "worstWith": [
+      "relic-burning-blood-6",
+      "relic-anchor-6",
+      "relic-cracked-core-7"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-shuriken-5",
+    "name": "Shuriken 5",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "combo"
+    ],
+    "shortSummary": "Shuriken 5 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-orb-engine-2",
+      "build-lightning-burst-2",
+      "build-retain-tempo-3",
+      "build-zero-cost-burst-4",
+      "card-strike",
+      "card-glacier",
+      "card-catalyst-2",
+      "card-adrenaline-2",
+      "card-after-image-3",
+      "card-dualcast-3",
+      "card-bash-4",
+      "card-defend-5"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 72,
+    "difficulty": "Medium",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "build-orb-engine-2",
+      "build-lightning-burst-2",
+      "build-retain-tempo-3",
+      "build-zero-cost-burst-4"
+    ],
+    "worstWith": [
+      "card-strike",
+      "card-glacier",
+      "card-catalyst-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-kunai-5",
+    "name": "Kunai 5",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "economy"
+    ],
+    "shortSummary": "Kunai 5 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-noxious-fumes-5",
+      "card-electrodynamics-6",
+      "card-rebound-6",
+      "card-whirlwind-7",
+      "card-strike-8",
+      "card-glacier-8",
+      "card-catalyst-9",
+      "card-adrenaline-9",
+      "card-after-image-10",
+      "card-dualcast-10",
+      "card-bash-11",
+      "card-defend-12"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 65,
+    "difficulty": "Medium",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "card-noxious-fumes-5",
+      "card-electrodynamics-6",
+      "card-rebound-6",
+      "card-whirlwind-7"
+    ],
+    "worstWith": [
+      "card-strike-8",
+      "card-glacier-8",
+      "card-catalyst-9"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-toxic-egg-5",
+    "name": "Toxic Egg 5",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "survival"
+    ],
+    "shortSummary": "Toxic Egg 5 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "kw-echo-3",
+      "build-orb-engine",
+      "build-lightning-burst",
+      "build-retain-tempo-2",
+      "build-zero-cost-burst-3",
+      "build-poison-cycle-4",
+      "build-exhaust-value-4",
+      "card-after-image",
+      "card-dualcast",
+      "card-bash-2",
+      "card-defend-3",
+      "card-noxious-fumes-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 49,
+    "difficulty": "Hard",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "kw-echo-3",
+      "build-orb-engine",
+      "build-lightning-burst",
+      "build-retain-tempo-2"
+    ],
+    "worstWith": [
+      "build-zero-cost-burst-3",
+      "build-poison-cycle-4",
+      "build-exhaust-value-4"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-frozen-egg-5",
+    "name": "Frozen Egg 5",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "economy"
+    ],
+    "shortSummary": "Frozen Egg 5 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-retain-tempo-2",
+      "build-zero-cost-burst-3",
+      "build-poison-cycle-4",
+      "build-exhaust-value-4",
+      "card-after-image",
+      "card-dualcast",
+      "card-bash-2",
+      "card-defend-3",
+      "card-noxious-fumes-3",
+      "card-electrodynamics-4",
+      "card-rebound-4",
+      "card-whirlwind-5"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 66,
+    "difficulty": "Medium",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "build-retain-tempo-2",
+      "build-zero-cost-burst-3",
+      "build-poison-cycle-4",
+      "build-exhaust-value-4"
+    ],
+    "worstWith": [
+      "card-after-image",
+      "card-dualcast",
+      "card-bash-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-anchor-5",
+    "name": "Anchor 5",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "combo"
+    ],
+    "shortSummary": "Anchor 5 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-cracked-core-9",
+      "char-spire-hunter",
+      "char-ironclad-2",
+      "char-aegis-knight-2",
+      "kw-orb",
+      "kw-weak-2",
+      "kw-exhaust-2",
+      "kw-strength-3",
+      "kw-stance-3",
+      "build-strength-ramp",
+      "build-debuff-control",
+      "build-multi-hit-scaling-2"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "energy"
+    ],
+    "winRateEstimate": 61,
+    "difficulty": "Easy",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "relic-cracked-core-9",
+      "char-spire-hunter",
+      "char-ironclad-2",
+      "char-aegis-knight-2"
+    ],
+    "worstWith": [
+      "kw-orb",
+      "kw-weak-2",
+      "kw-exhaust-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-preserved-insect-5",
+    "name": "Preserved Insect 5",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "economy"
+    ],
+    "shortSummary": "Preserved Insect 5 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-toxic-egg",
+      "relic-burning-blood-2",
+      "relic-anchor-2",
+      "relic-cracked-core-3",
+      "relic-pocketwatch-3",
+      "relic-kunai-4",
+      "relic-incense-burner-4",
+      "relic-frozen-egg-5",
+      "relic-ring-of-the-snake-6",
+      "relic-preserved-insect-6",
+      "relic-shuriken-7",
+      "relic-bag-of-prep-7"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 51,
+    "difficulty": "Medium",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "relic-toxic-egg",
+      "relic-burning-blood-2",
+      "relic-anchor-2",
+      "relic-cracked-core-3"
+    ],
+    "worstWith": [
+      "relic-pocketwatch-3",
+      "relic-kunai-4",
+      "relic-incense-burner-4"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-pocketwatch-5",
+    "name": "Pocketwatch 5",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "tempo"
+    ],
+    "shortSummary": "Pocketwatch 5 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-kunai-5",
+      "relic-incense-burner-5",
+      "relic-frozen-egg-6",
+      "relic-ring-of-the-snake-7",
+      "relic-preserved-insect-7",
+      "relic-shuriken-8",
+      "relic-bag-of-prep-8",
+      "char-silent",
+      "char-mist-weaver",
+      "char-watcher-2",
+      "kw-vulnerable",
+      "kw-scry"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 64,
+    "difficulty": "Medium",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "relic-kunai-5",
+      "relic-incense-burner-5",
+      "relic-frozen-egg-6",
+      "relic-ring-of-the-snake-7"
+    ],
+    "worstWith": [
+      "relic-preserved-insect-7",
+      "relic-shuriken-8",
+      "relic-bag-of-prep-8"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-bag-of-prep-5",
+    "name": "Bag of Prep 5",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "survival"
+    ],
+    "shortSummary": "Bag of Prep 5 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-after-image-5",
+      "card-dualcast-5",
+      "card-bash-6",
+      "card-defend-7",
+      "card-noxious-fumes-7",
+      "card-electrodynamics-8",
+      "card-rebound-8",
+      "card-whirlwind-9",
+      "card-strike-10",
+      "card-glacier-10",
+      "card-catalyst-11",
+      "card-adrenaline-11"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 55,
+    "difficulty": "Easy",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "card-after-image-5",
+      "card-dualcast-5",
+      "card-bash-6",
+      "card-defend-7"
+    ],
+    "worstWith": [
+      "card-noxious-fumes-7",
+      "card-electrodynamics-8",
+      "card-rebound-8"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-incense-burner-5",
+    "name": "Incense Burner 5",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "survival"
+    ],
+    "shortSummary": "Incense Burner 5 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-kunai-2",
+      "relic-incense-burner-2",
+      "relic-frozen-egg-3",
+      "relic-ring-of-the-snake-4",
+      "relic-preserved-insect-4",
+      "relic-shuriken-5",
+      "relic-bag-of-prep-5",
+      "relic-toxic-egg-6",
+      "relic-burning-blood-7",
+      "relic-anchor-7",
+      "relic-cracked-core-8",
+      "relic-pocketwatch-8"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 63,
+    "difficulty": "Easy",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "relic-kunai-2",
+      "relic-incense-burner-2",
+      "relic-frozen-egg-3",
+      "relic-ring-of-the-snake-4"
+    ],
+    "worstWith": [
+      "relic-preserved-insect-4",
+      "relic-shuriken-5",
+      "relic-bag-of-prep-5"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-burning-blood-6",
+    "name": "Burning Blood 6",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "economy"
+    ],
+    "shortSummary": "Burning Blood 6 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-bash-8",
+      "card-defend-9",
+      "card-noxious-fumes-9",
+      "card-electrodynamics-10",
+      "card-rebound-10",
+      "card-whirlwind-11",
+      "card-strike-12",
+      "card-glacier-12",
+      "relic-frozen-egg",
+      "relic-ring-of-the-snake-2",
+      "relic-preserved-insect-2",
+      "relic-shuriken-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 66,
+    "difficulty": "Hard",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "card-bash-8",
+      "card-defend-9",
+      "card-noxious-fumes-9",
+      "card-electrodynamics-10"
+    ],
+    "worstWith": [
+      "card-rebound-10",
+      "card-whirlwind-11",
+      "card-strike-12"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-ring-of-the-snake-6",
+    "name": "Ring of the Snake 6",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "combo"
+    ],
+    "shortSummary": "Ring of the Snake 6 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "char-runebinder",
+      "char-silent-2",
+      "kw-poison",
+      "kw-retain",
+      "kw-vulnerable-2",
+      "kw-scry-2",
+      "kw-dexterity-3",
+      "kw-echo-3",
+      "build-orb-engine",
+      "build-lightning-burst",
+      "build-retain-tempo-2",
+      "build-zero-cost-burst-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 53,
+    "difficulty": "Medium",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "char-runebinder",
+      "char-silent-2",
+      "kw-poison",
+      "kw-retain"
+    ],
+    "worstWith": [
+      "kw-vulnerable-2",
+      "kw-scry-2",
+      "kw-dexterity-3"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-cracked-core-6",
+    "name": "Cracked Core 6",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "tempo"
+    ],
+    "shortSummary": "Cracked Core 6 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-multi-hit-scaling-3",
+      "build-orb-engine-4",
+      "build-lightning-burst-4",
+      "card-bash",
+      "card-defend-2",
+      "card-noxious-fumes-2",
+      "card-electrodynamics-3",
+      "card-rebound-3",
+      "card-whirlwind-4",
+      "card-strike-5",
+      "card-glacier-5",
+      "card-catalyst-6"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 58,
+    "difficulty": "Medium",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "build-multi-hit-scaling-3",
+      "build-orb-engine-4",
+      "build-lightning-burst-4",
+      "card-bash"
+    ],
+    "worstWith": [
+      "card-defend-2",
+      "card-noxious-fumes-2",
+      "card-electrodynamics-3"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-shuriken-6",
+    "name": "Shuriken 6",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "combo"
+    ],
+    "shortSummary": "Shuriken 6 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-incense-burner-7",
+      "relic-frozen-egg-8",
+      "relic-ring-of-the-snake-9",
+      "char-hexaghost-disciple",
+      "char-bloom-alchemist",
+      "char-runebinder-2",
+      "kw-channel",
+      "kw-poison-2",
+      "kw-retain-2",
+      "kw-vulnerable-3",
+      "kw-scry-3",
+      "build-poison-cycle"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "energy"
+    ],
+    "winRateEstimate": 61,
+    "difficulty": "Hard",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "relic-incense-burner-7",
+      "relic-frozen-egg-8",
+      "relic-ring-of-the-snake-9",
+      "char-hexaghost-disciple"
+    ],
+    "worstWith": [
+      "char-bloom-alchemist",
+      "char-runebinder-2",
+      "kw-channel"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-kunai-6",
+    "name": "Kunai 6",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "survival"
+    ],
+    "shortSummary": "Kunai 6 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-incense-burner-3",
+      "relic-frozen-egg-4",
+      "relic-ring-of-the-snake-5",
+      "relic-preserved-insect-5",
+      "relic-shuriken-6",
+      "relic-bag-of-prep-6",
+      "relic-toxic-egg-7",
+      "relic-burning-blood-8",
+      "relic-anchor-8",
+      "relic-cracked-core-9",
+      "char-spire-hunter",
+      "char-ironclad-2"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "energy"
+    ],
+    "winRateEstimate": 70,
+    "difficulty": "Easy",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "relic-incense-burner-3",
+      "relic-frozen-egg-4",
+      "relic-ring-of-the-snake-5",
+      "relic-preserved-insect-5"
+    ],
+    "worstWith": [
+      "relic-shuriken-6",
+      "relic-bag-of-prep-6",
+      "relic-toxic-egg-7"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-toxic-egg-6",
+    "name": "Toxic Egg 6",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "combo"
+    ],
+    "shortSummary": "Toxic Egg 6 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-catalyst-3",
+      "card-adrenaline-3",
+      "card-after-image-4",
+      "card-dualcast-4",
+      "card-bash-5",
+      "card-defend-6",
+      "card-noxious-fumes-6",
+      "card-electrodynamics-7",
+      "card-rebound-7",
+      "card-whirlwind-8",
+      "card-strike-9",
+      "card-glacier-9"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 49,
+    "difficulty": "Hard",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "card-catalyst-3",
+      "card-adrenaline-3",
+      "card-after-image-4",
+      "card-dualcast-4"
+    ],
+    "worstWith": [
+      "card-bash-5",
+      "card-defend-6",
+      "card-noxious-fumes-6"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-frozen-egg-6",
+    "name": "Frozen Egg 6",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "tempo"
+    ],
+    "shortSummary": "Frozen Egg 6 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-rebound-8",
+      "card-whirlwind-9",
+      "card-strike-10",
+      "card-glacier-10",
+      "card-catalyst-11",
+      "card-adrenaline-11",
+      "card-after-image-12",
+      "relic-shuriken",
+      "relic-bag-of-prep",
+      "relic-toxic-egg-2",
+      "relic-burning-blood-3",
+      "relic-anchor-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 69,
+    "difficulty": "Medium",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-rebound-8",
+      "card-whirlwind-9",
+      "card-strike-10",
+      "card-glacier-10"
+    ],
+    "worstWith": [
+      "card-catalyst-11",
+      "card-adrenaline-11",
+      "card-after-image-12"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-anchor-6",
+    "name": "Anchor 6",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "survival"
+    ],
+    "shortSummary": "Anchor 6 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-rebound-10",
+      "card-whirlwind-11",
+      "card-strike-12",
+      "card-glacier-12",
+      "relic-frozen-egg",
+      "relic-ring-of-the-snake-2",
+      "relic-preserved-insect-2",
+      "relic-shuriken-3",
+      "relic-bag-of-prep-3",
+      "relic-toxic-egg-4",
+      "relic-burning-blood-5",
+      "relic-anchor-5"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 48,
+    "difficulty": "Medium",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "card-rebound-10",
+      "card-whirlwind-11",
+      "card-strike-12",
+      "card-glacier-12"
+    ],
+    "worstWith": [
+      "relic-frozen-egg",
+      "relic-ring-of-the-snake-2",
+      "relic-preserved-insect-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-preserved-insect-6",
+    "name": "Preserved Insect 6",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "tempo"
+    ],
+    "shortSummary": "Preserved Insect 6 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-multi-hit-scaling-2",
+      "build-orb-engine-3",
+      "build-lightning-burst-3",
+      "build-retain-tempo-4",
+      "card-electrodynamics",
+      "card-rebound",
+      "card-whirlwind-2",
+      "card-strike-3",
+      "card-glacier-3",
+      "card-catalyst-4",
+      "card-adrenaline-4",
+      "card-after-image-5"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 52,
+    "difficulty": "Easy",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "build-multi-hit-scaling-2",
+      "build-orb-engine-3",
+      "build-lightning-burst-3",
+      "build-retain-tempo-4"
+    ],
+    "worstWith": [
+      "card-electrodynamics",
+      "card-rebound",
+      "card-whirlwind-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-pocketwatch-6",
+    "name": "Pocketwatch 6",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "combo"
+    ],
+    "shortSummary": "Pocketwatch 6 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-defend-5",
+      "card-noxious-fumes-5",
+      "card-electrodynamics-6",
+      "card-rebound-6",
+      "card-whirlwind-7",
+      "card-strike-8",
+      "card-glacier-8",
+      "card-catalyst-9",
+      "card-adrenaline-9",
+      "card-after-image-10",
+      "card-dualcast-10",
+      "card-bash-11"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 68,
+    "difficulty": "Medium",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-defend-5",
+      "card-noxious-fumes-5",
+      "card-electrodynamics-6",
+      "card-rebound-6"
+    ],
+    "worstWith": [
+      "card-whirlwind-7",
+      "card-strike-8",
+      "card-glacier-8"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-bag-of-prep-6",
+    "name": "Bag of Prep 6",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "tempo"
+    ],
+    "shortSummary": "Bag of Prep 6 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-catalyst-11",
+      "card-adrenaline-11",
+      "card-after-image-12",
+      "relic-shuriken",
+      "relic-bag-of-prep",
+      "relic-toxic-egg-2",
+      "relic-burning-blood-3",
+      "relic-anchor-3",
+      "relic-cracked-core-4",
+      "relic-pocketwatch-4",
+      "relic-kunai-5",
+      "relic-incense-burner-5"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "energy"
+    ],
+    "winRateEstimate": 71,
+    "difficulty": "Easy",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "card-catalyst-11",
+      "card-adrenaline-11",
+      "card-after-image-12",
+      "relic-shuriken"
+    ],
+    "worstWith": [
+      "relic-bag-of-prep",
+      "relic-toxic-egg-2",
+      "relic-burning-blood-3"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-incense-burner-6",
+    "name": "Incense Burner 6",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "survival"
+    ],
+    "shortSummary": "Incense Burner 6 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-rebound-11",
+      "card-whirlwind-12",
+      "relic-kunai",
+      "relic-incense-burner",
+      "relic-frozen-egg-2",
+      "relic-ring-of-the-snake-3",
+      "relic-preserved-insect-3",
+      "relic-shuriken-4",
+      "relic-bag-of-prep-4",
+      "relic-toxic-egg-5",
+      "relic-burning-blood-6",
+      "relic-anchor-6"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 60,
+    "difficulty": "Easy",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "card-rebound-11",
+      "card-whirlwind-12",
+      "relic-kunai",
+      "relic-incense-burner"
+    ],
+    "worstWith": [
+      "relic-frozen-egg-2",
+      "relic-ring-of-the-snake-3",
+      "relic-preserved-insect-3"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-burning-blood-7",
+    "name": "Burning Blood 7",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "survival"
+    ],
+    "shortSummary": "Burning Blood 7 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-after-image-6",
+      "card-dualcast-6",
+      "card-bash-7",
+      "card-defend-8",
+      "card-noxious-fumes-8",
+      "card-electrodynamics-9",
+      "card-rebound-9",
+      "card-whirlwind-10",
+      "card-strike-11",
+      "card-glacier-11",
+      "card-catalyst-12",
+      "relic-ring-of-the-snake"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 67,
+    "difficulty": "Medium",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-after-image-6",
+      "card-dualcast-6",
+      "card-bash-7",
+      "card-defend-8"
+    ],
+    "worstWith": [
+      "card-noxious-fumes-8",
+      "card-electrodynamics-9",
+      "card-rebound-9"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-ring-of-the-snake-7",
+    "name": "Ring of the Snake 7",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "survival"
+    ],
+    "shortSummary": "Ring of the Snake 7 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-adrenaline-8",
+      "card-after-image-9",
+      "card-dualcast-9",
+      "card-bash-10",
+      "card-defend-11",
+      "card-noxious-fumes-11",
+      "card-electrodynamics-12",
+      "relic-cracked-core",
+      "relic-pocketwatch",
+      "relic-kunai-2",
+      "relic-incense-burner-2",
+      "relic-frozen-egg-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 66,
+    "difficulty": "Hard",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "card-adrenaline-8",
+      "card-after-image-9",
+      "card-dualcast-9",
+      "card-bash-10"
+    ],
+    "worstWith": [
+      "card-defend-11",
+      "card-noxious-fumes-11",
+      "card-electrodynamics-12"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-cracked-core-7",
+    "name": "Cracked Core 7",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "combo"
+    ],
+    "shortSummary": "Cracked Core 7 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-strength-ramp-2",
+      "build-debuff-control-2",
+      "build-multi-hit-scaling-3",
+      "build-orb-engine-4",
+      "build-lightning-burst-4",
+      "card-bash",
+      "card-defend-2",
+      "card-noxious-fumes-2",
+      "card-electrodynamics-3",
+      "card-rebound-3",
+      "card-whirlwind-4",
+      "card-strike-5"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 61,
+    "difficulty": "Hard",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "build-strength-ramp-2",
+      "build-debuff-control-2",
+      "build-multi-hit-scaling-3",
+      "build-orb-engine-4"
+    ],
+    "worstWith": [
+      "build-lightning-burst-4",
+      "card-bash",
+      "card-defend-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-shuriken-7",
+    "name": "Shuriken 7",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "tempo"
+    ],
+    "shortSummary": "Shuriken 7 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-lightning-burst-4",
+      "card-bash",
+      "card-defend-2",
+      "card-noxious-fumes-2",
+      "card-electrodynamics-3",
+      "card-rebound-3",
+      "card-whirlwind-4",
+      "card-strike-5",
+      "card-glacier-5",
+      "card-catalyst-6",
+      "card-adrenaline-6",
+      "card-after-image-7"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 48,
+    "difficulty": "Medium",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "build-lightning-burst-4",
+      "card-bash",
+      "card-defend-2",
+      "card-noxious-fumes-2"
+    ],
+    "worstWith": [
+      "card-electrodynamics-3",
+      "card-rebound-3",
+      "card-whirlwind-4"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-kunai-7",
+    "name": "Kunai 7",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "tempo"
+    ],
+    "shortSummary": "Kunai 7 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-rebound-2",
+      "card-whirlwind-3",
+      "card-strike-4",
+      "card-glacier-4",
+      "card-catalyst-5",
+      "card-adrenaline-5",
+      "card-after-image-6",
+      "card-dualcast-6",
+      "card-bash-7",
+      "card-defend-8",
+      "card-noxious-fumes-8",
+      "card-electrodynamics-9"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 70,
+    "difficulty": "Easy",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-rebound-2",
+      "card-whirlwind-3",
+      "card-strike-4",
+      "card-glacier-4"
+    ],
+    "worstWith": [
+      "card-catalyst-5",
+      "card-adrenaline-5",
+      "card-after-image-6"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-toxic-egg-7",
+    "name": "Toxic Egg 7",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "tempo"
+    ],
+    "shortSummary": "Toxic Egg 7 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-after-image-3",
+      "card-dualcast-3",
+      "card-bash-4",
+      "card-defend-5",
+      "card-noxious-fumes-5",
+      "card-electrodynamics-6",
+      "card-rebound-6",
+      "card-whirlwind-7",
+      "card-strike-8",
+      "card-glacier-8",
+      "card-catalyst-9",
+      "card-adrenaline-9"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 61,
+    "difficulty": "Easy",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-after-image-3",
+      "card-dualcast-3",
+      "card-bash-4",
+      "card-defend-5"
+    ],
+    "worstWith": [
+      "card-noxious-fumes-5",
+      "card-electrodynamics-6",
+      "card-rebound-6"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-frozen-egg-7",
+    "name": "Frozen Egg 7",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "economy"
+    ],
+    "shortSummary": "Frozen Egg 7 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-electrodynamics-11",
+      "card-rebound-11",
+      "card-whirlwind-12",
+      "relic-kunai",
+      "relic-incense-burner",
+      "relic-frozen-egg-2",
+      "relic-ring-of-the-snake-3",
+      "relic-preserved-insect-3",
+      "relic-shuriken-4",
+      "relic-bag-of-prep-4",
+      "relic-toxic-egg-5",
+      "relic-burning-blood-6"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 72,
+    "difficulty": "Medium",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "card-electrodynamics-11",
+      "card-rebound-11",
+      "card-whirlwind-12",
+      "relic-kunai"
+    ],
+    "worstWith": [
+      "relic-incense-burner",
+      "relic-frozen-egg-2",
+      "relic-ring-of-the-snake-3"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-anchor-7",
+    "name": "Anchor 7",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "combo"
+    ],
+    "shortSummary": "Anchor 7 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-block-fortress",
+      "build-strength-ramp-2",
+      "build-debuff-control-2",
+      "build-multi-hit-scaling-3",
+      "build-orb-engine-4",
+      "build-lightning-burst-4",
+      "card-bash",
+      "card-defend-2",
+      "card-noxious-fumes-2",
+      "card-electrodynamics-3",
+      "card-rebound-3",
+      "card-whirlwind-4"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 56,
+    "difficulty": "Easy",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "build-block-fortress",
+      "build-strength-ramp-2",
+      "build-debuff-control-2",
+      "build-multi-hit-scaling-3"
+    ],
+    "worstWith": [
+      "build-orb-engine-4",
+      "build-lightning-burst-4",
+      "card-bash"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-preserved-insect-7",
+    "name": "Preserved Insect 7",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "combo"
+    ],
+    "shortSummary": "Preserved Insect 7 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-whirlwind-12",
+      "relic-kunai",
+      "relic-incense-burner",
+      "relic-frozen-egg-2",
+      "relic-ring-of-the-snake-3",
+      "relic-preserved-insect-3",
+      "relic-shuriken-4",
+      "relic-bag-of-prep-4",
+      "relic-toxic-egg-5",
+      "relic-burning-blood-6",
+      "relic-anchor-6",
+      "relic-cracked-core-7"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 57,
+    "difficulty": "Hard",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-whirlwind-12",
+      "relic-kunai",
+      "relic-incense-burner",
+      "relic-frozen-egg-2"
+    ],
+    "worstWith": [
+      "relic-ring-of-the-snake-3",
+      "relic-preserved-insect-3",
+      "relic-shuriken-4"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-pocketwatch-7",
+    "name": "Pocketwatch 7",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "combo"
+    ],
+    "shortSummary": "Pocketwatch 7 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-pocketwatch-4",
+      "relic-kunai-5",
+      "relic-incense-burner-5",
+      "relic-frozen-egg-6",
+      "relic-ring-of-the-snake-7",
+      "relic-preserved-insect-7",
+      "relic-shuriken-8",
+      "relic-bag-of-prep-8",
+      "char-silent",
+      "char-mist-weaver",
+      "char-watcher-2",
+      "kw-vulnerable"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 70,
+    "difficulty": "Medium",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "relic-pocketwatch-4",
+      "relic-kunai-5",
+      "relic-incense-burner-5",
+      "relic-frozen-egg-6"
+    ],
+    "worstWith": [
+      "relic-ring-of-the-snake-7",
+      "relic-preserved-insect-7",
+      "relic-shuriken-8"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-bag-of-prep-7",
+    "name": "Bag of Prep 7",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "combo"
+    ],
+    "shortSummary": "Bag of Prep 7 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-after-image-8",
+      "card-dualcast-8",
+      "card-bash-9",
+      "card-defend-10",
+      "card-noxious-fumes-10",
+      "card-electrodynamics-11",
+      "card-rebound-11",
+      "card-whirlwind-12",
+      "relic-kunai",
+      "relic-incense-burner",
+      "relic-frozen-egg-2",
+      "relic-ring-of-the-snake-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 58,
+    "difficulty": "Easy",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-after-image-8",
+      "card-dualcast-8",
+      "card-bash-9",
+      "card-defend-10"
+    ],
+    "worstWith": [
+      "card-noxious-fumes-10",
+      "card-electrodynamics-11",
+      "card-rebound-11"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-incense-burner-7",
+    "name": "Incense Burner 7",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "survival"
+    ],
+    "shortSummary": "Incense Burner 7 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-zero-cost-burst",
+      "build-poison-cycle-2",
+      "build-exhaust-value-2",
+      "build-block-fortress-3",
+      "build-strength-ramp-4",
+      "build-debuff-control-4",
+      "card-whirlwind",
+      "card-strike-2",
+      "card-glacier-2",
+      "card-catalyst-3",
+      "card-adrenaline-3",
+      "card-after-image-4"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "energy"
+    ],
+    "winRateEstimate": 63,
+    "difficulty": "Hard",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "build-zero-cost-burst",
+      "build-poison-cycle-2",
+      "build-exhaust-value-2",
+      "build-block-fortress-3"
+    ],
+    "worstWith": [
+      "build-strength-ramp-4",
+      "build-debuff-control-4",
+      "card-whirlwind"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-burning-blood-8",
+    "name": "Burning Blood 8",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "combo"
+    ],
+    "shortSummary": "Burning Blood 8 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-strike-6",
+      "card-glacier-6",
+      "card-catalyst-7",
+      "card-adrenaline-7",
+      "card-after-image-8",
+      "card-dualcast-8",
+      "card-bash-9",
+      "card-defend-10",
+      "card-noxious-fumes-10",
+      "card-electrodynamics-11",
+      "card-rebound-11",
+      "card-whirlwind-12"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "energy"
+    ],
+    "winRateEstimate": 57,
+    "difficulty": "Easy",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "card-strike-6",
+      "card-glacier-6",
+      "card-catalyst-7",
+      "card-adrenaline-7"
+    ],
+    "worstWith": [
+      "card-after-image-8",
+      "card-dualcast-8",
+      "card-bash-9"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-ring-of-the-snake-8",
+    "name": "Ring of the Snake 8",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "combo"
+    ],
+    "shortSummary": "Ring of the Snake 8 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-block-fortress",
+      "build-strength-ramp-2",
+      "build-debuff-control-2",
+      "build-multi-hit-scaling-3",
+      "build-orb-engine-4",
+      "build-lightning-burst-4",
+      "card-bash",
+      "card-defend-2",
+      "card-noxious-fumes-2",
+      "card-electrodynamics-3",
+      "card-rebound-3",
+      "card-whirlwind-4"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 61,
+    "difficulty": "Medium",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "build-block-fortress",
+      "build-strength-ramp-2",
+      "build-debuff-control-2",
+      "build-multi-hit-scaling-3"
+    ],
+    "worstWith": [
+      "build-orb-engine-4",
+      "build-lightning-burst-4",
+      "card-bash"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-cracked-core-8",
+    "name": "Cracked Core 8",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "survival"
+    ],
+    "shortSummary": "Cracked Core 8 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-bash-9",
+      "card-defend-10",
+      "card-noxious-fumes-10",
+      "card-electrodynamics-11",
+      "card-rebound-11",
+      "card-whirlwind-12",
+      "relic-kunai",
+      "relic-incense-burner",
+      "relic-frozen-egg-2",
+      "relic-ring-of-the-snake-3",
+      "relic-preserved-insect-3",
+      "relic-shuriken-4"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 69,
+    "difficulty": "Hard",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "card-bash-9",
+      "card-defend-10",
+      "card-noxious-fumes-10",
+      "card-electrodynamics-11"
+    ],
+    "worstWith": [
+      "card-rebound-11",
+      "card-whirlwind-12",
+      "relic-kunai"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-shuriken-8",
+    "name": "Shuriken 8",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "economy"
+    ],
+    "shortSummary": "Shuriken 8 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-shuriken-4",
+      "relic-bag-of-prep-4",
+      "relic-toxic-egg-5",
+      "relic-burning-blood-6",
+      "relic-anchor-6",
+      "relic-cracked-core-7",
+      "relic-pocketwatch-7",
+      "relic-kunai-8",
+      "relic-incense-burner-8",
+      "char-defect",
+      "char-ember-monk",
+      "char-hexaghost-disciple-2"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 53,
+    "difficulty": "Hard",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "relic-shuriken-4",
+      "relic-bag-of-prep-4",
+      "relic-toxic-egg-5",
+      "relic-burning-blood-6"
+    ],
+    "worstWith": [
+      "relic-anchor-6",
+      "relic-cracked-core-7",
+      "relic-pocketwatch-7"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-kunai-8",
+    "name": "Kunai 8",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "combo"
+    ],
+    "shortSummary": "Kunai 8 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-bash-2",
+      "card-defend-3",
+      "card-noxious-fumes-3",
+      "card-electrodynamics-4",
+      "card-rebound-4",
+      "card-whirlwind-5",
+      "card-strike-6",
+      "card-glacier-6",
+      "card-catalyst-7",
+      "card-adrenaline-7",
+      "card-after-image-8",
+      "card-dualcast-8"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 58,
+    "difficulty": "Hard",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-bash-2",
+      "card-defend-3",
+      "card-noxious-fumes-3",
+      "card-electrodynamics-4"
+    ],
+    "worstWith": [
+      "card-rebound-4",
+      "card-whirlwind-5",
+      "card-strike-6"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-toxic-egg-8",
+    "name": "Toxic Egg 8",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "economy"
+    ],
+    "shortSummary": "Toxic Egg 8 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-glacier-4",
+      "card-catalyst-5",
+      "card-adrenaline-5",
+      "card-after-image-6",
+      "card-dualcast-6",
+      "card-bash-7",
+      "card-defend-8",
+      "card-noxious-fumes-8",
+      "card-electrodynamics-9",
+      "card-rebound-9",
+      "card-whirlwind-10",
+      "card-strike-11"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "energy"
+    ],
+    "winRateEstimate": 61,
+    "difficulty": "Hard",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "card-glacier-4",
+      "card-catalyst-5",
+      "card-adrenaline-5",
+      "card-after-image-6"
+    ],
+    "worstWith": [
+      "card-dualcast-6",
+      "card-bash-7",
+      "card-defend-8"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-frozen-egg-8",
+    "name": "Frozen Egg 8",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "tempo"
+    ],
+    "shortSummary": "Frozen Egg 8 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-defend-8",
+      "card-noxious-fumes-8",
+      "card-electrodynamics-9",
+      "card-rebound-9",
+      "card-whirlwind-10",
+      "card-strike-11",
+      "card-glacier-11",
+      "card-catalyst-12",
+      "relic-ring-of-the-snake",
+      "relic-preserved-insect",
+      "relic-shuriken-2",
+      "relic-bag-of-prep-2"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 61,
+    "difficulty": "Easy",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "card-defend-8",
+      "card-noxious-fumes-8",
+      "card-electrodynamics-9",
+      "card-rebound-9"
+    ],
+    "worstWith": [
+      "card-whirlwind-10",
+      "card-strike-11",
+      "card-glacier-11"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-anchor-8",
+    "name": "Anchor 8",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "economy"
+    ],
+    "shortSummary": "Anchor 8 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-strike-12",
+      "card-glacier-12",
+      "relic-frozen-egg",
+      "relic-ring-of-the-snake-2",
+      "relic-preserved-insect-2",
+      "relic-shuriken-3",
+      "relic-bag-of-prep-3",
+      "relic-toxic-egg-4",
+      "relic-burning-blood-5",
+      "relic-anchor-5",
+      "relic-cracked-core-6",
+      "relic-pocketwatch-6"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "energy"
+    ],
+    "winRateEstimate": 64,
+    "difficulty": "Medium",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "card-strike-12",
+      "card-glacier-12",
+      "relic-frozen-egg",
+      "relic-ring-of-the-snake-2"
+    ],
+    "worstWith": [
+      "relic-preserved-insect-2",
+      "relic-shuriken-3",
+      "relic-bag-of-prep-3"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-preserved-insect-8",
+    "name": "Preserved Insect 8",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "combo"
+    ],
+    "shortSummary": "Preserved Insect 8 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-anchor-3",
+      "relic-cracked-core-4",
+      "relic-pocketwatch-4",
+      "relic-kunai-5",
+      "relic-incense-burner-5",
+      "relic-frozen-egg-6",
+      "relic-ring-of-the-snake-7",
+      "relic-preserved-insect-7",
+      "relic-shuriken-8",
+      "relic-bag-of-prep-8",
+      "char-silent",
+      "char-mist-weaver"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 48,
+    "difficulty": "Easy",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "relic-anchor-3",
+      "relic-cracked-core-4",
+      "relic-pocketwatch-4",
+      "relic-kunai-5"
+    ],
+    "worstWith": [
+      "relic-incense-burner-5",
+      "relic-frozen-egg-6",
+      "relic-ring-of-the-snake-7"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Rare"
+  },
+  {
+    "id": "relic-pocketwatch-8",
+    "name": "Pocketwatch 8",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "economy"
+    ],
+    "shortSummary": "Pocketwatch 8 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "kw-poison-2",
+      "kw-retain-2",
+      "kw-vulnerable-3",
+      "kw-scry-3",
+      "build-poison-cycle",
+      "build-exhaust-value",
+      "build-block-fortress-2",
+      "build-strength-ramp-3",
+      "build-debuff-control-3",
+      "build-multi-hit-scaling-4",
+      "card-catalyst",
+      "card-adrenaline"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 68,
+    "difficulty": "Hard",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "kw-poison-2",
+      "kw-retain-2",
+      "kw-vulnerable-3",
+      "kw-scry-3"
+    ],
+    "worstWith": [
+      "build-poison-cycle",
+      "build-exhaust-value",
+      "build-block-fortress-2"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-bag-of-prep-8",
+    "name": "Bag of Prep 8",
+    "type": "relics",
+    "tags": [
+      "economy",
+      "survival"
+    ],
+    "shortSummary": "Bag of Prep 8 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-whirlwind-11",
+      "card-strike-12",
+      "card-glacier-12",
+      "relic-frozen-egg",
+      "relic-ring-of-the-snake-2",
+      "relic-preserved-insect-2",
+      "relic-shuriken-3",
+      "relic-bag-of-prep-3",
+      "relic-toxic-egg-4",
+      "relic-burning-blood-5",
+      "relic-anchor-5",
+      "relic-cracked-core-6"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 53,
+    "difficulty": "Easy",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "card-whirlwind-11",
+      "card-strike-12",
+      "card-glacier-12",
+      "relic-frozen-egg"
+    ],
+    "worstWith": [
+      "relic-ring-of-the-snake-2",
+      "relic-preserved-insect-2",
+      "relic-shuriken-3"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-incense-burner-8",
+    "name": "Incense Burner 8",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "survival"
+    ],
+    "shortSummary": "Incense Burner 8 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-electrodynamics-6",
+      "card-rebound-6",
+      "card-whirlwind-7",
+      "card-strike-8",
+      "card-glacier-8",
+      "card-catalyst-9",
+      "card-adrenaline-9",
+      "card-after-image-10",
+      "card-dualcast-10",
+      "card-bash-11",
+      "card-defend-12",
+      "relic-burning-blood"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 67,
+    "difficulty": "Easy",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-electrodynamics-6",
+      "card-rebound-6",
+      "card-whirlwind-7",
+      "card-strike-8"
+    ],
+    "worstWith": [
+      "card-glacier-8",
+      "card-catalyst-9",
+      "card-adrenaline-9"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Boss"
+  },
+  {
+    "id": "relic-burning-blood-9",
+    "name": "Burning Blood 9",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "combo"
+    ],
+    "shortSummary": "Burning Blood 9 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-adrenaline-3",
+      "card-after-image-4",
+      "card-dualcast-4",
+      "card-bash-5",
+      "card-defend-6",
+      "card-noxious-fumes-6",
+      "card-electrodynamics-7",
+      "card-rebound-7",
+      "card-whirlwind-8",
+      "card-strike-9",
+      "card-glacier-9",
+      "card-catalyst-10"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 58,
+    "difficulty": "Hard",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "card-adrenaline-3",
+      "card-after-image-4",
+      "card-dualcast-4",
+      "card-bash-5"
+    ],
+    "worstWith": [
+      "card-defend-6",
+      "card-noxious-fumes-6",
+      "card-electrodynamics-7"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-ring-of-the-snake-9",
+    "name": "Ring of the Snake 9",
+    "type": "relics",
+    "tags": [
+      "survival",
+      "combo"
+    ],
+    "shortSummary": "Ring of the Snake 9 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "kw-orb",
+      "kw-weak-2",
+      "kw-exhaust-2",
+      "kw-strength-3",
+      "kw-stance-3",
+      "build-strength-ramp",
+      "build-debuff-control",
+      "build-multi-hit-scaling-2",
+      "build-orb-engine-3",
+      "build-lightning-burst-3",
+      "build-retain-tempo-4",
+      "card-electrodynamics"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 64,
+    "difficulty": "Easy",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "kw-orb",
+      "kw-weak-2",
+      "kw-exhaust-2",
+      "kw-strength-3"
+    ],
+    "worstWith": [
+      "kw-stance-3",
+      "build-strength-ramp",
+      "build-debuff-control"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  },
+  {
+    "id": "relic-cracked-core-9",
+    "name": "Cracked Core 9",
+    "type": "relics",
+    "tags": [
+      "tempo",
+      "tempo"
+    ],
+    "shortSummary": "Cracked Core 9 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-dualcast-9",
+      "card-bash-10",
+      "card-defend-11",
+      "card-noxious-fumes-11",
+      "card-electrodynamics-12",
+      "relic-cracked-core",
+      "relic-pocketwatch",
+      "relic-kunai-2",
+      "relic-incense-burner-2",
+      "relic-frozen-egg-3",
+      "relic-ring-of-the-snake-4",
+      "relic-preserved-insect-4"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 61,
+    "difficulty": "Hard",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-dualcast-9",
+      "card-bash-10",
+      "card-defend-11",
+      "card-noxious-fumes-11"
+    ],
+    "worstWith": [
+      "card-electrodynamics-12",
+      "relic-cracked-core",
+      "relic-pocketwatch"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Uncommon"
+  },
+  {
+    "id": "relic-shuriken-9",
+    "name": "Shuriken 9",
+    "type": "relics",
+    "tags": [
+      "combo",
+      "economy"
+    ],
+    "shortSummary": "Shuriken 9 is a high-impact relic option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-bag-of-prep-3",
+      "relic-toxic-egg-4",
+      "relic-burning-blood-5",
+      "relic-anchor-5",
+      "relic-cracked-core-6",
+      "relic-pocketwatch-6",
+      "relic-kunai-7",
+      "relic-incense-burner-7",
+      "relic-frozen-egg-8",
+      "relic-ring-of-the-snake-9",
+      "char-hexaghost-disciple",
+      "char-bloom-alchemist"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 55,
+    "difficulty": "Easy",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "relic-bag-of-prep-3",
+      "relic-toxic-egg-4",
+      "relic-burning-blood-5",
+      "relic-anchor-5"
+    ],
+    "worstWith": [
+      "relic-cracked-core-6",
+      "relic-pocketwatch-6",
+      "relic-kunai-7"
+    ],
+    "updatedAt": "2026-02-24T20:16:28Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "rarity": "Common"
+  }
+]
