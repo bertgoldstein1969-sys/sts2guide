@@ -23,6 +23,8 @@ for html in root.rglob('*.html'):
     for href in re.findall(r"href=['\"]([^'\"]+)['\"]", t):
         if href.startswith('http') or href.startswith('#') or href.startswith('mailto:'):
             continue
+        if '${' in href or '{' in href or '}' in href:
+            continue
         if href.startswith('/'):
             path = root / href.lstrip('/')
         else:
