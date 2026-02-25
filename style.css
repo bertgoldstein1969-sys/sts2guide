@@ -273,3 +273,15 @@ strong { color: var(--text); }
   .quick-inner { padding: .45rem .9rem; justify-content: flex-start; overflow:auto; }
   .cta-row .btn{width:100%;text-align:center}
 }
+
+.ad-slot{
+  width:100%;
+  min-height:280px;
+  margin:1rem 0;
+  border:1px solid rgba(255,255,255,.06);
+  border-radius:12px;
+  background:linear-gradient(180deg, rgba(255,255,255,.02), rgba(255,255,255,.01));
+  overflow:hidden;
+}
+.ad-slot[data-format='rectangle']{min-height:250px}
+@media (max-width:760px){.ad-slot{min-height:220px}}
