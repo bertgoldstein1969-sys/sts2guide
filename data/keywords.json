@@ -5,7 +5,7 @@
     "type": "keywords",
     "tags": [
       "mechanic",
-      "mechanic"
+      "synergy"
     ],
     "shortSummary": "Poison is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
     "howToUse": [
@@ -15,6 +15,9 @@
       "Pivot out if elite route pressure outscales current setup."
     ],
     "synergies": [
+      "card-after-image-11",
+      "card-dualcast-11",
+      "card-bash-12",
       "relic-toxic-egg",
       "relic-burning-blood-2",
       "relic-anchor-2",
@@ -23,10 +26,7 @@
       "relic-kunai-4",
       "relic-incense-burner-4",
       "relic-frozen-egg-5",
-      "relic-ring-of-the-snake-6",
-      "relic-preserved-insect-6",
-      "relic-shuriken-7",
-      "relic-bag-of-prep-7"
+      "relic-ring-of-the-snake-6"
     ],
     "countersOrRisks": [
       "Can underperform in low-draw decks.",
@@ -36,23 +36,23 @@
     "unlockOrAvailability": "TBD",
     "tier": "C",
     "synergyTags": [
-      "block"
+      "orb"
     ],
-    "winRateEstimate": 54,
-    "difficulty": "Medium",
-    "actScaling": "Boss-focused",
+    "winRateEstimate": 52,
+    "difficulty": "Easy",
+    "actScaling": "Act 2 stabilize",
     "bestWith": [
-      "relic-toxic-egg",
+      "card-after-image-11",
+      "card-dualcast-11",
+      "card-bash-12",
+      "relic-toxic-egg"
+    ],
+    "worstWith": [
       "relic-burning-blood-2",
       "relic-anchor-2",
       "relic-cracked-core-3"
     ],
-    "worstWith": [
-      "relic-pocketwatch-3",
-      "relic-kunai-4",
-      "relic-incense-burner-4"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
+    "updatedAt": "2026-02-25T00:37:03Z",
     "sources": [
       {
         "label": "Official STS2 Steam",
@@ -63,14 +63,14 @@
         "url": "https://www.megacrit.com/news"
       }
     ],
-    "category": "Debuff"
+    "category": "Buff"
   },
   {
     "id": "kw-weak",
     "name": "Weak",
     "type": "keywords",
     "tags": [
-      "mechanic",
+      "synergy",
       "mechanic"
     ],
     "shortSummary": "Weak is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
@@ -81,18 +81,18 @@
       "Pivot out if elite route pressure outscales current setup."
     ],
     "synergies": [
-      "relic-incense-burner-3",
-      "relic-frozen-egg-4",
-      "relic-ring-of-the-snake-5",
-      "relic-preserved-insect-5",
-      "relic-shuriken-6",
-      "relic-bag-of-prep-6",
-      "relic-toxic-egg-7",
-      "relic-burning-blood-8",
-      "relic-anchor-8",
-      "relic-cracked-core-9",
-      "char-spire-hunter",
-      "char-ironclad-2"
+      "card-electrodynamics-5",
+      "card-rebound-5",
+      "card-whirlwind-6",
+      "card-strike-7",
+      "card-glacier-7",
+      "card-catalyst-8",
+      "card-adrenaline-8",
+      "card-after-image-9",
+      "card-dualcast-9",
+      "card-bash-10",
+      "card-defend-11",
+      "card-noxious-fumes-11"
     ],
     "countersOrRisks": [
       "Can underperform in low-draw decks.",
@@ -100,91 +100,25 @@
       "Risky when route demands immediate burst output."
     ],
     "unlockOrAvailability": "TBD",
-    "tier": "B",
+    "tier": "S",
     "synergyTags": [
-      "draw"
+      "poison"
     ],
-    "winRateEstimate": 62,
-    "difficulty": "Medium",
-    "actScaling": "Boss-focused",
+    "winRateEstimate": 68,
+    "difficulty": "Hard",
+    "actScaling": "Act 1 spike",
     "bestWith": [
-      "relic-incense-burner-3",
-      "relic-frozen-egg-4",
-      "relic-ring-of-the-snake-5",
-      "relic-preserved-insect-5"
+      "card-electrodynamics-5",
+      "card-rebound-5",
+      "card-whirlwind-6",
+      "card-strike-7"
     ],
     "worstWith": [
-      "relic-shuriken-6",
-      "relic-bag-of-prep-6",
-      "relic-toxic-egg-7"
+      "card-glacier-7",
+      "card-catalyst-8",
+      "card-adrenaline-8"
     ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Resource"
-  },
-  {
-    "id": "kw-vulnerable",
-    "name": "Vulnerable",
-    "type": "keywords",
-    "tags": [
-      "mechanic",
-      "mechanic"
-    ],
-    "shortSummary": "Vulnerable is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "card-catalyst-4",
-      "card-adrenaline-4",
-      "card-after-image-5",
-      "card-dualcast-5",
-      "card-bash-6",
-      "card-defend-7",
-      "card-noxious-fumes-7",
-      "card-electrodynamics-8",
-      "card-rebound-8",
-      "card-whirlwind-9",
-      "card-strike-10",
-      "card-glacier-10"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "C",
-    "synergyTags": [
-      "strength"
-    ],
-    "winRateEstimate": 63,
-    "difficulty": "Medium",
-    "actScaling": "Act 3 carry",
-    "bestWith": [
-      "card-catalyst-4",
-      "card-adrenaline-4",
-      "card-after-image-5",
-      "card-dualcast-5"
-    ],
-    "worstWith": [
-      "card-bash-6",
-      "card-defend-7",
-      "card-noxious-fumes-7"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
+    "updatedAt": "2026-02-25T00:37:03Z",
     "sources": [
       {
         "label": "Official STS2 Steam",
@@ -196,6 +130,72 @@
       }
     ],
     "category": "Trigger"
+  },
+  {
+    "id": "kw-vulnerable",
+    "name": "Vulnerable",
+    "type": "keywords",
+    "tags": [
+      "synergy",
+      "mechanic"
+    ],
+    "shortSummary": "Vulnerable is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-cracked-core",
+      "relic-pocketwatch",
+      "relic-kunai-2",
+      "relic-incense-burner-2",
+      "relic-frozen-egg-3",
+      "relic-ring-of-the-snake-4",
+      "relic-preserved-insect-4",
+      "relic-shuriken-5",
+      "relic-bag-of-prep-5",
+      "relic-toxic-egg-6",
+      "relic-burning-blood-7",
+      "relic-anchor-7"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 72,
+    "difficulty": "Hard",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "relic-cracked-core",
+      "relic-pocketwatch",
+      "relic-kunai-2",
+      "relic-incense-burner-2"
+    ],
+    "worstWith": [
+      "relic-frozen-egg-3",
+      "relic-ring-of-the-snake-4",
+      "relic-preserved-insect-4"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Buff"
   },
   {
     "id": "kw-strength",
@@ -213,18 +213,18 @@
       "Pivot out if elite route pressure outscales current setup."
     ],
     "synergies": [
-      "build-orb-engine",
-      "build-lightning-burst",
-      "build-retain-tempo-2",
-      "build-zero-cost-burst-3",
-      "build-poison-cycle-4",
-      "build-exhaust-value-4",
-      "card-after-image",
-      "card-dualcast",
-      "card-bash-2",
-      "card-defend-3",
-      "card-noxious-fumes-3",
-      "card-electrodynamics-4"
+      "card-rebound-8",
+      "card-whirlwind-9",
+      "card-strike-10",
+      "card-glacier-10",
+      "card-catalyst-11",
+      "card-adrenaline-11",
+      "card-after-image-12",
+      "relic-shuriken",
+      "relic-bag-of-prep",
+      "relic-toxic-egg-2",
+      "relic-burning-blood-3",
+      "relic-anchor-3"
     ],
     "countersOrRisks": [
       "Can underperform in low-draw decks.",
@@ -232,25 +232,25 @@
       "Risky when route demands immediate burst output."
     ],
     "unlockOrAvailability": "TBD",
-    "tier": "B",
+    "tier": "C",
     "synergyTags": [
-      "draw"
+      "strength"
     ],
-    "winRateEstimate": 50,
-    "difficulty": "Hard",
-    "actScaling": "Act 3 carry",
+    "winRateEstimate": 51,
+    "difficulty": "Medium",
+    "actScaling": "Act 2 stabilize",
     "bestWith": [
-      "build-orb-engine",
-      "build-lightning-burst",
-      "build-retain-tempo-2",
-      "build-zero-cost-burst-3"
+      "card-rebound-8",
+      "card-whirlwind-9",
+      "card-strike-10",
+      "card-glacier-10"
     ],
     "worstWith": [
-      "build-poison-cycle-4",
-      "build-exhaust-value-4",
-      "card-after-image"
+      "card-catalyst-11",
+      "card-adrenaline-11",
+      "card-after-image-12"
     ],
-    "updatedAt": "2026-02-24T20:16:28Z",
+    "updatedAt": "2026-02-25T00:37:03Z",
     "sources": [
       {
         "label": "Official STS2 Steam",
@@ -269,7 +269,7 @@
     "type": "keywords",
     "tags": [
       "synergy",
-      "mechanic"
+      "synergy"
     ],
     "shortSummary": "Dexterity is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
     "howToUse": [
@@ -279,943 +279,19 @@
       "Pivot out if elite route pressure outscales current setup."
     ],
     "synergies": [
-      "card-defend-7",
-      "card-noxious-fumes-7",
-      "card-electrodynamics-8",
-      "card-rebound-8",
-      "card-whirlwind-9",
-      "card-strike-10",
-      "card-glacier-10",
-      "card-catalyst-11",
-      "card-adrenaline-11",
-      "card-after-image-12",
-      "relic-shuriken",
-      "relic-bag-of-prep"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "C",
-    "synergyTags": [
-      "orb"
-    ],
-    "winRateEstimate": 62,
-    "difficulty": "Hard",
-    "actScaling": "Act 3 carry",
-    "bestWith": [
-      "card-defend-7",
-      "card-noxious-fumes-7",
-      "card-electrodynamics-8",
-      "card-rebound-8"
-    ],
-    "worstWith": [
-      "card-whirlwind-9",
-      "card-strike-10",
-      "card-glacier-10"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Buff"
-  },
-  {
-    "id": "kw-channel",
-    "name": "Channel",
-    "type": "keywords",
-    "tags": [
-      "synergy",
-      "timing"
-    ],
-    "shortSummary": "Channel is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "relic-toxic-egg-4",
-      "relic-burning-blood-5",
-      "relic-anchor-5",
-      "relic-cracked-core-6",
-      "relic-pocketwatch-6",
-      "relic-kunai-7",
-      "relic-incense-burner-7",
-      "relic-frozen-egg-8",
-      "relic-ring-of-the-snake-9",
-      "char-hexaghost-disciple",
-      "char-bloom-alchemist",
-      "char-runebinder-2"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "A",
-    "synergyTags": [
-      "energy"
-    ],
-    "winRateEstimate": 55,
-    "difficulty": "Medium",
-    "actScaling": "Act 1 spike",
-    "bestWith": [
-      "relic-toxic-egg-4",
-      "relic-burning-blood-5",
-      "relic-anchor-5",
-      "relic-cracked-core-6"
-    ],
-    "worstWith": [
-      "relic-pocketwatch-6",
-      "relic-kunai-7",
-      "relic-incense-burner-7"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Debuff"
-  },
-  {
-    "id": "kw-orb",
-    "name": "Orb",
-    "type": "keywords",
-    "tags": [
-      "synergy",
-      "synergy"
-    ],
-    "shortSummary": "Orb is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "card-noxious-fumes-11",
-      "card-electrodynamics-12",
-      "relic-cracked-core",
-      "relic-pocketwatch",
-      "relic-kunai-2",
-      "relic-incense-burner-2",
-      "relic-frozen-egg-3",
-      "relic-ring-of-the-snake-4",
-      "relic-preserved-insect-4",
-      "relic-shuriken-5",
-      "relic-bag-of-prep-5",
-      "relic-toxic-egg-6"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "S",
-    "synergyTags": [
-      "block"
-    ],
-    "winRateEstimate": 53,
-    "difficulty": "Hard",
-    "actScaling": "Act 3 carry",
-    "bestWith": [
-      "card-noxious-fumes-11",
-      "card-electrodynamics-12",
-      "relic-cracked-core",
-      "relic-pocketwatch"
-    ],
-    "worstWith": [
-      "relic-kunai-2",
-      "relic-incense-burner-2",
-      "relic-frozen-egg-3"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Debuff"
-  },
-  {
-    "id": "kw-retain",
-    "name": "Retain",
-    "type": "keywords",
-    "tags": [
-      "timing",
-      "mechanic"
-    ],
-    "shortSummary": "Retain is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "card-adrenaline-8",
-      "card-after-image-9",
-      "card-dualcast-9",
-      "card-bash-10",
-      "card-defend-11",
-      "card-noxious-fumes-11",
-      "card-electrodynamics-12",
-      "relic-cracked-core",
-      "relic-pocketwatch",
-      "relic-kunai-2",
-      "relic-incense-burner-2",
-      "relic-frozen-egg-3"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "A",
-    "synergyTags": [
-      "poison"
-    ],
-    "winRateEstimate": 70,
-    "difficulty": "Easy",
-    "actScaling": "Act 3 carry",
-    "bestWith": [
-      "card-adrenaline-8",
-      "card-after-image-9",
-      "card-dualcast-9",
-      "card-bash-10"
-    ],
-    "worstWith": [
-      "card-defend-11",
-      "card-noxious-fumes-11",
-      "card-electrodynamics-12"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Resource"
-  },
-  {
-    "id": "kw-exhaust",
-    "name": "Exhaust",
-    "type": "keywords",
-    "tags": [
-      "mechanic",
-      "synergy"
-    ],
-    "shortSummary": "Exhaust is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "card-dualcast-5",
-      "card-bash-6",
-      "card-defend-7",
-      "card-noxious-fumes-7",
-      "card-electrodynamics-8",
-      "card-rebound-8",
-      "card-whirlwind-9",
-      "card-strike-10",
-      "card-glacier-10",
-      "card-catalyst-11",
-      "card-adrenaline-11",
-      "card-after-image-12"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "A",
-    "synergyTags": [
-      "draw"
-    ],
-    "winRateEstimate": 60,
-    "difficulty": "Easy",
-    "actScaling": "Boss-focused",
-    "bestWith": [
-      "card-dualcast-5",
-      "card-bash-6",
-      "card-defend-7",
-      "card-noxious-fumes-7"
-    ],
-    "worstWith": [
-      "card-electrodynamics-8",
-      "card-rebound-8",
-      "card-whirlwind-9"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Debuff"
-  },
-  {
-    "id": "kw-scry",
-    "name": "Scry",
-    "type": "keywords",
-    "tags": [
-      "synergy",
-      "mechanic"
-    ],
-    "shortSummary": "Scry is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "relic-ring-of-the-snake-4",
-      "relic-preserved-insect-4",
-      "relic-shuriken-5",
-      "relic-bag-of-prep-5",
-      "relic-toxic-egg-6",
-      "relic-burning-blood-7",
-      "relic-anchor-7",
-      "relic-cracked-core-8",
-      "relic-pocketwatch-8",
-      "char-ironclad",
-      "char-aegis-knight",
-      "char-defect-2"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "B",
-    "synergyTags": [
-      "strength"
-    ],
-    "winRateEstimate": 55,
-    "difficulty": "Medium",
-    "actScaling": "Act 1 spike",
-    "bestWith": [
-      "relic-ring-of-the-snake-4",
-      "relic-preserved-insect-4",
-      "relic-shuriken-5",
-      "relic-bag-of-prep-5"
-    ],
-    "worstWith": [
-      "relic-toxic-egg-6",
-      "relic-burning-blood-7",
-      "relic-anchor-7"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Buff"
-  },
-  {
-    "id": "kw-stance",
-    "name": "Stance",
-    "type": "keywords",
-    "tags": [
-      "mechanic",
-      "synergy"
-    ],
-    "shortSummary": "Stance is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "kw-channel",
-      "kw-poison-2",
-      "kw-retain-2",
-      "kw-vulnerable-3",
-      "kw-scry-3",
-      "build-poison-cycle",
-      "build-exhaust-value",
-      "build-block-fortress-2",
-      "build-strength-ramp-3",
-      "build-debuff-control-3",
-      "build-multi-hit-scaling-4",
-      "card-catalyst"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "B",
-    "synergyTags": [
-      "strength"
-    ],
-    "winRateEstimate": 52,
-    "difficulty": "Medium",
-    "actScaling": "Act 1 spike",
-    "bestWith": [
-      "kw-channel",
-      "kw-poison-2",
-      "kw-retain-2",
-      "kw-vulnerable-3"
-    ],
-    "worstWith": [
-      "kw-scry-3",
-      "build-poison-cycle",
-      "build-exhaust-value"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Resource"
-  },
-  {
-    "id": "kw-echo",
-    "name": "Echo",
-    "type": "keywords",
-    "tags": [
-      "synergy",
-      "synergy"
-    ],
-    "shortSummary": "Echo is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "card-defend-6",
-      "card-noxious-fumes-6",
-      "card-electrodynamics-7",
-      "card-rebound-7",
-      "card-whirlwind-8",
-      "card-strike-9",
-      "card-glacier-9",
-      "card-catalyst-10",
-      "card-adrenaline-10",
-      "card-after-image-11",
-      "card-dualcast-11",
-      "card-bash-12"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "B",
-    "synergyTags": [
-      "orb"
-    ],
-    "winRateEstimate": 61,
-    "difficulty": "Easy",
-    "actScaling": "Act 3 carry",
-    "bestWith": [
-      "card-defend-6",
-      "card-noxious-fumes-6",
-      "card-electrodynamics-7",
-      "card-rebound-7"
-    ],
-    "worstWith": [
-      "card-whirlwind-8",
-      "card-strike-9",
-      "card-glacier-9"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Debuff"
-  },
-  {
-    "id": "kw-poison-2",
-    "name": "Poison 2",
-    "type": "keywords",
-    "tags": [
-      "mechanic",
-      "timing"
-    ],
-    "shortSummary": "Poison 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "card-strike-2",
-      "card-glacier-2",
-      "card-catalyst-3",
-      "card-adrenaline-3",
-      "card-after-image-4",
-      "card-dualcast-4",
-      "card-bash-5",
-      "card-defend-6",
-      "card-noxious-fumes-6",
-      "card-electrodynamics-7",
-      "card-rebound-7",
-      "card-whirlwind-8"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "B",
-    "synergyTags": [
-      "draw"
-    ],
-    "winRateEstimate": 54,
-    "difficulty": "Medium",
-    "actScaling": "Boss-focused",
-    "bestWith": [
-      "card-strike-2",
-      "card-glacier-2",
-      "card-catalyst-3",
-      "card-adrenaline-3"
-    ],
-    "worstWith": [
-      "card-after-image-4",
-      "card-dualcast-4",
-      "card-bash-5"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Buff"
-  },
-  {
-    "id": "kw-weak-2",
-    "name": "Weak 2",
-    "type": "keywords",
-    "tags": [
-      "timing",
-      "synergy"
-    ],
-    "shortSummary": "Weak 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "build-zero-cost-burst-4",
-      "card-strike",
-      "card-glacier",
-      "card-catalyst-2",
-      "card-adrenaline-2",
-      "card-after-image-3",
-      "card-dualcast-3",
-      "card-bash-4",
-      "card-defend-5",
-      "card-noxious-fumes-5",
-      "card-electrodynamics-6",
-      "card-rebound-6"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "B",
-    "synergyTags": [
-      "draw"
-    ],
-    "winRateEstimate": 50,
-    "difficulty": "Easy",
-    "actScaling": "Boss-focused",
-    "bestWith": [
-      "build-zero-cost-burst-4",
-      "card-strike",
-      "card-glacier",
-      "card-catalyst-2"
-    ],
-    "worstWith": [
-      "card-adrenaline-2",
-      "card-after-image-3",
-      "card-dualcast-3"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Trigger"
-  },
-  {
-    "id": "kw-vulnerable-2",
-    "name": "Vulnerable 2",
-    "type": "keywords",
-    "tags": [
-      "timing",
-      "timing"
-    ],
-    "shortSummary": "Vulnerable 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "card-adrenaline-10",
-      "card-after-image-11",
-      "card-dualcast-11",
-      "card-bash-12",
-      "relic-toxic-egg",
-      "relic-burning-blood-2",
-      "relic-anchor-2",
-      "relic-cracked-core-3",
-      "relic-pocketwatch-3",
-      "relic-kunai-4",
-      "relic-incense-burner-4",
-      "relic-frozen-egg-5"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "A",
-    "synergyTags": [
-      "orb"
-    ],
-    "winRateEstimate": 63,
-    "difficulty": "Hard",
-    "actScaling": "Act 3 carry",
-    "bestWith": [
-      "card-adrenaline-10",
-      "card-after-image-11",
-      "card-dualcast-11",
-      "card-bash-12"
-    ],
-    "worstWith": [
-      "relic-toxic-egg",
-      "relic-burning-blood-2",
-      "relic-anchor-2"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Debuff"
-  },
-  {
-    "id": "kw-strength-2",
-    "name": "Strength 2",
-    "type": "keywords",
-    "tags": [
-      "mechanic",
-      "timing"
-    ],
-    "shortSummary": "Strength 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "card-glacier-2",
-      "card-catalyst-3",
-      "card-adrenaline-3",
-      "card-after-image-4",
-      "card-dualcast-4",
-      "card-bash-5",
-      "card-defend-6",
-      "card-noxious-fumes-6",
-      "card-electrodynamics-7",
-      "card-rebound-7",
-      "card-whirlwind-8",
-      "card-strike-9"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "B",
-    "synergyTags": [
-      "block"
-    ],
-    "winRateEstimate": 64,
-    "difficulty": "Hard",
-    "actScaling": "Boss-focused",
-    "bestWith": [
-      "card-glacier-2",
-      "card-catalyst-3",
-      "card-adrenaline-3",
-      "card-after-image-4"
-    ],
-    "worstWith": [
-      "card-dualcast-4",
-      "card-bash-5",
-      "card-defend-6"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Trigger"
-  },
-  {
-    "id": "kw-dexterity-2",
-    "name": "Dexterity 2",
-    "type": "keywords",
-    "tags": [
-      "timing",
-      "timing"
-    ],
-    "shortSummary": "Dexterity 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "relic-pocketwatch-8",
-      "char-ironclad",
-      "char-aegis-knight",
-      "char-defect-2",
-      "kw-weak",
-      "kw-exhaust",
-      "kw-strength-2",
-      "kw-stance-2",
-      "kw-channel-3",
-      "kw-poison-4",
-      "build-zero-cost-burst",
-      "build-poison-cycle-2"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "S",
-    "synergyTags": [
-      "energy"
-    ],
-    "winRateEstimate": 53,
-    "difficulty": "Hard",
-    "actScaling": "Act 1 spike",
-    "bestWith": [
-      "relic-pocketwatch-8",
-      "char-ironclad",
-      "char-aegis-knight",
-      "char-defect-2"
-    ],
-    "worstWith": [
-      "kw-weak",
-      "kw-exhaust",
-      "kw-strength-2"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Debuff"
-  },
-  {
-    "id": "kw-channel-2",
-    "name": "Channel 2",
-    "type": "keywords",
-    "tags": [
-      "timing",
-      "mechanic"
-    ],
-    "shortSummary": "Channel 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
+      "card-defend-12",
+      "relic-burning-blood",
+      "relic-anchor",
+      "relic-cracked-core-2",
+      "relic-pocketwatch-2",
       "relic-kunai-3",
       "relic-incense-burner-3",
       "relic-frozen-egg-4",
       "relic-ring-of-the-snake-5",
       "relic-preserved-insect-5",
       "relic-shuriken-6",
-      "relic-bag-of-prep-6",
-      "relic-toxic-egg-7",
-      "relic-burning-blood-8",
-      "relic-anchor-8",
-      "relic-cracked-core-9",
-      "char-spire-hunter"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "B",
-    "synergyTags": [
-      "strength"
-    ],
-    "winRateEstimate": 65,
-    "difficulty": "Easy",
-    "actScaling": "Act 1 spike",
-    "bestWith": [
-      "relic-kunai-3",
-      "relic-incense-burner-3",
-      "relic-frozen-egg-4",
-      "relic-ring-of-the-snake-5"
-    ],
-    "worstWith": [
-      "relic-preserved-insect-5",
-      "relic-shuriken-6",
       "relic-bag-of-prep-6"
     ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Debuff"
-  },
-  {
-    "id": "kw-orb-2",
-    "name": "Orb 2",
-    "type": "keywords",
-    "tags": [
-      "mechanic",
-      "synergy"
-    ],
-    "shortSummary": "Orb 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "card-catalyst-4",
-      "card-adrenaline-4",
-      "card-after-image-5",
-      "card-dualcast-5",
-      "card-bash-6",
-      "card-defend-7",
-      "card-noxious-fumes-7",
-      "card-electrodynamics-8",
-      "card-rebound-8",
-      "card-whirlwind-9",
-      "card-strike-10",
-      "card-glacier-10"
-    ],
     "countersOrRisks": [
       "Can underperform in low-draw decks.",
       "May be weaker if scaling arrives too late.",
@@ -1224,89 +300,23 @@
     "unlockOrAvailability": "TBD",
     "tier": "B",
     "synergyTags": [
-      "energy"
+      "orb"
     ],
-    "winRateEstimate": 57,
-    "difficulty": "Medium",
-    "actScaling": "Boss-focused",
-    "bestWith": [
-      "card-catalyst-4",
-      "card-adrenaline-4",
-      "card-after-image-5",
-      "card-dualcast-5"
-    ],
-    "worstWith": [
-      "card-bash-6",
-      "card-defend-7",
-      "card-noxious-fumes-7"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Debuff"
-  },
-  {
-    "id": "kw-retain-2",
-    "name": "Retain 2",
-    "type": "keywords",
-    "tags": [
-      "synergy",
-      "mechanic"
-    ],
-    "shortSummary": "Retain 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "kw-orb",
-      "kw-weak-2",
-      "kw-exhaust-2",
-      "kw-strength-3",
-      "kw-stance-3",
-      "build-strength-ramp",
-      "build-debuff-control",
-      "build-multi-hit-scaling-2",
-      "build-orb-engine-3",
-      "build-lightning-burst-3",
-      "build-retain-tempo-4",
-      "card-electrodynamics"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "S",
-    "synergyTags": [
-      "energy"
-    ],
-    "winRateEstimate": 49,
-    "difficulty": "Hard",
+    "winRateEstimate": 54,
+    "difficulty": "Easy",
     "actScaling": "Act 2 stabilize",
     "bestWith": [
-      "kw-orb",
-      "kw-weak-2",
-      "kw-exhaust-2",
-      "kw-strength-3"
+      "card-defend-12",
+      "relic-burning-blood",
+      "relic-anchor",
+      "relic-cracked-core-2"
     ],
     "worstWith": [
-      "kw-stance-3",
-      "build-strength-ramp",
-      "build-debuff-control"
+      "relic-pocketwatch-2",
+      "relic-kunai-3",
+      "relic-incense-burner-3"
     ],
-    "updatedAt": "2026-02-24T20:16:28Z",
+    "updatedAt": "2026-02-25T00:37:03Z",
     "sources": [
       {
         "label": "Official STS2 Steam",
@@ -1320,278 +330,14 @@
     "category": "Resource"
   },
   {
-    "id": "kw-exhaust-2",
-    "name": "Exhaust 2",
-    "type": "keywords",
-    "tags": [
-      "synergy",
-      "synergy"
-    ],
-    "shortSummary": "Exhaust 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "char-ironclad-2",
-      "char-aegis-knight-2",
-      "kw-orb",
-      "kw-weak-2",
-      "kw-exhaust-2",
-      "kw-strength-3",
-      "kw-stance-3",
-      "build-strength-ramp",
-      "build-debuff-control",
-      "build-multi-hit-scaling-2",
-      "build-orb-engine-3",
-      "build-lightning-burst-3"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "A",
-    "synergyTags": [
-      "poison"
-    ],
-    "winRateEstimate": 71,
-    "difficulty": "Easy",
-    "actScaling": "Act 3 carry",
-    "bestWith": [
-      "char-ironclad-2",
-      "char-aegis-knight-2",
-      "kw-orb",
-      "kw-weak-2"
-    ],
-    "worstWith": [
-      "kw-exhaust-2",
-      "kw-strength-3",
-      "kw-stance-3"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Debuff"
-  },
-  {
-    "id": "kw-scry-2",
-    "name": "Scry 2",
-    "type": "keywords",
-    "tags": [
-      "timing",
-      "timing"
-    ],
-    "shortSummary": "Scry 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "card-defend",
-      "card-noxious-fumes",
-      "card-electrodynamics-2",
-      "card-rebound-2",
-      "card-whirlwind-3",
-      "card-strike-4",
-      "card-glacier-4",
-      "card-catalyst-5",
-      "card-adrenaline-5",
-      "card-after-image-6",
-      "card-dualcast-6",
-      "card-bash-7"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "S",
-    "synergyTags": [
-      "draw"
-    ],
-    "winRateEstimate": 52,
-    "difficulty": "Easy",
-    "actScaling": "Act 1 spike",
-    "bestWith": [
-      "card-defend",
-      "card-noxious-fumes",
-      "card-electrodynamics-2",
-      "card-rebound-2"
-    ],
-    "worstWith": [
-      "card-whirlwind-3",
-      "card-strike-4",
-      "card-glacier-4"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Trigger"
-  },
-  {
-    "id": "kw-stance-2",
-    "name": "Stance 2",
-    "type": "keywords",
-    "tags": [
-      "timing",
-      "mechanic"
-    ],
-    "shortSummary": "Stance 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "kw-stance-3",
-      "build-strength-ramp",
-      "build-debuff-control",
-      "build-multi-hit-scaling-2",
-      "build-orb-engine-3",
-      "build-lightning-burst-3",
-      "build-retain-tempo-4",
-      "card-electrodynamics",
-      "card-rebound",
-      "card-whirlwind-2",
-      "card-strike-3",
-      "card-glacier-3"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "A",
-    "synergyTags": [
-      "energy"
-    ],
-    "winRateEstimate": 61,
-    "difficulty": "Easy",
-    "actScaling": "Act 3 carry",
-    "bestWith": [
-      "kw-stance-3",
-      "build-strength-ramp",
-      "build-debuff-control",
-      "build-multi-hit-scaling-2"
-    ],
-    "worstWith": [
-      "build-orb-engine-3",
-      "build-lightning-burst-3",
-      "build-retain-tempo-4"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Buff"
-  },
-  {
-    "id": "kw-echo-2",
-    "name": "Echo 2",
-    "type": "keywords",
-    "tags": [
-      "timing",
-      "timing"
-    ],
-    "shortSummary": "Echo 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "relic-anchor-6",
-      "relic-cracked-core-7",
-      "relic-pocketwatch-7",
-      "relic-kunai-8",
-      "relic-incense-burner-8",
-      "char-defect",
-      "char-ember-monk",
-      "char-hexaghost-disciple-2",
-      "kw-strength",
-      "kw-stance",
-      "kw-channel-2",
-      "kw-poison-3"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "S",
-    "synergyTags": [
-      "poison"
-    ],
-    "winRateEstimate": 65,
-    "difficulty": "Easy",
-    "actScaling": "Act 3 carry",
-    "bestWith": [
-      "relic-anchor-6",
-      "relic-cracked-core-7",
-      "relic-pocketwatch-7",
-      "relic-kunai-8"
-    ],
-    "worstWith": [
-      "relic-incense-burner-8",
-      "char-defect",
-      "char-ember-monk"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Debuff"
-  },
-  {
-    "id": "kw-poison-3",
-    "name": "Poison 3",
+    "id": "kw-channel",
+    "name": "Channel",
     "type": "keywords",
     "tags": [
       "mechanic",
       "mechanic"
     ],
-    "shortSummary": "Poison 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "shortSummary": "Channel is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
     "howToUse": [
       "Take this when your deck needs immediate consistency.",
       "Pair with matching synergies instead of forcing it blindly.",
@@ -1618,13 +364,13 @@
       "Risky when route demands immediate burst output."
     ],
     "unlockOrAvailability": "TBD",
-    "tier": "A",
+    "tier": "S",
     "synergyTags": [
-      "poison"
+      "orb"
     ],
-    "winRateEstimate": 57,
-    "difficulty": "Medium",
-    "actScaling": "Boss-focused",
+    "winRateEstimate": 59,
+    "difficulty": "Easy",
+    "actScaling": "Act 2 stabilize",
     "bestWith": [
       "kw-vulnerable",
       "kw-scry",
@@ -1636,7 +382,7 @@
       "kw-weak-4",
       "build-block-fortress"
     ],
-    "updatedAt": "2026-02-24T20:16:28Z",
+    "updatedAt": "2026-02-25T00:37:03Z",
     "sources": [
       {
         "label": "Official STS2 Steam",
@@ -1650,80 +396,14 @@
     "category": "Debuff"
   },
   {
-    "id": "kw-weak-3",
-    "name": "Weak 3",
-    "type": "keywords",
-    "tags": [
-      "mechanic",
-      "mechanic"
-    ],
-    "shortSummary": "Weak 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "kw-stance",
-      "kw-channel-2",
-      "kw-poison-3",
-      "kw-retain-3",
-      "kw-vulnerable-4",
-      "build-multi-hit-scaling",
-      "build-orb-engine-2",
-      "build-lightning-burst-2",
-      "build-retain-tempo-3",
-      "build-zero-cost-burst-4",
-      "card-strike",
-      "card-glacier"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "C",
-    "synergyTags": [
-      "poison"
-    ],
-    "winRateEstimate": 72,
-    "difficulty": "Hard",
-    "actScaling": "Act 1 spike",
-    "bestWith": [
-      "kw-stance",
-      "kw-channel-2",
-      "kw-poison-3",
-      "kw-retain-3"
-    ],
-    "worstWith": [
-      "kw-vulnerable-4",
-      "build-multi-hit-scaling",
-      "build-orb-engine-2"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Resource"
-  },
-  {
-    "id": "kw-vulnerable-3",
-    "name": "Vulnerable 3",
+    "id": "kw-orb",
+    "name": "Orb",
     "type": "keywords",
     "tags": [
       "mechanic",
       "synergy"
     ],
-    "shortSummary": "Vulnerable 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "shortSummary": "Orb is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
     "howToUse": [
       "Take this when your deck needs immediate consistency.",
       "Pair with matching synergies instead of forcing it blindly.",
@@ -1731,140 +411,6 @@
       "Pivot out if elite route pressure outscales current setup."
     ],
     "synergies": [
-      "card-glacier-12",
-      "relic-frozen-egg",
-      "relic-ring-of-the-snake-2",
-      "relic-preserved-insect-2",
-      "relic-shuriken-3",
-      "relic-bag-of-prep-3",
-      "relic-toxic-egg-4",
-      "relic-burning-blood-5",
-      "relic-anchor-5",
-      "relic-cracked-core-6",
-      "relic-pocketwatch-6",
-      "relic-kunai-7"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "A",
-    "synergyTags": [
-      "block"
-    ],
-    "winRateEstimate": 66,
-    "difficulty": "Hard",
-    "actScaling": "Act 3 carry",
-    "bestWith": [
-      "card-glacier-12",
-      "relic-frozen-egg",
-      "relic-ring-of-the-snake-2",
-      "relic-preserved-insect-2"
-    ],
-    "worstWith": [
-      "relic-shuriken-3",
-      "relic-bag-of-prep-3",
-      "relic-toxic-egg-4"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Buff"
-  },
-  {
-    "id": "kw-strength-3",
-    "name": "Strength 3",
-    "type": "keywords",
-    "tags": [
-      "mechanic",
-      "mechanic"
-    ],
-    "shortSummary": "Strength 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "relic-ring-of-the-snake-2",
-      "relic-preserved-insect-2",
-      "relic-shuriken-3",
-      "relic-bag-of-prep-3",
-      "relic-toxic-egg-4",
-      "relic-burning-blood-5",
-      "relic-anchor-5",
-      "relic-cracked-core-6",
-      "relic-pocketwatch-6",
-      "relic-kunai-7",
-      "relic-incense-burner-7",
-      "relic-frozen-egg-8"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "A",
-    "synergyTags": [
-      "energy"
-    ],
-    "winRateEstimate": 54,
-    "difficulty": "Hard",
-    "actScaling": "Act 1 spike",
-    "bestWith": [
-      "relic-ring-of-the-snake-2",
-      "relic-preserved-insect-2",
-      "relic-shuriken-3",
-      "relic-bag-of-prep-3"
-    ],
-    "worstWith": [
-      "relic-toxic-egg-4",
-      "relic-burning-blood-5",
-      "relic-anchor-5"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Resource"
-  },
-  {
-    "id": "kw-dexterity-3",
-    "name": "Dexterity 3",
-    "type": "keywords",
-    "tags": [
-      "timing",
-      "timing"
-    ],
-    "shortSummary": "Dexterity 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "card-after-image-8",
-      "card-dualcast-8",
       "card-bash-9",
       "card-defend-10",
       "card-noxious-fumes-10",
@@ -1874,73 +420,9 @@
       "relic-kunai",
       "relic-incense-burner",
       "relic-frozen-egg-2",
-      "relic-ring-of-the-snake-3"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "C",
-    "synergyTags": [
-      "orb"
-    ],
-    "winRateEstimate": 49,
-    "difficulty": "Medium",
-    "actScaling": "Boss-focused",
-    "bestWith": [
-      "card-after-image-8",
-      "card-dualcast-8",
-      "card-bash-9",
-      "card-defend-10"
-    ],
-    "worstWith": [
-      "card-noxious-fumes-10",
-      "card-electrodynamics-11",
-      "card-rebound-11"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Trigger"
-  },
-  {
-    "id": "kw-channel-3",
-    "name": "Channel 3",
-    "type": "keywords",
-    "tags": [
-      "mechanic",
-      "mechanic"
-    ],
-    "shortSummary": "Channel 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "card-noxious-fumes-5",
-      "card-electrodynamics-6",
-      "card-rebound-6",
-      "card-whirlwind-7",
-      "card-strike-8",
-      "card-glacier-8",
-      "card-catalyst-9",
-      "card-adrenaline-9",
-      "card-after-image-10",
-      "card-dualcast-10",
-      "card-bash-11",
-      "card-defend-12"
+      "relic-ring-of-the-snake-3",
+      "relic-preserved-insect-3",
+      "relic-shuriken-4"
     ],
     "countersOrRisks": [
       "Can underperform in low-draw decks.",
@@ -1950,23 +432,23 @@
     "unlockOrAvailability": "TBD",
     "tier": "B",
     "synergyTags": [
-      "strength"
+      "energy"
     ],
-    "winRateEstimate": 60,
-    "difficulty": "Medium",
+    "winRateEstimate": 64,
+    "difficulty": "Easy",
     "actScaling": "Act 3 carry",
     "bestWith": [
-      "card-noxious-fumes-5",
-      "card-electrodynamics-6",
-      "card-rebound-6",
-      "card-whirlwind-7"
+      "card-bash-9",
+      "card-defend-10",
+      "card-noxious-fumes-10",
+      "card-electrodynamics-11"
     ],
     "worstWith": [
-      "card-strike-8",
-      "card-glacier-8",
-      "card-catalyst-9"
+      "card-rebound-11",
+      "card-whirlwind-12",
+      "relic-kunai"
     ],
-    "updatedAt": "2026-02-24T20:16:28Z",
+    "updatedAt": "2026-02-25T00:37:03Z",
     "sources": [
       {
         "label": "Official STS2 Steam",
@@ -1977,17 +459,17 @@
         "url": "https://www.megacrit.com/news"
       }
     ],
-    "category": "Trigger"
+    "category": "Debuff"
   },
   {
-    "id": "kw-orb-3",
-    "name": "Orb 3",
+    "id": "kw-retain",
+    "name": "Retain",
     "type": "keywords",
     "tags": [
       "synergy",
-      "synergy"
+      "timing"
     ],
-    "shortSummary": "Orb 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "shortSummary": "Retain is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
     "howToUse": [
       "Take this when your deck needs immediate consistency.",
       "Pair with matching synergies instead of forcing it blindly.",
@@ -1995,216 +477,18 @@
       "Pivot out if elite route pressure outscales current setup."
     ],
     "synergies": [
-      "relic-bag-of-prep-3",
-      "relic-toxic-egg-4",
-      "relic-burning-blood-5",
-      "relic-anchor-5",
-      "relic-cracked-core-6",
-      "relic-pocketwatch-6",
-      "relic-kunai-7",
-      "relic-incense-burner-7",
-      "relic-frozen-egg-8",
-      "relic-ring-of-the-snake-9",
-      "char-hexaghost-disciple",
-      "char-bloom-alchemist"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "A",
-    "synergyTags": [
-      "block"
-    ],
-    "winRateEstimate": 65,
-    "difficulty": "Easy",
-    "actScaling": "Act 3 carry",
-    "bestWith": [
-      "relic-bag-of-prep-3",
-      "relic-toxic-egg-4",
-      "relic-burning-blood-5",
-      "relic-anchor-5"
-    ],
-    "worstWith": [
-      "relic-cracked-core-6",
-      "relic-pocketwatch-6",
-      "relic-kunai-7"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Debuff"
-  },
-  {
-    "id": "kw-retain-3",
-    "name": "Retain 3",
-    "type": "keywords",
-    "tags": [
-      "timing",
-      "synergy"
-    ],
-    "shortSummary": "Retain 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "relic-anchor-5",
-      "relic-cracked-core-6",
-      "relic-pocketwatch-6",
-      "relic-kunai-7",
-      "relic-incense-burner-7",
-      "relic-frozen-egg-8",
-      "relic-ring-of-the-snake-9",
-      "char-hexaghost-disciple",
-      "char-bloom-alchemist",
-      "char-runebinder-2",
-      "kw-channel",
-      "kw-poison-2"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "A",
-    "synergyTags": [
-      "orb"
-    ],
-    "winRateEstimate": 72,
-    "difficulty": "Easy",
-    "actScaling": "Act 3 carry",
-    "bestWith": [
-      "relic-anchor-5",
-      "relic-cracked-core-6",
-      "relic-pocketwatch-6",
-      "relic-kunai-7"
-    ],
-    "worstWith": [
-      "relic-incense-burner-7",
-      "relic-frozen-egg-8",
-      "relic-ring-of-the-snake-9"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Buff"
-  },
-  {
-    "id": "kw-exhaust-3",
-    "name": "Exhaust 3",
-    "type": "keywords",
-    "tags": [
-      "mechanic",
-      "synergy"
-    ],
-    "shortSummary": "Exhaust 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "build-strength-ramp-4",
-      "build-debuff-control-4",
-      "card-whirlwind",
-      "card-strike-2",
-      "card-glacier-2",
-      "card-catalyst-3",
-      "card-adrenaline-3",
-      "card-after-image-4",
-      "card-dualcast-4",
-      "card-bash-5",
-      "card-defend-6",
-      "card-noxious-fumes-6"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "C",
-    "synergyTags": [
-      "energy"
-    ],
-    "winRateEstimate": 60,
-    "difficulty": "Medium",
-    "actScaling": "Boss-focused",
-    "bestWith": [
-      "build-strength-ramp-4",
-      "build-debuff-control-4",
-      "card-whirlwind",
-      "card-strike-2"
-    ],
-    "worstWith": [
-      "card-glacier-2",
-      "card-catalyst-3",
-      "card-adrenaline-3"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Debuff"
-  },
-  {
-    "id": "kw-scry-3",
-    "name": "Scry 3",
-    "type": "keywords",
-    "tags": [
-      "timing",
-      "mechanic"
-    ],
-    "shortSummary": "Scry 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "card-glacier-9",
-      "card-catalyst-10",
-      "card-adrenaline-10",
-      "card-after-image-11",
-      "card-dualcast-11",
-      "card-bash-12",
-      "relic-toxic-egg",
-      "relic-burning-blood-2",
-      "relic-anchor-2",
-      "relic-cracked-core-3",
-      "relic-pocketwatch-3",
-      "relic-kunai-4"
+      "relic-toxic-egg-3",
+      "relic-burning-blood-4",
+      "relic-anchor-4",
+      "relic-cracked-core-5",
+      "relic-pocketwatch-5",
+      "relic-kunai-6",
+      "relic-incense-burner-6",
+      "relic-frozen-egg-7",
+      "relic-ring-of-the-snake-8",
+      "relic-preserved-insect-8",
+      "relic-shuriken-9",
+      "char-runebinder"
     ],
     "countersOrRisks": [
       "Can underperform in low-draw decks.",
@@ -2213,222 +497,24 @@
     ],
     "unlockOrAvailability": "TBD",
     "tier": "S",
-    "synergyTags": [
-      "energy"
-    ],
-    "winRateEstimate": 57,
-    "difficulty": "Medium",
-    "actScaling": "Boss-focused",
-    "bestWith": [
-      "card-glacier-9",
-      "card-catalyst-10",
-      "card-adrenaline-10",
-      "card-after-image-11"
-    ],
-    "worstWith": [
-      "card-dualcast-11",
-      "card-bash-12",
-      "relic-toxic-egg"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Trigger"
-  },
-  {
-    "id": "kw-stance-3",
-    "name": "Stance 3",
-    "type": "keywords",
-    "tags": [
-      "timing",
-      "synergy"
-    ],
-    "shortSummary": "Stance 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "card-after-image-9",
-      "card-dualcast-9",
-      "card-bash-10",
-      "card-defend-11",
-      "card-noxious-fumes-11",
-      "card-electrodynamics-12",
-      "relic-cracked-core",
-      "relic-pocketwatch",
-      "relic-kunai-2",
-      "relic-incense-burner-2",
-      "relic-frozen-egg-3",
-      "relic-ring-of-the-snake-4"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "C",
-    "synergyTags": [
-      "orb"
-    ],
-    "winRateEstimate": 54,
-    "difficulty": "Easy",
-    "actScaling": "Act 3 carry",
-    "bestWith": [
-      "card-after-image-9",
-      "card-dualcast-9",
-      "card-bash-10",
-      "card-defend-11"
-    ],
-    "worstWith": [
-      "card-noxious-fumes-11",
-      "card-electrodynamics-12",
-      "relic-cracked-core"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Trigger"
-  },
-  {
-    "id": "kw-echo-3",
-    "name": "Echo 3",
-    "type": "keywords",
-    "tags": [
-      "mechanic",
-      "mechanic"
-    ],
-    "shortSummary": "Echo 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "kw-orb",
-      "kw-weak-2",
-      "kw-exhaust-2",
-      "kw-strength-3",
-      "kw-stance-3",
-      "build-strength-ramp",
-      "build-debuff-control",
-      "build-multi-hit-scaling-2",
-      "build-orb-engine-3",
-      "build-lightning-burst-3",
-      "build-retain-tempo-4",
-      "card-electrodynamics"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "B",
     "synergyTags": [
       "poison"
     ],
-    "winRateEstimate": 69,
-    "difficulty": "Easy",
+    "winRateEstimate": 53,
+    "difficulty": "Hard",
     "actScaling": "Act 2 stabilize",
     "bestWith": [
-      "kw-orb",
-      "kw-weak-2",
-      "kw-exhaust-2",
-      "kw-strength-3"
+      "relic-toxic-egg-3",
+      "relic-burning-blood-4",
+      "relic-anchor-4",
+      "relic-cracked-core-5"
     ],
     "worstWith": [
-      "kw-stance-3",
-      "build-strength-ramp",
-      "build-debuff-control"
+      "relic-pocketwatch-5",
+      "relic-kunai-6",
+      "relic-incense-burner-6"
     ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Trigger"
-  },
-  {
-    "id": "kw-poison-4",
-    "name": "Poison 4",
-    "type": "keywords",
-    "tags": [
-      "timing",
-      "timing"
-    ],
-    "shortSummary": "Poison 4 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "relic-shuriken-8",
-      "relic-bag-of-prep-8",
-      "char-silent",
-      "char-mist-weaver",
-      "char-watcher-2",
-      "kw-vulnerable",
-      "kw-scry",
-      "kw-dexterity-2",
-      "kw-echo-2",
-      "kw-orb-3",
-      "kw-weak-4",
-      "build-block-fortress"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "S",
-    "synergyTags": [
-      "orb"
-    ],
-    "winRateEstimate": 69,
-    "difficulty": "Easy",
-    "actScaling": "Act 1 spike",
-    "bestWith": [
-      "relic-shuriken-8",
-      "relic-bag-of-prep-8",
-      "char-silent",
-      "char-mist-weaver"
-    ],
-    "worstWith": [
-      "char-watcher-2",
-      "kw-vulnerable",
-      "kw-scry"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
+    "updatedAt": "2026-02-25T00:37:03Z",
     "sources": [
       {
         "label": "Official STS2 Steam",
@@ -2442,146 +528,14 @@
     "category": "Buff"
   },
   {
-    "id": "kw-weak-4",
-    "name": "Weak 4",
+    "id": "kw-exhaust",
+    "name": "Exhaust",
     "type": "keywords",
     "tags": [
       "timing",
-      "synergy"
-    ],
-    "shortSummary": "Weak 4 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "card-catalyst-3",
-      "card-adrenaline-3",
-      "card-after-image-4",
-      "card-dualcast-4",
-      "card-bash-5",
-      "card-defend-6",
-      "card-noxious-fumes-6",
-      "card-electrodynamics-7",
-      "card-rebound-7",
-      "card-whirlwind-8",
-      "card-strike-9",
-      "card-glacier-9"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "B",
-    "synergyTags": [
-      "orb"
-    ],
-    "winRateEstimate": 53,
-    "difficulty": "Easy",
-    "actScaling": "Act 3 carry",
-    "bestWith": [
-      "card-catalyst-3",
-      "card-adrenaline-3",
-      "card-after-image-4",
-      "card-dualcast-4"
-    ],
-    "worstWith": [
-      "card-bash-5",
-      "card-defend-6",
-      "card-noxious-fumes-6"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Debuff"
-  },
-  {
-    "id": "kw-vulnerable-4",
-    "name": "Vulnerable 4",
-    "type": "keywords",
-    "tags": [
-      "mechanic",
       "mechanic"
     ],
-    "shortSummary": "Vulnerable 4 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
-    "howToUse": [
-      "Take this when your deck needs immediate consistency.",
-      "Pair with matching synergies instead of forcing it blindly.",
-      "Prioritize draw and energy support before overcommitting.",
-      "Pivot out if elite route pressure outscales current setup."
-    ],
-    "synergies": [
-      "card-glacier-5",
-      "card-catalyst-6",
-      "card-adrenaline-6",
-      "card-after-image-7",
-      "card-dualcast-7",
-      "card-bash-8",
-      "card-defend-9",
-      "card-noxious-fumes-9",
-      "card-electrodynamics-10",
-      "card-rebound-10",
-      "card-whirlwind-11",
-      "card-strike-12"
-    ],
-    "countersOrRisks": [
-      "Can underperform in low-draw decks.",
-      "May be weaker if scaling arrives too late.",
-      "Risky when route demands immediate burst output."
-    ],
-    "unlockOrAvailability": "TBD",
-    "tier": "C",
-    "synergyTags": [
-      "energy"
-    ],
-    "winRateEstimate": 60,
-    "difficulty": "Easy",
-    "actScaling": "Act 3 carry",
-    "bestWith": [
-      "card-glacier-5",
-      "card-catalyst-6",
-      "card-adrenaline-6",
-      "card-after-image-7"
-    ],
-    "worstWith": [
-      "card-dualcast-7",
-      "card-bash-8",
-      "card-defend-9"
-    ],
-    "updatedAt": "2026-02-24T20:16:28Z",
-    "sources": [
-      {
-        "label": "Official STS2 Steam",
-        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
-      },
-      {
-        "label": "Mega Crit News",
-        "url": "https://www.megacrit.com/news"
-      }
-    ],
-    "category": "Buff"
-  },
-  {
-    "id": "kw-strength-4",
-    "name": "Strength 4",
-    "type": "keywords",
-    "tags": [
-      "timing",
-      "timing"
-    ],
-    "shortSummary": "Strength 4 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "shortSummary": "Exhaust is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
     "howToUse": [
       "Take this when your deck needs immediate consistency.",
       "Pair with matching synergies instead of forcing it blindly.",
@@ -2610,11 +564,11 @@
     "unlockOrAvailability": "TBD",
     "tier": "B",
     "synergyTags": [
-      "draw"
+      "block"
     ],
-    "winRateEstimate": 64,
-    "difficulty": "Hard",
-    "actScaling": "Act 1 spike",
+    "winRateEstimate": 66,
+    "difficulty": "Easy",
+    "actScaling": "Act 3 carry",
     "bestWith": [
       "char-watcher",
       "char-arc-duelist",
@@ -2626,7 +580,337 @@
       "kw-orb-2",
       "kw-weak-3"
     ],
-    "updatedAt": "2026-02-24T20:16:28Z",
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Debuff"
+  },
+  {
+    "id": "kw-scry",
+    "name": "Scry",
+    "type": "keywords",
+    "tags": [
+      "timing",
+      "timing"
+    ],
+    "shortSummary": "Scry is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-cracked-core-2",
+      "relic-pocketwatch-2",
+      "relic-kunai-3",
+      "relic-incense-burner-3",
+      "relic-frozen-egg-4",
+      "relic-ring-of-the-snake-5",
+      "relic-preserved-insect-5",
+      "relic-shuriken-6",
+      "relic-bag-of-prep-6",
+      "relic-toxic-egg-7",
+      "relic-burning-blood-8",
+      "relic-anchor-8"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 62,
+    "difficulty": "Easy",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "relic-cracked-core-2",
+      "relic-pocketwatch-2",
+      "relic-kunai-3",
+      "relic-incense-burner-3"
+    ],
+    "worstWith": [
+      "relic-frozen-egg-4",
+      "relic-ring-of-the-snake-5",
+      "relic-preserved-insect-5"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Buff"
+  },
+  {
+    "id": "kw-stance",
+    "name": "Stance",
+    "type": "keywords",
+    "tags": [
+      "mechanic",
+      "synergy"
+    ],
+    "shortSummary": "Stance is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-exhaust-value-2",
+      "build-block-fortress-3",
+      "build-strength-ramp-4",
+      "build-debuff-control-4",
+      "card-whirlwind",
+      "card-strike-2",
+      "card-glacier-2",
+      "card-catalyst-3",
+      "card-adrenaline-3",
+      "card-after-image-4",
+      "card-dualcast-4",
+      "card-bash-5"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 56,
+    "difficulty": "Hard",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "build-exhaust-value-2",
+      "build-block-fortress-3",
+      "build-strength-ramp-4",
+      "build-debuff-control-4"
+    ],
+    "worstWith": [
+      "card-whirlwind",
+      "card-strike-2",
+      "card-glacier-2"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Resource"
+  },
+  {
+    "id": "kw-echo",
+    "name": "Echo",
+    "type": "keywords",
+    "tags": [
+      "synergy",
+      "mechanic"
+    ],
+    "shortSummary": "Echo is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-cracked-core-5",
+      "relic-pocketwatch-5",
+      "relic-kunai-6",
+      "relic-incense-burner-6",
+      "relic-frozen-egg-7",
+      "relic-ring-of-the-snake-8",
+      "relic-preserved-insect-8",
+      "relic-shuriken-9",
+      "char-runebinder",
+      "char-silent-2",
+      "kw-poison",
+      "kw-retain"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 63,
+    "difficulty": "Medium",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "relic-cracked-core-5",
+      "relic-pocketwatch-5",
+      "relic-kunai-6",
+      "relic-incense-burner-6"
+    ],
+    "worstWith": [
+      "relic-frozen-egg-7",
+      "relic-ring-of-the-snake-8",
+      "relic-preserved-insect-8"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Buff"
+  },
+  {
+    "id": "kw-poison-2",
+    "name": "Poison 2",
+    "type": "keywords",
+    "tags": [
+      "mechanic",
+      "mechanic"
+    ],
+    "shortSummary": "Poison 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-debuff-control-3",
+      "build-multi-hit-scaling-4",
+      "card-catalyst",
+      "card-adrenaline",
+      "card-after-image-2",
+      "card-dualcast-2",
+      "card-bash-3",
+      "card-defend-4",
+      "card-noxious-fumes-4",
+      "card-electrodynamics-5",
+      "card-rebound-5",
+      "card-whirlwind-6"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 57,
+    "difficulty": "Medium",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "build-debuff-control-3",
+      "build-multi-hit-scaling-4",
+      "card-catalyst",
+      "card-adrenaline"
+    ],
+    "worstWith": [
+      "card-after-image-2",
+      "card-dualcast-2",
+      "card-bash-3"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Resource"
+  },
+  {
+    "id": "kw-weak-2",
+    "name": "Weak 2",
+    "type": "keywords",
+    "tags": [
+      "timing",
+      "synergy"
+    ],
+    "shortSummary": "Weak 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-bash-4",
+      "card-defend-5",
+      "card-noxious-fumes-5",
+      "card-electrodynamics-6",
+      "card-rebound-6",
+      "card-whirlwind-7",
+      "card-strike-8",
+      "card-glacier-8",
+      "card-catalyst-9",
+      "card-adrenaline-9",
+      "card-after-image-10",
+      "card-dualcast-10"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 62,
+    "difficulty": "Easy",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-bash-4",
+      "card-defend-5",
+      "card-noxious-fumes-5",
+      "card-electrodynamics-6"
+    ],
+    "worstWith": [
+      "card-rebound-6",
+      "card-whirlwind-7",
+      "card-strike-8"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
     "sources": [
       {
         "label": "Official STS2 Steam",
@@ -2638,5 +922,1721 @@
       }
     ],
     "category": "Trigger"
+  },
+  {
+    "id": "kw-vulnerable-2",
+    "name": "Vulnerable 2",
+    "type": "keywords",
+    "tags": [
+      "synergy",
+      "synergy"
+    ],
+    "shortSummary": "Vulnerable 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "char-hexaghost-disciple-2",
+      "kw-strength",
+      "kw-stance",
+      "kw-channel-2",
+      "kw-poison-3",
+      "kw-retain-3",
+      "kw-vulnerable-4",
+      "build-multi-hit-scaling",
+      "build-orb-engine-2",
+      "build-lightning-burst-2",
+      "build-retain-tempo-3",
+      "build-zero-cost-burst-4"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 60,
+    "difficulty": "Hard",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "char-hexaghost-disciple-2",
+      "kw-strength",
+      "kw-stance",
+      "kw-channel-2"
+    ],
+    "worstWith": [
+      "kw-poison-3",
+      "kw-retain-3",
+      "kw-vulnerable-4"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Debuff"
+  },
+  {
+    "id": "kw-strength-2",
+    "name": "Strength 2",
+    "type": "keywords",
+    "tags": [
+      "mechanic",
+      "mechanic"
+    ],
+    "shortSummary": "Strength 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "kw-weak",
+      "kw-exhaust",
+      "kw-strength-2",
+      "kw-stance-2",
+      "kw-channel-3",
+      "kw-poison-4",
+      "build-zero-cost-burst",
+      "build-poison-cycle-2",
+      "build-exhaust-value-2",
+      "build-block-fortress-3",
+      "build-strength-ramp-4",
+      "build-debuff-control-4"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 70,
+    "difficulty": "Easy",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "kw-weak",
+      "kw-exhaust",
+      "kw-strength-2",
+      "kw-stance-2"
+    ],
+    "worstWith": [
+      "kw-channel-3",
+      "kw-poison-4",
+      "build-zero-cost-burst"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Trigger"
+  },
+  {
+    "id": "kw-dexterity-2",
+    "name": "Dexterity 2",
+    "type": "keywords",
+    "tags": [
+      "timing",
+      "timing"
+    ],
+    "shortSummary": "Dexterity 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-preserved-insect-2",
+      "relic-shuriken-3",
+      "relic-bag-of-prep-3",
+      "relic-toxic-egg-4",
+      "relic-burning-blood-5",
+      "relic-anchor-5",
+      "relic-cracked-core-6",
+      "relic-pocketwatch-6",
+      "relic-kunai-7",
+      "relic-incense-burner-7",
+      "relic-frozen-egg-8",
+      "relic-ring-of-the-snake-9"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 59,
+    "difficulty": "Medium",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "relic-preserved-insect-2",
+      "relic-shuriken-3",
+      "relic-bag-of-prep-3",
+      "relic-toxic-egg-4"
+    ],
+    "worstWith": [
+      "relic-burning-blood-5",
+      "relic-anchor-5",
+      "relic-cracked-core-6"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Debuff"
+  },
+  {
+    "id": "kw-channel-2",
+    "name": "Channel 2",
+    "type": "keywords",
+    "tags": [
+      "synergy",
+      "timing"
+    ],
+    "shortSummary": "Channel 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "kw-echo-2",
+      "kw-orb-3",
+      "kw-weak-4",
+      "build-block-fortress",
+      "build-strength-ramp-2",
+      "build-debuff-control-2",
+      "build-multi-hit-scaling-3",
+      "build-orb-engine-4",
+      "build-lightning-burst-4",
+      "card-bash",
+      "card-defend-2",
+      "card-noxious-fumes-2"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 63,
+    "difficulty": "Easy",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "kw-echo-2",
+      "kw-orb-3",
+      "kw-weak-4",
+      "build-block-fortress"
+    ],
+    "worstWith": [
+      "build-strength-ramp-2",
+      "build-debuff-control-2",
+      "build-multi-hit-scaling-3"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Buff"
+  },
+  {
+    "id": "kw-orb-2",
+    "name": "Orb 2",
+    "type": "keywords",
+    "tags": [
+      "mechanic",
+      "synergy"
+    ],
+    "shortSummary": "Orb 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-zero-cost-burst",
+      "build-poison-cycle-2",
+      "build-exhaust-value-2",
+      "build-block-fortress-3",
+      "build-strength-ramp-4",
+      "build-debuff-control-4",
+      "card-whirlwind",
+      "card-strike-2",
+      "card-glacier-2",
+      "card-catalyst-3",
+      "card-adrenaline-3",
+      "card-after-image-4"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 60,
+    "difficulty": "Medium",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "build-zero-cost-burst",
+      "build-poison-cycle-2",
+      "build-exhaust-value-2",
+      "build-block-fortress-3"
+    ],
+    "worstWith": [
+      "build-strength-ramp-4",
+      "build-debuff-control-4",
+      "card-whirlwind"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Buff"
+  },
+  {
+    "id": "kw-retain-2",
+    "name": "Retain 2",
+    "type": "keywords",
+    "tags": [
+      "synergy",
+      "timing"
+    ],
+    "shortSummary": "Retain 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-kunai",
+      "relic-incense-burner",
+      "relic-frozen-egg-2",
+      "relic-ring-of-the-snake-3",
+      "relic-preserved-insect-3",
+      "relic-shuriken-4",
+      "relic-bag-of-prep-4",
+      "relic-toxic-egg-5",
+      "relic-burning-blood-6",
+      "relic-anchor-6",
+      "relic-cracked-core-7",
+      "relic-pocketwatch-7"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 60,
+    "difficulty": "Hard",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "relic-kunai",
+      "relic-incense-burner",
+      "relic-frozen-egg-2",
+      "relic-ring-of-the-snake-3"
+    ],
+    "worstWith": [
+      "relic-preserved-insect-3",
+      "relic-shuriken-4",
+      "relic-bag-of-prep-4"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Debuff"
+  },
+  {
+    "id": "kw-exhaust-2",
+    "name": "Exhaust 2",
+    "type": "keywords",
+    "tags": [
+      "mechanic",
+      "synergy"
+    ],
+    "shortSummary": "Exhaust 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-defend-12",
+      "relic-burning-blood",
+      "relic-anchor",
+      "relic-cracked-core-2",
+      "relic-pocketwatch-2",
+      "relic-kunai-3",
+      "relic-incense-burner-3",
+      "relic-frozen-egg-4",
+      "relic-ring-of-the-snake-5",
+      "relic-preserved-insect-5",
+      "relic-shuriken-6",
+      "relic-bag-of-prep-6"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 71,
+    "difficulty": "Hard",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-defend-12",
+      "relic-burning-blood",
+      "relic-anchor",
+      "relic-cracked-core-2"
+    ],
+    "worstWith": [
+      "relic-pocketwatch-2",
+      "relic-kunai-3",
+      "relic-incense-burner-3"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Debuff"
+  },
+  {
+    "id": "kw-scry-2",
+    "name": "Scry 2",
+    "type": "keywords",
+    "tags": [
+      "timing",
+      "mechanic"
+    ],
+    "shortSummary": "Scry 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-defend-2",
+      "card-noxious-fumes-2",
+      "card-electrodynamics-3",
+      "card-rebound-3",
+      "card-whirlwind-4",
+      "card-strike-5",
+      "card-glacier-5",
+      "card-catalyst-6",
+      "card-adrenaline-6",
+      "card-after-image-7",
+      "card-dualcast-7",
+      "card-bash-8"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 72,
+    "difficulty": "Easy",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-defend-2",
+      "card-noxious-fumes-2",
+      "card-electrodynamics-3",
+      "card-rebound-3"
+    ],
+    "worstWith": [
+      "card-whirlwind-4",
+      "card-strike-5",
+      "card-glacier-5"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Trigger"
+  },
+  {
+    "id": "kw-stance-2",
+    "name": "Stance 2",
+    "type": "keywords",
+    "tags": [
+      "synergy",
+      "synergy"
+    ],
+    "shortSummary": "Stance 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-ring-of-the-snake-5",
+      "relic-preserved-insect-5",
+      "relic-shuriken-6",
+      "relic-bag-of-prep-6",
+      "relic-toxic-egg-7",
+      "relic-burning-blood-8",
+      "relic-anchor-8",
+      "relic-cracked-core-9",
+      "char-spire-hunter",
+      "char-ironclad-2",
+      "char-aegis-knight-2",
+      "kw-orb"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 59,
+    "difficulty": "Hard",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "relic-ring-of-the-snake-5",
+      "relic-preserved-insect-5",
+      "relic-shuriken-6",
+      "relic-bag-of-prep-6"
+    ],
+    "worstWith": [
+      "relic-toxic-egg-7",
+      "relic-burning-blood-8",
+      "relic-anchor-8"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Trigger"
+  },
+  {
+    "id": "kw-echo-2",
+    "name": "Echo 2",
+    "type": "keywords",
+    "tags": [
+      "mechanic",
+      "timing"
+    ],
+    "shortSummary": "Echo 2 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-after-image-4",
+      "card-dualcast-4",
+      "card-bash-5",
+      "card-defend-6",
+      "card-noxious-fumes-6",
+      "card-electrodynamics-7",
+      "card-rebound-7",
+      "card-whirlwind-8",
+      "card-strike-9",
+      "card-glacier-9",
+      "card-catalyst-10",
+      "card-adrenaline-10"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "energy"
+    ],
+    "winRateEstimate": 59,
+    "difficulty": "Medium",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "card-after-image-4",
+      "card-dualcast-4",
+      "card-bash-5",
+      "card-defend-6"
+    ],
+    "worstWith": [
+      "card-noxious-fumes-6",
+      "card-electrodynamics-7",
+      "card-rebound-7"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Trigger"
+  },
+  {
+    "id": "kw-poison-3",
+    "name": "Poison 3",
+    "type": "keywords",
+    "tags": [
+      "mechanic",
+      "timing"
+    ],
+    "shortSummary": "Poison 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-block-fortress-3",
+      "build-strength-ramp-4",
+      "build-debuff-control-4",
+      "card-whirlwind",
+      "card-strike-2",
+      "card-glacier-2",
+      "card-catalyst-3",
+      "card-adrenaline-3",
+      "card-after-image-4",
+      "card-dualcast-4",
+      "card-bash-5",
+      "card-defend-6"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 59,
+    "difficulty": "Easy",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "build-block-fortress-3",
+      "build-strength-ramp-4",
+      "build-debuff-control-4",
+      "card-whirlwind"
+    ],
+    "worstWith": [
+      "card-strike-2",
+      "card-glacier-2",
+      "card-catalyst-3"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Trigger"
+  },
+  {
+    "id": "kw-weak-3",
+    "name": "Weak 3",
+    "type": "keywords",
+    "tags": [
+      "mechanic",
+      "timing"
+    ],
+    "shortSummary": "Weak 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-shuriken",
+      "relic-bag-of-prep",
+      "relic-toxic-egg-2",
+      "relic-burning-blood-3",
+      "relic-anchor-3",
+      "relic-cracked-core-4",
+      "relic-pocketwatch-4",
+      "relic-kunai-5",
+      "relic-incense-burner-5",
+      "relic-frozen-egg-6",
+      "relic-ring-of-the-snake-7",
+      "relic-preserved-insect-7"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "energy"
+    ],
+    "winRateEstimate": 66,
+    "difficulty": "Medium",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "relic-shuriken",
+      "relic-bag-of-prep",
+      "relic-toxic-egg-2",
+      "relic-burning-blood-3"
+    ],
+    "worstWith": [
+      "relic-anchor-3",
+      "relic-cracked-core-4",
+      "relic-pocketwatch-4"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Trigger"
+  },
+  {
+    "id": "kw-vulnerable-3",
+    "name": "Vulnerable 3",
+    "type": "keywords",
+    "tags": [
+      "mechanic",
+      "timing"
+    ],
+    "shortSummary": "Vulnerable 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-catalyst-3",
+      "card-adrenaline-3",
+      "card-after-image-4",
+      "card-dualcast-4",
+      "card-bash-5",
+      "card-defend-6",
+      "card-noxious-fumes-6",
+      "card-electrodynamics-7",
+      "card-rebound-7",
+      "card-whirlwind-8",
+      "card-strike-9",
+      "card-glacier-9"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "energy"
+    ],
+    "winRateEstimate": 59,
+    "difficulty": "Easy",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-catalyst-3",
+      "card-adrenaline-3",
+      "card-after-image-4",
+      "card-dualcast-4"
+    ],
+    "worstWith": [
+      "card-bash-5",
+      "card-defend-6",
+      "card-noxious-fumes-6"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Debuff"
+  },
+  {
+    "id": "kw-strength-3",
+    "name": "Strength 3",
+    "type": "keywords",
+    "tags": [
+      "synergy",
+      "timing"
+    ],
+    "shortSummary": "Strength 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-ring-of-the-snake-4",
+      "relic-preserved-insect-4",
+      "relic-shuriken-5",
+      "relic-bag-of-prep-5",
+      "relic-toxic-egg-6",
+      "relic-burning-blood-7",
+      "relic-anchor-7",
+      "relic-cracked-core-8",
+      "relic-pocketwatch-8",
+      "char-ironclad",
+      "char-aegis-knight",
+      "char-defect-2"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 69,
+    "difficulty": "Medium",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "relic-ring-of-the-snake-4",
+      "relic-preserved-insect-4",
+      "relic-shuriken-5",
+      "relic-bag-of-prep-5"
+    ],
+    "worstWith": [
+      "relic-toxic-egg-6",
+      "relic-burning-blood-7",
+      "relic-anchor-7"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Debuff"
+  },
+  {
+    "id": "kw-dexterity-3",
+    "name": "Dexterity 3",
+    "type": "keywords",
+    "tags": [
+      "timing",
+      "synergy"
+    ],
+    "shortSummary": "Dexterity 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-after-image",
+      "card-dualcast",
+      "card-bash-2",
+      "card-defend-3",
+      "card-noxious-fumes-3",
+      "card-electrodynamics-4",
+      "card-rebound-4",
+      "card-whirlwind-5",
+      "card-strike-6",
+      "card-glacier-6",
+      "card-catalyst-7",
+      "card-adrenaline-7"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 58,
+    "difficulty": "Hard",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-after-image",
+      "card-dualcast",
+      "card-bash-2",
+      "card-defend-3"
+    ],
+    "worstWith": [
+      "card-noxious-fumes-3",
+      "card-electrodynamics-4",
+      "card-rebound-4"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Debuff"
+  },
+  {
+    "id": "kw-channel-3",
+    "name": "Channel 3",
+    "type": "keywords",
+    "tags": [
+      "mechanic",
+      "mechanic"
+    ],
+    "shortSummary": "Channel 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-ring-of-the-snake-7",
+      "relic-preserved-insect-7",
+      "relic-shuriken-8",
+      "relic-bag-of-prep-8",
+      "char-silent",
+      "char-mist-weaver",
+      "char-watcher-2",
+      "kw-vulnerable",
+      "kw-scry",
+      "kw-dexterity-2",
+      "kw-echo-2",
+      "kw-orb-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 54,
+    "difficulty": "Medium",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "relic-ring-of-the-snake-7",
+      "relic-preserved-insect-7",
+      "relic-shuriken-8",
+      "relic-bag-of-prep-8"
+    ],
+    "worstWith": [
+      "char-silent",
+      "char-mist-weaver",
+      "char-watcher-2"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Resource"
+  },
+  {
+    "id": "kw-orb-3",
+    "name": "Orb 3",
+    "type": "keywords",
+    "tags": [
+      "synergy",
+      "timing"
+    ],
+    "shortSummary": "Orb 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "char-spire-hunter-2",
+      "kw-dexterity",
+      "kw-echo",
+      "kw-orb-2",
+      "kw-weak-3",
+      "kw-exhaust-3",
+      "kw-strength-4",
+      "build-retain-tempo",
+      "build-zero-cost-burst-2",
+      "build-poison-cycle-3",
+      "build-exhaust-value-3",
+      "build-block-fortress-4"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 58,
+    "difficulty": "Easy",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "char-spire-hunter-2",
+      "kw-dexterity",
+      "kw-echo",
+      "kw-orb-2"
+    ],
+    "worstWith": [
+      "kw-weak-3",
+      "kw-exhaust-3",
+      "kw-strength-4"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Debuff"
+  },
+  {
+    "id": "kw-retain-3",
+    "name": "Retain 3",
+    "type": "keywords",
+    "tags": [
+      "synergy",
+      "synergy"
+    ],
+    "shortSummary": "Retain 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-burning-blood-2",
+      "relic-anchor-2",
+      "relic-cracked-core-3",
+      "relic-pocketwatch-3",
+      "relic-kunai-4",
+      "relic-incense-burner-4",
+      "relic-frozen-egg-5",
+      "relic-ring-of-the-snake-6",
+      "relic-preserved-insect-6",
+      "relic-shuriken-7",
+      "relic-bag-of-prep-7",
+      "relic-toxic-egg-8"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 70,
+    "difficulty": "Easy",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "relic-burning-blood-2",
+      "relic-anchor-2",
+      "relic-cracked-core-3",
+      "relic-pocketwatch-3"
+    ],
+    "worstWith": [
+      "relic-kunai-4",
+      "relic-incense-burner-4",
+      "relic-frozen-egg-5"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Trigger"
+  },
+  {
+    "id": "kw-exhaust-3",
+    "name": "Exhaust 3",
+    "type": "keywords",
+    "tags": [
+      "mechanic",
+      "timing"
+    ],
+    "shortSummary": "Exhaust 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-preserved-insect-3",
+      "relic-shuriken-4",
+      "relic-bag-of-prep-4",
+      "relic-toxic-egg-5",
+      "relic-burning-blood-6",
+      "relic-anchor-6",
+      "relic-cracked-core-7",
+      "relic-pocketwatch-7",
+      "relic-kunai-8",
+      "relic-incense-burner-8",
+      "char-defect",
+      "char-ember-monk"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 68,
+    "difficulty": "Medium",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "relic-preserved-insect-3",
+      "relic-shuriken-4",
+      "relic-bag-of-prep-4",
+      "relic-toxic-egg-5"
+    ],
+    "worstWith": [
+      "relic-burning-blood-6",
+      "relic-anchor-6",
+      "relic-cracked-core-7"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Debuff"
+  },
+  {
+    "id": "kw-scry-3",
+    "name": "Scry 3",
+    "type": "keywords",
+    "tags": [
+      "synergy",
+      "mechanic"
+    ],
+    "shortSummary": "Scry 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-electrodynamics",
+      "card-rebound",
+      "card-whirlwind-2",
+      "card-strike-3",
+      "card-glacier-3",
+      "card-catalyst-4",
+      "card-adrenaline-4",
+      "card-after-image-5",
+      "card-dualcast-5",
+      "card-bash-6",
+      "card-defend-7",
+      "card-noxious-fumes-7"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 62,
+    "difficulty": "Easy",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "card-electrodynamics",
+      "card-rebound",
+      "card-whirlwind-2",
+      "card-strike-3"
+    ],
+    "worstWith": [
+      "card-glacier-3",
+      "card-catalyst-4",
+      "card-adrenaline-4"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Buff"
+  },
+  {
+    "id": "kw-stance-3",
+    "name": "Stance 3",
+    "type": "keywords",
+    "tags": [
+      "timing",
+      "mechanic"
+    ],
+    "shortSummary": "Stance 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-cracked-core-8",
+      "relic-pocketwatch-8",
+      "char-ironclad",
+      "char-aegis-knight",
+      "char-defect-2",
+      "kw-weak",
+      "kw-exhaust",
+      "kw-strength-2",
+      "kw-stance-2",
+      "kw-channel-3",
+      "kw-poison-4",
+      "build-zero-cost-burst"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 49,
+    "difficulty": "Easy",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "relic-cracked-core-8",
+      "relic-pocketwatch-8",
+      "char-ironclad",
+      "char-aegis-knight"
+    ],
+    "worstWith": [
+      "char-defect-2",
+      "kw-weak",
+      "kw-exhaust"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Debuff"
+  },
+  {
+    "id": "kw-echo-3",
+    "name": "Echo 3",
+    "type": "keywords",
+    "tags": [
+      "timing",
+      "synergy"
+    ],
+    "shortSummary": "Echo 3 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-burning-blood-3",
+      "relic-anchor-3",
+      "relic-cracked-core-4",
+      "relic-pocketwatch-4",
+      "relic-kunai-5",
+      "relic-incense-burner-5",
+      "relic-frozen-egg-6",
+      "relic-ring-of-the-snake-7",
+      "relic-preserved-insect-7",
+      "relic-shuriken-8",
+      "relic-bag-of-prep-8",
+      "char-silent"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 69,
+    "difficulty": "Hard",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "relic-burning-blood-3",
+      "relic-anchor-3",
+      "relic-cracked-core-4",
+      "relic-pocketwatch-4"
+    ],
+    "worstWith": [
+      "relic-kunai-5",
+      "relic-incense-burner-5",
+      "relic-frozen-egg-6"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Trigger"
+  },
+  {
+    "id": "kw-poison-4",
+    "name": "Poison 4",
+    "type": "keywords",
+    "tags": [
+      "mechanic",
+      "synergy"
+    ],
+    "shortSummary": "Poison 4 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-electrodynamics-6",
+      "card-rebound-6",
+      "card-whirlwind-7",
+      "card-strike-8",
+      "card-glacier-8",
+      "card-catalyst-9",
+      "card-adrenaline-9",
+      "card-after-image-10",
+      "card-dualcast-10",
+      "card-bash-11",
+      "card-defend-12",
+      "relic-burning-blood"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 61,
+    "difficulty": "Easy",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-electrodynamics-6",
+      "card-rebound-6",
+      "card-whirlwind-7",
+      "card-strike-8"
+    ],
+    "worstWith": [
+      "card-glacier-8",
+      "card-catalyst-9",
+      "card-adrenaline-9"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Buff"
+  },
+  {
+    "id": "kw-weak-4",
+    "name": "Weak 4",
+    "type": "keywords",
+    "tags": [
+      "timing",
+      "synergy"
+    ],
+    "shortSummary": "Weak 4 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-catalyst-11",
+      "card-adrenaline-11",
+      "card-after-image-12",
+      "relic-shuriken",
+      "relic-bag-of-prep",
+      "relic-toxic-egg-2",
+      "relic-burning-blood-3",
+      "relic-anchor-3",
+      "relic-cracked-core-4",
+      "relic-pocketwatch-4",
+      "relic-kunai-5",
+      "relic-incense-burner-5"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 70,
+    "difficulty": "Easy",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "card-catalyst-11",
+      "card-adrenaline-11",
+      "card-after-image-12",
+      "relic-shuriken"
+    ],
+    "worstWith": [
+      "relic-bag-of-prep",
+      "relic-toxic-egg-2",
+      "relic-burning-blood-3"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Buff"
+  },
+  {
+    "id": "kw-vulnerable-4",
+    "name": "Vulnerable 4",
+    "type": "keywords",
+    "tags": [
+      "mechanic",
+      "mechanic"
+    ],
+    "shortSummary": "Vulnerable 4 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-exhaust-value",
+      "build-block-fortress-2",
+      "build-strength-ramp-3",
+      "build-debuff-control-3",
+      "build-multi-hit-scaling-4",
+      "card-catalyst",
+      "card-adrenaline",
+      "card-after-image-2",
+      "card-dualcast-2",
+      "card-bash-3",
+      "card-defend-4",
+      "card-noxious-fumes-4"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 51,
+    "difficulty": "Easy",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "build-exhaust-value",
+      "build-block-fortress-2",
+      "build-strength-ramp-3",
+      "build-debuff-control-3"
+    ],
+    "worstWith": [
+      "build-multi-hit-scaling-4",
+      "card-catalyst",
+      "card-adrenaline"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Resource"
+  },
+  {
+    "id": "kw-strength-4",
+    "name": "Strength 4",
+    "type": "keywords",
+    "tags": [
+      "synergy",
+      "timing"
+    ],
+    "shortSummary": "Strength 4 is a high-impact keyword option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "char-ember-monk",
+      "char-hexaghost-disciple-2",
+      "kw-strength",
+      "kw-stance",
+      "kw-channel-2",
+      "kw-poison-3",
+      "kw-retain-3",
+      "kw-vulnerable-4",
+      "build-multi-hit-scaling",
+      "build-orb-engine-2",
+      "build-lightning-burst-2",
+      "build-retain-tempo-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "energy"
+    ],
+    "winRateEstimate": 50,
+    "difficulty": "Medium",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "char-ember-monk",
+      "char-hexaghost-disciple-2",
+      "kw-strength",
+      "kw-stance"
+    ],
+    "worstWith": [
+      "kw-channel-2",
+      "kw-poison-3",
+      "kw-retain-3"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "category": "Buff"
   }
 ]

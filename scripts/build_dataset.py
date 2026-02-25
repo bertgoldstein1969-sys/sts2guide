@@ -7,7 +7,7 @@ from pathlib import Path
 root = Path(__file__).resolve().parents[1]
 data = root / 'data'
 raw_file = data / 'raw_sources.json'
-now = datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
+now = None
 
 sources_default = [
     {"label":"Official STS2 Steam","url":"https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"},
@@ -92,10 +92,20 @@ def expand(bases,count,typ,prefix,tags_pool,context):
 
 
 def main():
+    global now
     context = "seed"
     if raw_file.exists():
         raw = json.loads(raw_file.read_text())
         context = str(raw.get("generatedAt", "seed"))
+
+    # Stable timestamp tied to source context to avoid no-op churn
+    try:
+        if context.isdigit():
+            now = datetime.datetime.utcfromtimestamp(int(context)).replace(microsecond=0).isoformat() + "Z"
+        else:
+            now = datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
+    except Exception:
+        now = datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
 
     cards=expand(card_bases,140,"cards","card",["damage","scaling","draw","control","tempo"],context)
     relics=expand(relic_bases,100,"relics","relic",["economy","survival","tempo","combo"],context)

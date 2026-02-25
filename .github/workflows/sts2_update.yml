@@ -1,4 +1,4 @@
-name: sts2-auto-update
+name: sts2-main-auto-update
 
 on:
   schedule:
@@ -8,9 +8,12 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
+          ref: main
           fetch-depth: 0
 
       - uses: actions/setup-python@v5
@@ -31,29 +34,18 @@ jobs:
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: Commit changes to branch
+      - name: Commit and push to main when changed
         if: steps.diff.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -B sts2-auto-update
           git add .
-          git commit -m "Auto-update STS2 datasets + pages" || true
-          git push --force origin sts2-auto-update
+          git commit -m "chore(auto): refresh STS2 data/pages" || true
+          git push origin HEAD:main
 
-      - name: Open/Update PR
-        if: steps.diff.outputs.changed == 'true'
-        uses: peter-evans/create-pull-request@v6
-        with:
-          branch: sts2-auto-update
-          base: main
-          title: "Auto-update STS2 datasets + pages"
-          commit-message: "Auto-update STS2 datasets + pages"
-          body: |
-            Automated update run.
-            - datasets refreshed
-            - pages regenerated
-            - sitemap/robots refreshed
+      - name: No changes summary
+        if: steps.diff.outputs.changed == 'false'
+        run: echo "NO_MEANINGFUL_CHANGES"
 
       - name: Upload debug artifacts
         if: always()

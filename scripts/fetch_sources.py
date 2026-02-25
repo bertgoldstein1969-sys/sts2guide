@@ -84,14 +84,15 @@ def main():
         raise SystemExit("simulated fetch failure")
 
     meta = load_meta()
-    raw = {"generatedAt": int(time.time()), "sources": {}, "errors": []}
-
     prev = {}
     if RAW.exists():
         try:
             prev = json.loads(RAW.read_text())
         except Exception:
             prev = {}
+
+    raw = {"generatedAt": int(time.time()), "sources": {}, "errors": []}
+    source_changed = False
 
     ok_sources = 0
     for key, url in SOURCES.items():
@@ -111,19 +112,34 @@ def main():
         body = res.get("body") or ""
         if key == "sts2_data":
             try:
-                raw["sources"][key] = json.loads(body)
+                parsed = json.loads(body)
+                raw["sources"][key] = parsed
                 ok_sources += 1
+                if parsed != prev.get("sources", {}).get(key):
+                    source_changed = True
             except Exception:
                 raw["errors"].append({"source": key, "error": "invalid json"})
                 if key in prev.get("sources", {}):
                     raw["sources"][key] = prev["sources"][key]
         else:
-            raw["sources"][key] = parse_rss(body)
+            parsed = parse_rss(body)
+            raw["sources"][key] = parsed
             ok_sources += 1
+            if parsed != prev.get("sources", {}).get(key):
+                source_changed = True
 
     # fail-safe: if everything failed and no previous sources were retained, do not overwrite RAW
     if ok_sources == 0 and not raw["sources"]:
         raise SystemExit("fetch failed for all sources; preserving last known good raw_sources.json")
+
+    # if nothing changed, keep previous generatedAt and avoid churn
+    prev_errors = prev.get("errors", []) if isinstance(prev, dict) else []
+    if not source_changed and raw["errors"] == prev_errors and prev.get("sources"):
+        raw["generatedAt"] = prev.get("generatedAt", raw["generatedAt"])
+        if RAW.exists():
+            save_meta(meta)
+            print(f"raw_sources_updated=0 sources_ok={ok_sources} errors={len(raw['errors'])}")
+            return
 
     tmp = RAW.with_suffix('.json.tmp')
     tmp.write_text(json.dumps(raw, indent=2))
