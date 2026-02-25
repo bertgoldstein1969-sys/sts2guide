@@ -39,8 +39,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          TS=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           git add .
-          git commit -m "chore(auto): refresh STS2 data/pages" || true
+          git commit -m "chore(sts2): auto-update datasets/pages [$TS]" || true
           git push origin HEAD:main
 
       - name: No changes summary
