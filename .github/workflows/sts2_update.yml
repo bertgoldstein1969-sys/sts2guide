@@ -29,7 +29,7 @@ jobs:
         id: diff
         run: |
           git add -A
-          git reset data/run_summary.json logs/ || true
+          git reset data/run_summary.json data/cache/http_meta.json logs/ || true
           if git diff --cached --quiet; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
