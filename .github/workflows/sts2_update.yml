@@ -25,10 +25,12 @@ jobs:
           chmod +x scripts/*.sh scripts/*.py
           make update-all
 
-      - name: Detect changes
+      - name: Detect meaningful changes
         id: diff
         run: |
-          if git diff --quiet; then
+          git add -A
+          git reset data/run_summary.json logs/ || true
+          if git diff --cached --quiet; then
             echo "changed=false" >> $GITHUB_OUTPUT
           else
             echo "changed=true" >> $GITHUB_OUTPUT
@@ -40,11 +42,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           TS=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          git add .
-          git commit -m "chore(sts2): auto-update datasets/pages [$TS]" || true
+          git commit -m "chore(sts2): auto-update datasets/pages [$TS]"
           git push origin HEAD:main
 
-      - name: No changes summary
+      - name: No meaningful changes summary
         if: steps.diff.outputs.changed == 'false'
         run: echo "NO_MEANINGFUL_CHANGES"
 
