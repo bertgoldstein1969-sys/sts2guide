@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "char-ironclad",
+    "name": "Ironclad",
+    "type": "characters",
+    "tags": [
+      "solo",
+      "advanced"
+    ],
+    "shortSummary": "Ironclad is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-pocketwatch-3",
+      "relic-kunai-4",
+      "relic-incense-burner-4",
+      "relic-frozen-egg-5",
+      "relic-ring-of-the-snake-6",
+      "relic-preserved-insect-6",
+      "relic-shuriken-7",
+      "relic-bag-of-prep-7",
+      "relic-toxic-egg-8",
+      "relic-burning-blood-9",
+      "char-watcher",
+      "char-arc-duelist"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 58,
+    "difficulty": "Hard",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "relic-pocketwatch-3",
+      "relic-kunai-4",
+      "relic-incense-burner-4",
+      "relic-frozen-egg-5"
+    ],
+    "worstWith": [
+      "relic-ring-of-the-snake-6",
+      "relic-preserved-insect-6",
+      "relic-shuriken-7"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Hybrid"
+  },
+  {
+    "id": "char-silent",
+    "name": "Silent",
+    "type": "characters",
+    "tags": [
+      "solo",
+      "starter"
+    ],
+    "shortSummary": "Silent is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-cracked-core-7",
+      "relic-pocketwatch-7",
+      "relic-kunai-8",
+      "relic-incense-burner-8",
+      "char-defect",
+      "char-ember-monk",
+      "char-hexaghost-disciple-2",
+      "kw-strength",
+      "kw-stance",
+      "kw-channel-2",
+      "kw-poison-3",
+      "kw-retain-3"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 58,
+    "difficulty": "Hard",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "relic-cracked-core-7",
+      "relic-pocketwatch-7",
+      "relic-kunai-8",
+      "relic-incense-burner-8"
+    ],
+    "worstWith": [
+      "char-defect",
+      "char-ember-monk",
+      "char-hexaghost-disciple-2"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Hybrid"
+  },
+  {
+    "id": "char-defect",
+    "name": "Defect",
+    "type": "characters",
+    "tags": [
+      "advanced",
+      "starter"
+    ],
+    "shortSummary": "Defect is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-bash-11",
+      "card-defend-12",
+      "relic-burning-blood",
+      "relic-anchor",
+      "relic-cracked-core-2",
+      "relic-pocketwatch-2",
+      "relic-kunai-3",
+      "relic-incense-burner-3",
+      "relic-frozen-egg-4",
+      "relic-ring-of-the-snake-5",
+      "relic-preserved-insect-5",
+      "relic-shuriken-6"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 72,
+    "difficulty": "Medium",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-bash-11",
+      "card-defend-12",
+      "relic-burning-blood",
+      "relic-anchor"
+    ],
+    "worstWith": [
+      "relic-cracked-core-2",
+      "relic-pocketwatch-2",
+      "relic-kunai-3"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Hybrid"
+  },
+  {
+    "id": "char-watcher",
+    "name": "Watcher",
+    "type": "characters",
+    "tags": [
+      "advanced",
+      "solo"
+    ],
+    "shortSummary": "Watcher is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-noxious-fumes-3",
+      "card-electrodynamics-4",
+      "card-rebound-4",
+      "card-whirlwind-5",
+      "card-strike-6",
+      "card-glacier-6",
+      "card-catalyst-7",
+      "card-adrenaline-7",
+      "card-after-image-8",
+      "card-dualcast-8",
+      "card-bash-9",
+      "card-defend-10"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 49,
+    "difficulty": "Hard",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "card-noxious-fumes-3",
+      "card-electrodynamics-4",
+      "card-rebound-4",
+      "card-whirlwind-5"
+    ],
+    "worstWith": [
+      "card-strike-6",
+      "card-glacier-6",
+      "card-catalyst-7"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Aggro"
+  },
+  {
+    "id": "char-hexaghost-disciple",
+    "name": "Hexaghost Disciple",
+    "type": "characters",
+    "tags": [
+      "advanced",
+      "starter"
+    ],
+    "shortSummary": "Hexaghost Disciple is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-defend-3",
+      "card-noxious-fumes-3",
+      "card-electrodynamics-4",
+      "card-rebound-4",
+      "card-whirlwind-5",
+      "card-strike-6",
+      "card-glacier-6",
+      "card-catalyst-7",
+      "card-adrenaline-7",
+      "card-after-image-8",
+      "card-dualcast-8",
+      "card-bash-9"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "energy"
+    ],
+    "winRateEstimate": 51,
+    "difficulty": "Medium",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-defend-3",
+      "card-noxious-fumes-3",
+      "card-electrodynamics-4",
+      "card-rebound-4"
+    ],
+    "worstWith": [
+      "card-whirlwind-5",
+      "card-strike-6",
+      "card-glacier-6"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Hybrid"
+  },
+  {
+    "id": "char-spire-hunter",
+    "name": "Spire Hunter",
+    "type": "characters",
+    "tags": [
+      "solo",
+      "starter"
+    ],
+    "shortSummary": "Spire Hunter is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-anchor",
+      "relic-cracked-core-2",
+      "relic-pocketwatch-2",
+      "relic-kunai-3",
+      "relic-incense-burner-3",
+      "relic-frozen-egg-4",
+      "relic-ring-of-the-snake-5",
+      "relic-preserved-insect-5",
+      "relic-shuriken-6",
+      "relic-bag-of-prep-6",
+      "relic-toxic-egg-7",
+      "relic-burning-blood-8"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 48,
+    "difficulty": "Easy",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "relic-anchor",
+      "relic-cracked-core-2",
+      "relic-pocketwatch-2",
+      "relic-kunai-3"
+    ],
+    "worstWith": [
+      "relic-incense-burner-3",
+      "relic-frozen-egg-4",
+      "relic-ring-of-the-snake-5"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Combo"
+  },
+  {
+    "id": "char-runebinder",
+    "name": "Runebinder",
+    "type": "characters",
+    "tags": [
+      "advanced",
+      "starter"
+    ],
+    "shortSummary": "Runebinder is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-after-image-6",
+      "card-dualcast-6",
+      "card-bash-7",
+      "card-defend-8",
+      "card-noxious-fumes-8",
+      "card-electrodynamics-9",
+      "card-rebound-9",
+      "card-whirlwind-10",
+      "card-strike-11",
+      "card-glacier-11",
+      "card-catalyst-12",
+      "relic-ring-of-the-snake"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 57,
+    "difficulty": "Medium",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "card-after-image-6",
+      "card-dualcast-6",
+      "card-bash-7",
+      "card-defend-8"
+    ],
+    "worstWith": [
+      "card-noxious-fumes-8",
+      "card-electrodynamics-9",
+      "card-rebound-9"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Hybrid"
+  },
+  {
+    "id": "char-aegis-knight",
+    "name": "Aegis Knight",
+    "type": "characters",
+    "tags": [
+      "starter",
+      "starter"
+    ],
+    "shortSummary": "Aegis Knight is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-defend-4",
+      "card-noxious-fumes-4",
+      "card-electrodynamics-5",
+      "card-rebound-5",
+      "card-whirlwind-6",
+      "card-strike-7",
+      "card-glacier-7",
+      "card-catalyst-8",
+      "card-adrenaline-8",
+      "card-after-image-9",
+      "card-dualcast-9",
+      "card-bash-10"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 68,
+    "difficulty": "Hard",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "card-defend-4",
+      "card-noxious-fumes-4",
+      "card-electrodynamics-5",
+      "card-rebound-5"
+    ],
+    "worstWith": [
+      "card-whirlwind-6",
+      "card-strike-7",
+      "card-glacier-7"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Hybrid"
+  },
+  {
+    "id": "char-mist-weaver",
+    "name": "Mist Weaver",
+    "type": "characters",
+    "tags": [
+      "advanced",
+      "solo"
+    ],
+    "shortSummary": "Mist Weaver is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-shuriken-3",
+      "relic-bag-of-prep-3",
+      "relic-toxic-egg-4",
+      "relic-burning-blood-5",
+      "relic-anchor-5",
+      "relic-cracked-core-6",
+      "relic-pocketwatch-6",
+      "relic-kunai-7",
+      "relic-incense-burner-7",
+      "relic-frozen-egg-8",
+      "relic-ring-of-the-snake-9",
+      "char-hexaghost-disciple"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 72,
+    "difficulty": "Hard",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "relic-shuriken-3",
+      "relic-bag-of-prep-3",
+      "relic-toxic-egg-4",
+      "relic-burning-blood-5"
+    ],
+    "worstWith": [
+      "relic-anchor-5",
+      "relic-cracked-core-6",
+      "relic-pocketwatch-6"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Hybrid"
+  },
+  {
+    "id": "char-ember-monk",
+    "name": "Ember Monk",
+    "type": "characters",
+    "tags": [
+      "starter",
+      "starter"
+    ],
+    "shortSummary": "Ember Monk is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "char-aegis-knight-2",
+      "kw-orb",
+      "kw-weak-2",
+      "kw-exhaust-2",
+      "kw-strength-3",
+      "kw-stance-3",
+      "build-strength-ramp",
+      "build-debuff-control",
+      "build-multi-hit-scaling-2",
+      "build-orb-engine-3",
+      "build-lightning-burst-3",
+      "build-retain-tempo-4"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "energy"
+    ],
+    "winRateEstimate": 56,
+    "difficulty": "Easy",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "char-aegis-knight-2",
+      "kw-orb",
+      "kw-weak-2",
+      "kw-exhaust-2"
+    ],
+    "worstWith": [
+      "kw-strength-3",
+      "kw-stance-3",
+      "build-strength-ramp"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Combo"
+  },
+  {
+    "id": "char-arc-duelist",
+    "name": "Arc Duelist",
+    "type": "characters",
+    "tags": [
+      "advanced",
+      "co-op"
+    ],
+    "shortSummary": "Arc Duelist is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-rebound-10",
+      "card-whirlwind-11",
+      "card-strike-12",
+      "card-glacier-12",
+      "relic-frozen-egg",
+      "relic-ring-of-the-snake-2",
+      "relic-preserved-insect-2",
+      "relic-shuriken-3",
+      "relic-bag-of-prep-3",
+      "relic-toxic-egg-4",
+      "relic-burning-blood-5",
+      "relic-anchor-5"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 51,
+    "difficulty": "Hard",
+    "actScaling": "Act 3 carry",
+    "bestWith": [
+      "card-rebound-10",
+      "card-whirlwind-11",
+      "card-strike-12",
+      "card-glacier-12"
+    ],
+    "worstWith": [
+      "relic-frozen-egg",
+      "relic-ring-of-the-snake-2",
+      "relic-preserved-insect-2"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Aggro"
+  },
+  {
+    "id": "char-bloom-alchemist",
+    "name": "Bloom Alchemist",
+    "type": "characters",
+    "tags": [
+      "solo",
+      "starter"
+    ],
+    "shortSummary": "Bloom Alchemist is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-electrodynamics",
+      "card-rebound",
+      "card-whirlwind-2",
+      "card-strike-3",
+      "card-glacier-3",
+      "card-catalyst-4",
+      "card-adrenaline-4",
+      "card-after-image-5",
+      "card-dualcast-5",
+      "card-bash-6",
+      "card-defend-7",
+      "card-noxious-fumes-7"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 65,
+    "difficulty": "Hard",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "card-electrodynamics",
+      "card-rebound",
+      "card-whirlwind-2",
+      "card-strike-3"
+    ],
+    "worstWith": [
+      "card-glacier-3",
+      "card-catalyst-4",
+      "card-adrenaline-4"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Combo"
+  },
+  {
+    "id": "char-ironclad-2",
+    "name": "Ironclad 2",
+    "type": "characters",
+    "tags": [
+      "solo",
+      "co-op"
+    ],
+    "shortSummary": "Ironclad 2 is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-noxious-fumes-5",
+      "card-electrodynamics-6",
+      "card-rebound-6",
+      "card-whirlwind-7",
+      "card-strike-8",
+      "card-glacier-8",
+      "card-catalyst-9",
+      "card-adrenaline-9",
+      "card-after-image-10",
+      "card-dualcast-10",
+      "card-bash-11",
+      "card-defend-12"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 60,
+    "difficulty": "Medium",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "card-noxious-fumes-5",
+      "card-electrodynamics-6",
+      "card-rebound-6",
+      "card-whirlwind-7"
+    ],
+    "worstWith": [
+      "card-strike-8",
+      "card-glacier-8",
+      "card-catalyst-9"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Control"
+  },
+  {
+    "id": "char-silent-2",
+    "name": "Silent 2",
+    "type": "characters",
+    "tags": [
+      "co-op",
+      "advanced"
+    ],
+    "shortSummary": "Silent 2 is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-electrodynamics-12",
+      "relic-cracked-core",
+      "relic-pocketwatch",
+      "relic-kunai-2",
+      "relic-incense-burner-2",
+      "relic-frozen-egg-3",
+      "relic-ring-of-the-snake-4",
+      "relic-preserved-insect-4",
+      "relic-shuriken-5",
+      "relic-bag-of-prep-5",
+      "relic-toxic-egg-6",
+      "relic-burning-blood-7"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "draw"
+    ],
+    "winRateEstimate": 60,
+    "difficulty": "Easy",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "card-electrodynamics-12",
+      "relic-cracked-core",
+      "relic-pocketwatch",
+      "relic-kunai-2"
+    ],
+    "worstWith": [
+      "relic-incense-burner-2",
+      "relic-frozen-egg-3",
+      "relic-ring-of-the-snake-4"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Control"
+  },
+  {
+    "id": "char-defect-2",
+    "name": "Defect 2",
+    "type": "characters",
+    "tags": [
+      "co-op",
+      "starter"
+    ],
+    "shortSummary": "Defect 2 is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-rebound-6",
+      "card-whirlwind-7",
+      "card-strike-8",
+      "card-glacier-8",
+      "card-catalyst-9",
+      "card-adrenaline-9",
+      "card-after-image-10",
+      "card-dualcast-10",
+      "card-bash-11",
+      "card-defend-12",
+      "relic-burning-blood",
+      "relic-anchor"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "B",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 66,
+    "difficulty": "Hard",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "card-rebound-6",
+      "card-whirlwind-7",
+      "card-strike-8",
+      "card-glacier-8"
+    ],
+    "worstWith": [
+      "card-catalyst-9",
+      "card-adrenaline-9",
+      "card-after-image-10"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Hybrid"
+  },
+  {
+    "id": "char-watcher-2",
+    "name": "Watcher 2",
+    "type": "characters",
+    "tags": [
+      "advanced",
+      "starter"
+    ],
+    "shortSummary": "Watcher 2 is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "kw-channel",
+      "kw-poison-2",
+      "kw-retain-2",
+      "kw-vulnerable-3",
+      "kw-scry-3",
+      "build-poison-cycle",
+      "build-exhaust-value",
+      "build-block-fortress-2",
+      "build-strength-ramp-3",
+      "build-debuff-control-3",
+      "build-multi-hit-scaling-4",
+      "card-catalyst"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "orb"
+    ],
+    "winRateEstimate": 69,
+    "difficulty": "Easy",
+    "actScaling": "Act 2 stabilize",
+    "bestWith": [
+      "kw-channel",
+      "kw-poison-2",
+      "kw-retain-2",
+      "kw-vulnerable-3"
+    ],
+    "worstWith": [
+      "kw-scry-3",
+      "build-poison-cycle",
+      "build-exhaust-value"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Aggro"
+  },
+  {
+    "id": "char-hexaghost-disciple-2",
+    "name": "Hexaghost Disciple 2",
+    "type": "characters",
+    "tags": [
+      "starter",
+      "advanced"
+    ],
+    "shortSummary": "Hexaghost Disciple 2 is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "card-dualcast-6",
+      "card-bash-7",
+      "card-defend-8",
+      "card-noxious-fumes-8",
+      "card-electrodynamics-9",
+      "card-rebound-9",
+      "card-whirlwind-10",
+      "card-strike-11",
+      "card-glacier-11",
+      "card-catalyst-12",
+      "relic-ring-of-the-snake",
+      "relic-preserved-insect"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "A",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 57,
+    "difficulty": "Hard",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "card-dualcast-6",
+      "card-bash-7",
+      "card-defend-8",
+      "card-noxious-fumes-8"
+    ],
+    "worstWith": [
+      "card-electrodynamics-9",
+      "card-rebound-9",
+      "card-whirlwind-10"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Combo"
+  },
+  {
+    "id": "char-spire-hunter-2",
+    "name": "Spire Hunter 2",
+    "type": "characters",
+    "tags": [
+      "starter",
+      "starter"
+    ],
+    "shortSummary": "Spire Hunter 2 is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "kw-orb-2",
+      "kw-weak-3",
+      "kw-exhaust-3",
+      "kw-strength-4",
+      "build-retain-tempo",
+      "build-zero-cost-burst-2",
+      "build-poison-cycle-3",
+      "build-exhaust-value-3",
+      "build-block-fortress-4",
+      "card-defend",
+      "card-noxious-fumes",
+      "card-electrodynamics-2"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "strength"
+    ],
+    "winRateEstimate": 60,
+    "difficulty": "Medium",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "kw-orb-2",
+      "kw-weak-3",
+      "kw-exhaust-3",
+      "kw-strength-4"
+    ],
+    "worstWith": [
+      "build-retain-tempo",
+      "build-zero-cost-burst-2",
+      "build-poison-cycle-3"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Aggro"
+  },
+  {
+    "id": "char-runebinder-2",
+    "name": "Runebinder 2",
+    "type": "characters",
+    "tags": [
+      "solo",
+      "starter"
+    ],
+    "shortSummary": "Runebinder 2 is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "relic-anchor-5",
+      "relic-cracked-core-6",
+      "relic-pocketwatch-6",
+      "relic-kunai-7",
+      "relic-incense-burner-7",
+      "relic-frozen-egg-8",
+      "relic-ring-of-the-snake-9",
+      "char-hexaghost-disciple",
+      "char-bloom-alchemist",
+      "char-runebinder-2",
+      "kw-channel",
+      "kw-poison-2"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "S",
+    "synergyTags": [
+      "poison"
+    ],
+    "winRateEstimate": 50,
+    "difficulty": "Easy",
+    "actScaling": "Boss-focused",
+    "bestWith": [
+      "relic-anchor-5",
+      "relic-cracked-core-6",
+      "relic-pocketwatch-6",
+      "relic-kunai-7"
+    ],
+    "worstWith": [
+      "relic-incense-burner-7",
+      "relic-frozen-egg-8",
+      "relic-ring-of-the-snake-9"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Aggro"
+  },
+  {
+    "id": "char-aegis-knight-2",
+    "name": "Aegis Knight 2",
+    "type": "characters",
+    "tags": [
+      "solo",
+      "solo"
+    ],
+    "shortSummary": "Aegis Knight 2 is a high-impact character option used to stabilize runs and push stronger act transitions.",
+    "howToUse": [
+      "Take this when your deck needs immediate consistency.",
+      "Pair with matching synergies instead of forcing it blindly.",
+      "Prioritize draw and energy support before overcommitting.",
+      "Pivot out if elite route pressure outscales current setup."
+    ],
+    "synergies": [
+      "build-retain-tempo-2",
+      "build-zero-cost-burst-3",
+      "build-poison-cycle-4",
+      "build-exhaust-value-4",
+      "card-after-image",
+      "card-dualcast",
+      "card-bash-2",
+      "card-defend-3",
+      "card-noxious-fumes-3",
+      "card-electrodynamics-4",
+      "card-rebound-4",
+      "card-whirlwind-5"
+    ],
+    "countersOrRisks": [
+      "Can underperform in low-draw decks.",
+      "May be weaker if scaling arrives too late.",
+      "Risky when route demands immediate burst output."
+    ],
+    "unlockOrAvailability": "TBD",
+    "tier": "C",
+    "synergyTags": [
+      "block"
+    ],
+    "winRateEstimate": 49,
+    "difficulty": "Hard",
+    "actScaling": "Act 1 spike",
+    "bestWith": [
+      "build-retain-tempo-2",
+      "build-zero-cost-burst-3",
+      "build-poison-cycle-4",
+      "build-exhaust-value-4"
+    ],
+    "worstWith": [
+      "card-after-image",
+      "card-dualcast",
+      "card-bash-2"
+    ],
+    "updatedAt": "2026-02-25T00:37:03Z",
+    "sources": [
+      {
+        "label": "Official STS2 Steam",
+        "url": "https://store.steampowered.com/app/2868840/Slay_the_Spire_2/"
+      },
+      {
+        "label": "Mega Crit News",
+        "url": "https://www.megacrit.com/news"
+      }
+    ],
+    "role": "Combo"
+  }
+]

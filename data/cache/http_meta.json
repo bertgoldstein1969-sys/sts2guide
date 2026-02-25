@@ -1,0 +1,17 @@
+{
+  "sts2_data": {
+    "etag": "W/\"2161-7fqx1RGGBUsSEMxjpps2v4R/AwQ\"",
+    "last_modified": null,
+    "fetched_at": 1771964187
+  },
+  "steam_news": {
+    "etag": null,
+    "last_modified": "Wed, 25 Feb 2026 00:36:00 GMT",
+    "fetched_at": 1771979822
+  },
+  "reddit_sts": {
+    "etag": null,
+    "last_modified": null,
+    "fetched_at": 1771979908
+  }
+}
