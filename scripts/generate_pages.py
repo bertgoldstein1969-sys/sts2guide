@@ -61,12 +61,12 @@ def page_html(item, ptype):
 <div class='section'>
 <div class='grid-2'>
 <div>
-<h1>{name}</h1><p class='section-sub'>{item['shortSummary']}</p><p>{''.join(facts)}</p>
-<div class='ad-slot' data-slot='1111111111' data-format='auto'></div>
+<h1>{name}</h1><p class='section-sub detail-sub'>{item['shortSummary']}</p><p class='detail-facts'>{''.join(facts)}</p>
 <div class='card' id='how'><h3>How to use</h3><ul>{how}</ul></div>
 <div class='card' id='mistakes'><h3>Common mistakes</h3><ul>{risks}</ul></div>
 <div class='card' id='spike'><h3>When it spikes</h3><p>{name} usually spikes when your deck has enough draw + energy support and your route gives room to scale before major elites/bosses.</p></div>
 <div class='card' id='synergies'><h3>Best synergies</h3><ul>{rel_html}</ul></div>
+<div class='ad-slot' data-slot='1111111111' data-format='auto'></div>
 <div class='grid-2'>
 <div class='card'><h3>Related builds</h3><ul>{rel_html}</ul></div>
 <div class='card'><h3>Best cards with this</h3><ul>{rel_html}</ul></div>

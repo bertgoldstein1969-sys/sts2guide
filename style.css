@@ -163,6 +163,8 @@ nav {
 .section::before{content:'';position:absolute;left:1.5rem;right:1.5rem;top:0;height:1px;background:linear-gradient(90deg,transparent,rgba(179,136,255,.22),transparent)}
 .section-title { font-size: 1.95rem; font-weight: 800; margin-bottom: 0.5rem; color: var(--text); letter-spacing: -.01em; }
 .section-sub { color: var(--muted); margin-bottom: 2rem; font-size: 1rem; }
+.detail-sub{margin-bottom:.85rem}
+.detail-facts{margin:0 0 1rem}
 
 .grid-3 { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; }
 .grid-2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; }
