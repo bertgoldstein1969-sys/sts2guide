@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import json
+import os
 import time
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -26,7 +27,9 @@ def load_meta():
 
 
 def save_meta(m):
-    META.write_text(json.dumps(m, indent=2))
+    tmp = META.with_suffix('.json.tmp')
+    tmp.write_text(json.dumps(m, indent=2))
+    tmp.replace(META)
 
 
 def fetch(url, key, meta, retries=3, timeout=20):
@@ -77,33 +80,56 @@ def parse_rss(xml_text, limit=40):
 
 
 def main():
+    if os.getenv("STS2_SIMULATE_FETCH_FAIL") == "1":
+        raise SystemExit("simulated fetch failure")
+
     meta = load_meta()
     raw = {"generatedAt": int(time.time()), "sources": {}, "errors": []}
 
+    prev = {}
+    if RAW.exists():
+        try:
+            prev = json.loads(RAW.read_text())
+        except Exception:
+            prev = {}
+
+    ok_sources = 0
     for key, url in SOURCES.items():
         res = fetch(url, key, meta)
         if res["status"] == "error":
             raw["errors"].append({"source": key, "error": res.get("error")})
-            continue
-
-        if res["status"] == "not_modified" and RAW.exists():
-            prev = json.loads(RAW.read_text())
             if key in prev.get("sources", {}):
                 raw["sources"][key] = prev["sources"][key]
+            continue
+
+        if res["status"] == "not_modified":
+            if key in prev.get("sources", {}):
+                raw["sources"][key] = prev["sources"][key]
+                ok_sources += 1
             continue
 
         body = res.get("body") or ""
         if key == "sts2_data":
             try:
                 raw["sources"][key] = json.loads(body)
+                ok_sources += 1
             except Exception:
                 raw["errors"].append({"source": key, "error": "invalid json"})
+                if key in prev.get("sources", {}):
+                    raw["sources"][key] = prev["sources"][key]
         else:
             raw["sources"][key] = parse_rss(body)
+            ok_sources += 1
 
-    RAW.write_text(json.dumps(raw, indent=2))
+    # fail-safe: if everything failed and no previous sources were retained, do not overwrite RAW
+    if ok_sources == 0 and not raw["sources"]:
+        raise SystemExit("fetch failed for all sources; preserving last known good raw_sources.json")
+
+    tmp = RAW.with_suffix('.json.tmp')
+    tmp.write_text(json.dumps(raw, indent=2))
+    tmp.replace(RAW)
     save_meta(meta)
-    print("raw_sources_updated=1")
+    print(f"raw_sources_updated=1 sources_ok={ok_sources} errors={len(raw['errors'])}")
 
 
 if __name__ == "__main__":

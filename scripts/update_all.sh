@@ -9,47 +9,42 @@ RUN_TS="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
 LOG="logs/update_all_${RUN_TS//[:]/-}.log"
 SUMMARY_JSON="data/run_summary.json"
 
-before_hash="$(git ls-files -s | shasum | awk '{print $1}')"
+DATA_FILES=(data/cards.json data/relics.json data/characters.json data/keywords.json data/builds.json)
+RAW_FILE="data/raw_sources.json"
 
-{
-  echo "[update_all] start $RUN_TS"
-  echo "1) fetch sources"
-  python3 scripts/fetch_sources.py
+hash_files() {
+  shasum "$@" 2>/dev/null | shasum | awk '{print $1}'
+}
 
-  echo "2) build datasets"
-  python3 scripts/build_dataset.py
+DATA_HASH_BEFORE="$(hash_files "${DATA_FILES[@]}")"
 
-  echo "3) validate datasets"
-  python3 scripts/validate_data.py
+echo "[update_all] start $RUN_TS" | tee "$LOG"
 
-  echo "4) generate pages"
-  python3 scripts/generate_pages.py
+run_step() {
+  local name="$1"; shift
+  echo "[$(date -u +%H:%M:%S)] STEP $name" | tee -a "$LOG"
+  if "$@" >>"$LOG" 2>&1; then
+    echo "[$(date -u +%H:%M:%S)] OK   $name" | tee -a "$LOG"
+    return 0
+  fi
+  echo "[$(date -u +%H:%M:%S)] FAIL $name" | tee -a "$LOG"
+  return 1
+}
 
-  echo "5) sanity checks"
-  python3 scripts/sanity_check.py
+# 1) fetch (fail-safe at source script layer)
+if ! run_step "fetch_sources" python3 scripts/fetch_sources.py; then
+  echo "[update_all] fetch failed -> preserving last known good dataset/pages" | tee -a "$LOG"
+  exit 1
+fi
 
-  echo "6) update UI timestamps"
-  python3 - <<'PY'
-from pathlib import Path
-from datetime import datetime, timezone
-root=Path('.')
-now=datetime.now(timezone.utc).isoformat()
-for fp in [root/'index.html',root/'updates.html',root/'early-access.html']:
-    t=fp.read_text()
-    # minimal stamp marker for operator checks
-    marker='data-last-updated="'
-    if marker in t:
-      import re
-      t=re.sub(r'data-last-updated="[^"]*"', f'data-last-updated="{now}"', t)
-    else:
-      t=t.replace('<body>', f'<body data-last-updated="{now}">', 1)
-    fp.write_text(t)
-print('timestamps updated')
-PY
+# 2) build
+run_step "build_dataset" python3 scripts/build_dataset.py
 
-  echo "7) run summary"
-  python3 - <<'PY'
-import json,glob,datetime
+DATA_HASH_AFTER_BUILD="$(hash_files "${DATA_FILES[@]}")"
+if [[ "$DATA_HASH_BEFORE" == "$DATA_HASH_AFTER_BUILD" ]]; then
+  echo "[update_all] no data changes detected, skipping generate/sanity" | tee -a "$LOG"
+  python3 - <<'PY' >>"$LOG" 2>&1
+import json, datetime
 from pathlib import Path
 root=Path('.')
 data=root/'data'
@@ -57,46 +52,81 @@ counts={}
 for k in ['cards','relics','characters','keywords','builds']:
     arr=json.loads((data/f'{k}.json').read_text())
     counts[k]=len(arr)
-
-# rough diff/new/removed by ids vs previous run snapshot
-prev_path=data/'change_log.json'
-prev={}
-if prev_path.exists():
-    try: prev=json.loads(prev_path.read_text())
-    except: prev={}
-prev_ids=set(prev.get('allIds',[]))
-cur_ids=set()
-for k in ['cards','relics','characters','keywords','builds']:
-    arr=json.loads((data/f'{k}.json').read_text())
-    cur_ids.update([x['id'] for x in arr])
-new_ids=sorted(cur_ids-prev_ids)
-removed_ids=sorted(prev_ids-cur_ids)
-updated_ids=sorted(cur_ids & prev_ids)[:50]
 out={
   'runAt': datetime.datetime.utcnow().replace(microsecond=0).isoformat()+'Z',
+  'dataChanged': False,
+  'pagesGenerated': 0,
   'counts': counts,
-  'newCount': len(new_ids),
-  'removedCount': len(removed_ids),
-  'updatedCount': len(updated_ids),
-  'new': new_ids[:50],
-  'removed': removed_ids[:50],
-  'updated': updated_ids,
-  'allIds': sorted(list(cur_ids))
+  'errors': []
 }
-(data/'change_log.json').write_text(json.dumps(out,indent=2))
+(data/'run_summary.json').write_text(json.dumps(out,indent=2))
+print(json.dumps(out,indent=2))
+PY
+  echo "NO_MEANINGFUL_CHANGES" | tee -a "$LOG"
+  exit 0
+fi
+
+# 3) validate gate (hard stop on fail)
+run_step "validate_data" python3 scripts/validate_data.py
+
+# 4) atomic-ish page generation: backup then restore on failure
+BACKUP_DIR="$(mktemp -d /tmp/sts2-pages-backup.XXXXXX)"
+for p in cards relics builds keywords characters tier sitemap.xml robots.txt; do
+  if [[ -e "$p" ]]; then
+    cp -R "$p" "$BACKUP_DIR/"
+  fi
+done
+
+restore_backup() {
+  for p in cards relics builds keywords characters tier sitemap.xml robots.txt; do
+    rm -rf "$p"
+    if [[ -e "$BACKUP_DIR/$p" ]]; then
+      cp -R "$BACKUP_DIR/$p" "$p"
+    fi
+  done
+}
+
+if ! run_step "generate_pages" python3 scripts/generate_pages.py; then
+  echo "[update_all] generate failed -> restoring previous site output" | tee -a "$LOG"
+  restore_backup
+  rm -rf "$BACKUP_DIR"
+  exit 1
+fi
+
+if ! run_step "sanity_check" python3 scripts/sanity_check.py; then
+  echo "[update_all] sanity failed -> restoring previous site output" | tee -a "$LOG"
+  restore_backup
+  rm -rf "$BACKUP_DIR"
+  exit 1
+fi
+
+rm -rf "$BACKUP_DIR"
+
+# 5) summary
+python3 - <<'PY' >>"$LOG" 2>&1
+import json, datetime
+from pathlib import Path
+root=Path('.')
+data=root/'data'
+counts={}
+for k in ['cards','relics','characters','keywords','builds']:
+    arr=json.loads((data/f'{k}.json').read_text())
+    counts[k]=len(arr)
+pages=0
+for s in ['cards','relics','builds','keywords','characters']:
+    p=root/s
+    if p.exists():
+      pages += len([x for x in p.iterdir() if x.is_dir()])
+out={
+  'runAt': datetime.datetime.utcnow().replace(microsecond=0).isoformat()+'Z',
+  'dataChanged': True,
+  'pagesGenerated': pages,
+  'counts': counts,
+  'errors': []
+}
 (data/'run_summary.json').write_text(json.dumps(out,indent=2))
 print(json.dumps(out,indent=2))
 PY
 
-  echo "[update_all] done"
-} | tee "$LOG"
-
-after_hash="$(git ls-files -s | shasum | awk '{print $1}')"
-
-if [[ "$before_hash" == "$after_hash" ]]; then
-  echo "NO_MEANINGFUL_CHANGES"
-  exit 0
-fi
-
-echo "CHANGES_DETECTED"
+echo "[update_all] done" | tee -a "$LOG"
 exit 0
